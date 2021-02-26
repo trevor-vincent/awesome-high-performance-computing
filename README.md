@@ -7,6 +7,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 ## Table of Contents
 
  - [Software](#software)
+ - [Clusters](#software)
  - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
  - [Datasets](#datasets)
@@ -54,6 +55,14 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [Fiber Tasking Lib: A Library for Enabling Task-based Multi-threading using Fibers](https://github.com/RichieSams/FiberTaskingLib)
 - [coro-async: A lite C++ coroutine TS based networking library](https://github.com/arun11299/coro-async)
 
+## Clusters
+
+### Future
+ - [Frontier] (https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
+ - [El Capitan ] (https://www.amd.com/en/products/exascale-era) - 2023 - AMD-based - ~1.5 exaflops
+ - 
+### Current
+https://www.top500.org/lists/top500/2020/11/
 
 ## Presentations
 
@@ -107,6 +116,10 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 
 ## Links
+
+#### Forums
+ - [r/hpc](https://www.reddit.com/r/HPC/)
+ - [r/homelab](https://www.reddit.com/r/homelab/)
 
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
