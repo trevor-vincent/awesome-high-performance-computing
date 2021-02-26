@@ -58,9 +58,9 @@ All the lists in this page are either in alphabetical order or chronological ord
 ## Clusters
 
 ### Future
- - [Frontier] (https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
- - [El Capitan ] (https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
- - [Aurora] (https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
+ - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
+ - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
+ - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
 
 ### Current
 https://www.top500.org/lists/top500/2020/11/
