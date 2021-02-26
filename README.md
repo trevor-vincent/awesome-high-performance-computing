@@ -39,22 +39,6 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
 
-#### Concurrent Data Structures
-
-- [Boost.Lockfree: Thread-safe and Lock-free Containers](https://github.com/boostorg/lockfree)
-- [ConcurrentQueue: A Fast Multi-producer Multi-consumer Lock-free Concurrent Queue in C++](https://github.com/cameron314/concurrentqueue)
-- [libcds: A C++ library of Concurrent Data Structures](https://github.com/khizmax/libcds)
-- [Parallel-Hashmap: A Header-only Very Fast and Memory-friendly Hash Map](https://github.com/greg7mdp/parallel-hashmap)
-- [ReaderWriterQueue: A Fast Single-producer Single-consumer Lock-free Queue in C++](https://github.com/cameron314/readerwriterqueue)
-- [xenium: A C++ library Providing Various Concurrent Data Structures and Reclamation Schemes](https://github.com/mpoeter/xenium)
-
-#### Coroutine and Fiber
-
-- [Boost.Fiber: A Framework for Userland-threads Programming and Scheduling](https://github.com/boostorg/fiber)
-- [cppcoro: A Library for C++ Coroutines Abstractions for the Coroutines TS](https://github.com/lewissbaker/cppcoro)
-- [Fiber Tasking Lib: A Library for Enabling Task-based Multi-threading using Fibers](https://github.com/RichieSams/FiberTaskingLib)
-- [coro-async: A lite C++ coroutine TS based networking library](https://github.com/arun11299/coro-async)
-
 ## Clusters
 
 ### Future
@@ -63,7 +47,7 @@ All the lists in this page are either in alphabetical order or chronological ord
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
 
 ### Current
-https://www.top500.org/lists/top500/2020/11/
+ - https://www.top500.org/lists/top500/2020/11/
 
 ## Presentations
 
