@@ -11,6 +11,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
  - [Learning Resources](#learning-resources)
  - [Datasets](#datasets)
  - [Links](#links)
+ - [Acknowledgements](#acknowledgements )
 
 All the lists in this page are either in alphabetical order or chronological order.
 
@@ -127,7 +128,7 @@ All the lists in this page are either in alphabetical order or chronological ord
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
 
 
-* * *
+## Acknowledgements
 
 This repo started from the great curated list https://github.com/taskflow/awesome-parallel-computing
 
