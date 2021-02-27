@@ -50,7 +50,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 #### Cluster Management
 
 - [Slurm](https://slurm.schedmd.com/overview.html)
-- [Portable Batch System (PBS)](Portable Batch System)
+- [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 
 ## Presentations
 
