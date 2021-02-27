@@ -1,4 +1,4 @@
-# Awesome High Performance Computing Resources <img align="right" width="20%" src="parallel-computing.jpg">
+# Awesome High Performance Computing Resources
 
 A curated list of awesome high performance computing resources. 
 Please feel free to update this page through submitting pull requests.
