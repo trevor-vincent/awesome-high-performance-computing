@@ -1,8 +1,7 @@
 # Awesome High Performance Computing Resources <img align="right" width="20%" src="parallel-computing.jpg">
 
 A curated list of awesome high performance computing resources. 
-Please feel free to update this page through [submitting pull requests][GitHub pull requests] or 
-[emailing me][email me].
+Please feel free to update this page through submitting pull requests.
 
 ## Table of Contents
 
