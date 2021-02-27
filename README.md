@@ -14,7 +14,7 @@ Please feel free to update this page through [submitting pull requests][GitHub p
  - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
-## Clusters
+## Supercomputers
 
 ### Future
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
