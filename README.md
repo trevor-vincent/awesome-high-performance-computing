@@ -112,7 +112,7 @@ All the lists in this page are either in alphabetical order or chronological ord
  - [Preshing on Programming](https://preshing.com/) - Jeff Preshing
  - [Sutter's Mill](https://herbsutter.com/) - Herb Sutter
  - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
-
+ 
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
  - [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
@@ -124,6 +124,9 @@ All the lists in this page are either in alphabetical order or chronological ord
  - [ACM/IEEE International Conference for High-performance Computing, Networking, Storage, and Analysis (SC)](https://sc19.supercomputing.org/)
  - [IEEE International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/)
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
+
+#### Other
+  - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
 
 
 ## Acknowledgements
