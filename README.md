@@ -6,15 +6,23 @@ Please feel free to update this page through [submitting pull requests][GitHub p
 
 ## Table of Contents
 
- - [Software](#software)
  - [Clusters](#software)
+ - [Software](#software)
  - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
  - [Datasets](#datasets)
  - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
-All the lists in this page are either in alphabetical order or chronological order.
+## Clusters
+
+### Future
+ - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
+ - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
+ - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
+
+### Current
+ - https://www.top500.org/lists/top500/2020/11/
 
 ## Software
 
@@ -39,15 +47,10 @@ All the lists in this page are either in alphabetical order or chronological ord
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
 
-## Clusters
+#### Cluster Management
 
-### Future
- - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
- - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
- - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
-
-### Current
- - https://www.top500.org/lists/top500/2020/11/
+- [Slurm](https://slurm.schedmd.com/overview.html)
+- [Portable Batch System (PBS)](Portable Batch System)
 
 ## Presentations
 
@@ -127,7 +130,7 @@ All the lists in this page are either in alphabetical order or chronological ord
 
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
-
+  - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
 
 ## Acknowledgements
 
