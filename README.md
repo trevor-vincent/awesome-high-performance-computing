@@ -104,15 +104,15 @@ Please feel free to update this page through submitting pull requests.
 
 ## Links
 
+#### Wikis
+- [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
 
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
- - [Michael Wong's Standard on Parallelism and Programming Languages](https://wongmichael.com/about/) - Michael Wong
- - [Preshing on Programming](https://preshing.com/) - Jeff Preshing
- - [Sutter's Mill](https://herbsutter.com/) - Herb Sutter
  - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
  
 #### Journals
