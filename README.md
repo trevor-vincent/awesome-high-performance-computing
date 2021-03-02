@@ -45,11 +45,14 @@ Please feel free to update this page through submitting pull requests.
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
+- [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
 
 #### Cluster Management
 
 - [Slurm](https://slurm.schedmd.com/overview.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
+- [Lustre Parallel File System](https://www.lustre.org/)
+- [Spack package manager for supercomputers](https://spack.io/)
 
 ## Presentations
 
