@@ -53,7 +53,8 @@ Please feel free to update this page through submitting pull requests.
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 - [Lustre Parallel File System](https://www.lustre.org/)
 - [Spack package manager for supercomputers](https://spack.io/)
-
+- [Lmod](https://lmod.readthedocs.io/en/latest/)
+- 
 ## Presentations
 
 #### Generic Parallel Computing Topics
