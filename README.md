@@ -25,7 +25,7 @@ Please feel free to update this page through submitting pull requests.
 
 ## Software
 
-#### Programming Library
+#### Popular HPC Programming Libraries/APIs/Tools
 
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
@@ -47,13 +47,17 @@ Please feel free to update this page through submitting pull requests.
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
 - [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
 
-#### Cluster Management
+#### Cluster Management/Tools
 
 - [Slurm](https://slurm.schedmd.com/overview.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 - [Lustre Parallel File System](https://www.lustre.org/)
 - [Spack package manager for supercomputers](https://spack.io/)
 - [Lmod](https://lmod.readthedocs.io/en/latest/)
+
+#### Development Tools for HPC
+
+- [Singularity](https://singularity.lbl.gov/)
 
 ## Presentations
 
