@@ -59,6 +59,14 @@ Please feel free to update this page through submitting pull requests.
 
 - [Singularity](https://singularity.lbl.gov/)
 
+#### Workflow managment for HPC
+
+- [HTCondor](https://research.cs.wisc.edu/htcondor/)
+
+#### Debugging Tools for HPC
+
+- [dd](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
+
 ## Presentations
 
 #### Generic Parallel Computing Topics
@@ -114,6 +122,8 @@ Please feel free to update this page through submitting pull requests.
 
 #### Wikis
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
+- [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
+- [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
