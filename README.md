@@ -132,6 +132,9 @@ Please feel free to update this page through submitting pull requests.
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
 
+#### Careers
+ - [HPC University Careers search](http://hpcuniversity.org/careers/)
+
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
  - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
