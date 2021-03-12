@@ -117,12 +117,11 @@ Please feel free to update this page through submitting pull requests.
 - [Udacity High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 - [Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 
-## Datasets
-
-- [HPEC Graph Challenge](https://graphchallenge.mit.edu/)
-- [PARRSEC Benchmark Suite for the Analysis of Multithreaded Programs](https://parsec.cs.princeton.edu/)
-
 ## Links
+
+#### News
+- [InsideHPC](https://insidehpc.com/)
+- [HPCWire](https://www.hpcwire.com/)
 
 #### Wikis
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
