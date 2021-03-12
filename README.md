@@ -68,6 +68,8 @@ Please feel free to update this page through submitting pull requests.
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
 
+## People
+
 ## Presentations
 
 #### Generic Parallel Computing Topics
@@ -97,6 +99,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Tutorials
 
+- [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
 
 #### Position Papers
