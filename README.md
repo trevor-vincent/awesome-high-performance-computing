@@ -140,6 +140,7 @@ Please feel free to update this page through submitting pull requests.
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
  - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
+ - [Cluster Monkey](https://www.clustermonkey.net/)
  
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
