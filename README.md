@@ -13,15 +13,20 @@ Please feel free to update this page through submitting pull requests.
  - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
-## Supercomputers
+## Supercomputer Info
 
-### Future
+### Supercomputers coming in the future
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
 
-### Current
+### Current List of Supercomputers
  - https://www.top500.org/lists/top500/2020/11/
+
+### Interconnects
+
+- [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/)
+- [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 
 ## Software
 
@@ -69,10 +74,7 @@ Please feel free to update this page through submitting pull requests.
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
 
-#### Interconnect
 
-- [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/
-- [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 
 ## People
 
