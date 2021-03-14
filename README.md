@@ -136,7 +136,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
 - [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
-- 
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
