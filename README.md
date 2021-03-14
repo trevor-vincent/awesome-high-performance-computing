@@ -5,7 +5,7 @@ Please feel free to update this page through submitting pull requests.
 
 ## Table of Contents
 
- - [Clusters](#software)
+ - [General Info](#general-info)
  - [Software](#software)
  - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
@@ -13,7 +13,7 @@ Please feel free to update this page through submitting pull requests.
  - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
-## Supercomputer Info
+## General Info
 
 ### Supercomputers coming in the future
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
