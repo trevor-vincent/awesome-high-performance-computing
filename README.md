@@ -74,10 +74,6 @@ Please feel free to update this page through submitting pull requests.
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
 
-
-
-## People
-
 ## Presentations
 
 #### Generic Parallel Computing Topics
