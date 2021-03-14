@@ -72,6 +72,7 @@ Please feel free to update this page through submitting pull requests.
 #### Interconnect
 
 - [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/
+- [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 
 ## People
 
@@ -130,6 +131,7 @@ Please feel free to update this page through submitting pull requests.
 #### News
 - [InsideHPC](https://insidehpc.com/)
 - [HPCWire](https://www.hpcwire.com/)
+- [NextPlatform](https://www.nextplatform.com)
 
 #### Wikis
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
