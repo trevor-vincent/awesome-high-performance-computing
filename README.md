@@ -110,10 +110,6 @@ Please feel free to update this page through submitting pull requests.
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
 - [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
 
-#### Experimental Papers
-
-- [Evaluation and Analysis of Dynamic Loop Scheduling in OpenMP](references/EvaluationAndAnalysisofDynamicLoopSchedulingofOpenMP.pdf)
-
 #### Courses
 
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
@@ -135,6 +131,10 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
 - [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
+- [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
+- [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
+- [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
+- [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
