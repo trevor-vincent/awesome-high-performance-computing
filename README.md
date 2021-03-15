@@ -56,6 +56,7 @@ Please feel free to update this page through submitting pull requests.
 - [Slurm](https://slurm.schedmd.com/overview.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 - [Lustre Parallel File System](https://www.lustre.org/)
+- [GPFS](https://en.wikipedia.org/wiki/GPFS)
 - [Spack package manager for supercomputers](https://spack.io/)
 - [Guix package manager for supercomputers](https://hpc.guix.info/)
 - [Lmod](https://lmod.readthedocs.io/en/latest/)
