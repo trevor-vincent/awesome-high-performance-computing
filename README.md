@@ -9,7 +9,6 @@ Please feel free to update this page through submitting pull requests.
  - [Software](#software)
  - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
- - [Datasets](#datasets)
  - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
