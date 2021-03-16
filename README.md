@@ -7,6 +7,7 @@ Please feel free to update this page through submitting pull requests.
 
  - [General Info](#general-info)
  - [Software](#software)
+ - [Hardware](#hardware) 
  - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
  - [Links](#links)
@@ -22,10 +23,7 @@ Please feel free to update this page through submitting pull requests.
 ### Current List of Supercomputers
  - https://www.top500.org/lists/top500/2020/11/
 
-### Interconnects
 
-- [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/)
-- [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 
 ## Software
 
@@ -74,6 +72,13 @@ Please feel free to update this page through submitting pull requests.
 
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
+
+## Hardware
+
+### Interconnects
+
+- [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/)
+- [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 
 ## Presentations
 
