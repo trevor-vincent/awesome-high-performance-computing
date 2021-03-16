@@ -133,6 +133,9 @@ Please feel free to update this page through submitting pull requests.
 - [HPCWire](https://www.hpcwire.com/)
 - [NextPlatform](https://www.nextplatform.com)
 
+#### Podcasts
+- [This week in HPC](https://soundcloud.com/this-week-in-hpc)
+
 #### Wikis
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
