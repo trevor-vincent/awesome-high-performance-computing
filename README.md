@@ -148,6 +148,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [FLOPS](https://en.wikipedia.org/wiki/FLOPS)
+- [Computational complexity of math operations](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
