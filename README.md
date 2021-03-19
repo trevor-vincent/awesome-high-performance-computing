@@ -48,7 +48,9 @@ Please feel free to update this page through submitting pull requests.
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
 - [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
-- [OpenACC](https://www.openacc.org/)
+- [OpenACC: "OpenMP for GPUs"](https://www.openacc.org/)
+- [numba: Numba is an open source JIT compiler that translates a subset of Python into fast machine code.](https://numba.pydata.org/)
+- [dask: Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love](https://dask.org)
 
 #### Cluster Management/Tools
 
