@@ -147,6 +147,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
+- [FLOPS](https://en.wikipedia.org/wiki/FLOPS)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
