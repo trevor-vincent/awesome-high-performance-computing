@@ -23,8 +23,6 @@ Please feel free to update this page through submitting pull requests.
 ### Current List of Supercomputers
  - https://www.top500.org/lists/top500/2020/11/
 
-
-
 ## Software
 
 #### Popular HPC Programming Libraries/APIs/Tools
