@@ -161,7 +161,9 @@ Please feel free to update this page through submitting pull requests.
  - [The Black Art of Concurrency](https://www.internalpointers.com/post-group/black-art-concurrency) - Internal Pointers
  - [Cluster Monkey](https://www.clustermonkey.net/)
  - [Johnathon Dursi](https://www.dursi.ca/)
- 
+ - [Arm Vendor HPC blog](https://community.arm.com/developer/tools-software/hpc/b/hpc-blog)
+ - [HPC Notes](https://www.hpcnotes.com/)
+
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
  - [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
