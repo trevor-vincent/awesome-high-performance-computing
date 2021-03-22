@@ -179,6 +179,10 @@ Please feel free to update this page through submitting pull requests.
  - [IEEE International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/)
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
 
+#### Twitters
+
+ - [Top500](https://twitter.com/top500supercomp?s=20)
+
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
