@@ -137,6 +137,7 @@ Please feel free to update this page through submitting pull requests.
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 
 #### Wikis
+- [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
@@ -147,6 +148,8 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [FLOPS](https://en.wikipedia.org/wiki/FLOPS)
 - [Computational complexity of math operations](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+- [Many Task Computing](https://en.wikipedia.org/wiki/Many-task_computing)
+- [High Throughput Computing](https://en.wikipedia.org/wiki/High-throughput_computing)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
