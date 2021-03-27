@@ -152,6 +152,9 @@ Please feel free to update this page through submitting pull requests.
 - [Many Task Computing](https://en.wikipedia.org/wiki/Many-task_computing)
 - [High Throughput Computing](https://en.wikipedia.org/wiki/High-throughput_computing)
 
+#### Youtube
+- [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
