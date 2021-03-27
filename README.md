@@ -59,6 +59,7 @@ Please feel free to update this page through submitting pull requests.
 - [Spack package manager for supercomputers](https://spack.io/)
 - [Guix package manager for supercomputers](https://hpc.guix.info/)
 - [Lmod](https://lmod.readthedocs.io/en/latest/)
+- [Ruse](https://github.com/JanneM/Ruse)
 
 #### Development Tools for HPC
 
