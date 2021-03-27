@@ -126,6 +126,9 @@ Please feel free to update this page through submitting pull requests.
 - [Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 - [Vanderbilt - Intro to HPC](https://github.com/vanderbiltscl/SC3260_HPC)
 - [Illinois - Intro to HPC](https://andreask.cs.illinois.edu/Teaching/HPCFall2012/) - Creator of PyCuda
+- [Archer Courses](http://www.archer.ac.uk/training/past_courses.php)
+- [TACC tutorials](https://portal.tacc.utexas.edu/tutorials)
+- [Livermore training materials](https://hpc.llnl.gov/training/tutorials)
 
 ## Links
 
