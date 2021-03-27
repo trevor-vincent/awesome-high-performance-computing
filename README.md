@@ -49,6 +49,9 @@ Please feel free to update this page through submitting pull requests.
 - [OpenACC: "OpenMP for GPUs"](https://www.openacc.org/)
 - [numba: Numba is an open source JIT compiler that translates a subset of Python into fast machine code.](https://numba.pydata.org/)
 - [dask: Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love](https://dask.org)
+- [RAJA: architecture and programming model portability for HPC applications](https://github.com/LLNL/RAJA)
+- [ROCM: first open-source software development platform for HPC/Hyperscale-class GPU computing](https://rocmdocs.amd.com/en/latest/)
+- [HIP: HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU](https://github.com/ROCm-Developer-Tools/HIP)
 
 #### Cluster Management/Tools
 
@@ -158,6 +161,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Youtube
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
+- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
