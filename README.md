@@ -162,7 +162,8 @@ Please feel free to update this page through submitting pull requests.
 #### Youtube
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
-
+- [CppCon](https://www.youtube.com/user/CppCon/videos)
+- 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
