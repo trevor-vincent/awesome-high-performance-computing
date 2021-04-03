@@ -167,7 +167,8 @@ Please feel free to update this page through submitting pull requests.
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
 - [CppCon](https://www.youtube.com/user/CppCon/videos)
-- 
+- [Create a clustering server](https://www.youtube.com/watch?v=4LyL4sNZ1u4)
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
@@ -197,8 +198,10 @@ Please feel free to update this page through submitting pull requests.
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
 
 #### Twitters
-
  - [Top500](https://twitter.com/top500supercomp?s=20)
+
+#### Repos
+  - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
 
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
