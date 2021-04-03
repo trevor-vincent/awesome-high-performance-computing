@@ -45,6 +45,7 @@ Please feel free to update this page through submitting pull requests.
 - [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
+- [PVM: Parallel Virtual Maschine: A predecessor to MPI for distributed computing](https://www.csm.ornl.gov/pvm/)
 - [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
 - [OpenACC: "OpenMP for GPUs"](https://www.openacc.org/)
 - [numba: Numba is an open source JIT compiler that translates a subset of Python into fast machine code.](https://numba.pydata.org/)
@@ -159,6 +160,8 @@ Please feel free to update this page through submitting pull requests.
 - [Computational complexity of math operations](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
 - [Many Task Computing](https://en.wikipedia.org/wiki/Many-task_computing)
 - [High Throughput Computing](https://en.wikipedia.org/wiki/High-throughput_computing)
+- [Parallel Virtual Machine](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine)
+- [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 
 #### Youtube
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
