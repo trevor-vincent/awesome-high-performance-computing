@@ -202,6 +202,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
+  - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
 
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
