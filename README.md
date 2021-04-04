@@ -207,6 +207,7 @@ Please feel free to update this page through submitting pull requests.
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
+  - [HPC Summer school](https://www.ihpcss.org/)
 
 ## Acknowledgements
 
