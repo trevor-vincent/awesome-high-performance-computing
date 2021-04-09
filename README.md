@@ -53,6 +53,7 @@ Please feel free to update this page through submitting pull requests.
 - [RAJA: architecture and programming model portability for HPC applications](https://github.com/LLNL/RAJA)
 - [ROCM: first open-source software development platform for HPC/Hyperscale-class GPU computing](https://rocmdocs.amd.com/en/latest/)
 - [HIP: HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU](https://github.com/ROCm-Developer-Tools/HIP)
+- [MOGSLib - User defined schedulers](https://github.com/ECLScheduling/MOGSLib)
 
 #### Cluster Management/Tools
 
