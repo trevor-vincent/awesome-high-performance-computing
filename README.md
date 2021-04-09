@@ -203,7 +203,7 @@ Please feel free to update this page through submitting pull requests.
 #### Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
   - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
-
+  - [xbyak jit assembler](https://github.com/herumi/xbyak)
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
