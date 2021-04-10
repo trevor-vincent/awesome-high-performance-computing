@@ -201,10 +201,12 @@ Please feel free to update this page through submitting pull requests.
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
 
-#### Repos
+#### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
   - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
   - [xbyak jit assembler](https://github.com/herumi/xbyak)
+  - [cpufetch - pretty cpu info fetcher](https://github.com/Dr-Noob/cpufetch)
+ 
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
