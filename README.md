@@ -66,6 +66,8 @@ Please feel free to update this page through submitting pull requests.
 - [Guix package manager for supercomputers](https://hpc.guix.info/)
 - [Lmod](https://lmod.readthedocs.io/en/latest/)
 - [Ruse](https://github.com/JanneM/Ruse)
+- [xCat](https://xcat.org/)
+- [Warewulf](https://warewulf.lbl.gov/)
 
 #### Development Tools for HPC
 
