@@ -68,6 +68,7 @@ Please feel free to update this page through submitting pull requests.
 - [Ruse](https://github.com/JanneM/Ruse)
 - [xCat](https://xcat.org/)
 - [Warewulf](https://warewulf.lbl.gov/)
+- [Bluebanquise](https://github.com/bluebanquise/bluebanquise)
 
 #### Development Tools for HPC
 
