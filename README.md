@@ -154,6 +154,7 @@ Please feel free to update this page through submitting pull requests.
 #### Wikis
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
+- [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
 - [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
