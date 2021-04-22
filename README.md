@@ -55,6 +55,7 @@ Please feel free to update this page through submitting pull requests.
 - [HIP: HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU](https://github.com/ROCm-Developer-Tools/HIP)
 - [MOGSLib - User defined schedulers](https://github.com/ECLScheduling/MOGSLib)
 - [SYCL - C++ Abstraction layer for heterogeneous devices](https://www.khronos.org/sycl/)
+- [Legion - Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
 
 #### Cluster Management/Tools
 
