@@ -19,6 +19,7 @@ Please feel free to update this page through submitting pull requests.
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
+ - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2021, ~700 Petaflop (Linpack500)
 
 ### Current List of Supercomputers
  - https://www.top500.org/lists/top500/2020/11/
