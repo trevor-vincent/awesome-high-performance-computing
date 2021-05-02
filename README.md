@@ -8,14 +8,12 @@ Please feel free to update this page through submitting pull requests.
  - [General Info](#general-info)
  - [Software](#software)
  - [Hardware](#hardware) 
- - [Presentations](#presentations)
  - [Learning Resources](#learning-resources)
- - [Links](#links)
  - [Acknowledgements](#acknowledgements )
 
 ## General Info
 
-### Supercomputers coming in the future
+### Future Supercomputers 
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
@@ -94,25 +92,6 @@ Please feel free to update this page through submitting pull requests.
 - [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 - [Mellanox infiniband cluster config](https://www.mellanox.com/clusterconfig/)
 
-## Presentations
-
-#### Generic Parallel Computing Topics
-
-- [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
-- [Concurrency in C++20 and Beyond](https://www.youtube.com/watch?v=jozHW_B3D4U) - A. Williams
-- [Is Parallel Programming still Hard?](https://www.youtube.com/watch?v=YM8Xy6oKVQg) - P. McKenney, M. Michael, and M. Wong at CppCon 2017
-- [The Speed of Concurrency: Is Lock-free Faster?](https://www.youtube.com/watch?v=9hJkWwHDDxs) - Fedor G Pikus in CppCon 2016
-
-#### Scheduling in Parallel Processing
-
-- [Expressing Parallelism in C++ with Threading Building Blocks](https://www.youtube.com/watch?v=9Otq_fcUnPE) - Mike Voss at Intel Webinar 2018
-- [A Work-stealing Runtime for Rust](https://www.youtube.com/watch?v=4DQakkJ8XLI) - Aaron Todd in Air Mozilla 2017
-
-#### Memory Model
-
-- [C++11/14/17 atomics and memory model: Before the story consumes you](https://www.youtube.com/watch?v=DS2m7T6NKZQ) - Michael Wong in CppCon 2015
-- [The C++ Memory Model](https://www.youtube.com/watch?v=gpsz8sc6mNU) - Valentin Ziegler at C++ Meeting 2014
-
 ## Learning Resources
 
 #### Books
@@ -146,8 +125,6 @@ Please feel free to update this page through submitting pull requests.
 - [Livermore training materials](https://hpc.llnl.gov/training/tutorials)
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
 
-## Links
-
 #### News
 - [InsideHPC](https://insidehpc.com/)
 - [HPCWire](https://www.hpcwire.com/)
@@ -180,6 +157,16 @@ Please feel free to update this page through submitting pull requests.
 - [CppCon](https://www.youtube.com/user/CppCon/videos)
 - [Create a clustering server](https://www.youtube.com/watch?v=4LyL4sNZ1u4)
 - [Argonne national lab](https://www.youtube.com/channel/UCfwgjtIQB3puojz_N9ly_Ag)
+- [Concurrency in C++20 and Beyond](https://www.youtube.com/watch?v=jozHW_B3D4U) - A. Williams
+- [Is Parallel Programming still Hard?](https://www.youtube.com/watch?v=YM8Xy6oKVQg) - P. McKenney, M. Michael, and M. Wong at CppCon 2017
+- [The Speed of Concurrency: Is Lock-free Faster?](https://www.youtube.com/watch?v=9hJkWwHDDxs) - Fedor G Pikus in CppCon 2016
+- [Expressing Parallelism in C++ with Threading Building Blocks](https://www.youtube.com/watch?v=9Otq_fcUnPE) - Mike Voss at Intel Webinar 2018
+- [A Work-stealing Runtime for Rust](https://www.youtube.com/watch?v=4DQakkJ8XLI) - Aaron Todd in Air Mozilla 2017
+- [C++11/14/17 atomics and memory model: Before the story consumes you](https://www.youtube.com/watch?v=DS2m7T6NKZQ) - Michael Wong in CppCon 2015
+- [The C++ Memory Model](https://www.youtube.com/watch?v=gpsz8sc6mNU) - Valentin Ziegler at C++ Meeting 2014
+
+#### Presentation Slides
+- [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
