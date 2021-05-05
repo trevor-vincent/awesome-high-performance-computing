@@ -55,6 +55,7 @@ Please feel free to update this page through submitting pull requests.
 - [MOGSLib - User defined schedulers](https://github.com/ECLScheduling/MOGSLib)
 - [SYCL - C++ Abstraction layer for heterogeneous devices](https://www.khronos.org/sycl/)
 - [Legion - Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
+- [SkelCL – A Skeleton Library for Heterogeneous Systems](https://skelcl.github.io/)
 
 #### Cluster Management/Tools
 
