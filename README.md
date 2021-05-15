@@ -56,6 +56,7 @@ Please feel free to update this page through submitting pull requests.
 - [SYCL - C++ Abstraction layer for heterogeneous devices](https://www.khronos.org/sycl/)
 - [Legion - Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
 - [SkelCL – A Skeleton Library for Heterogeneous Systems](https://skelcl.github.io/)
+- [Legate - Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
 
 #### Cluster Management/Tools
 
