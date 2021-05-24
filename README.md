@@ -215,6 +215,9 @@ Please feel free to update this page through submitting pull requests.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
 
+#### HPC Interview Preparation
+  - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
+
 ## Acknowledgements
 
 This repo started from the great curated list https://github.com/taskflow/awesome-parallel-computing
