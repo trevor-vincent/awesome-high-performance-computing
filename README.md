@@ -57,7 +57,7 @@ Please feel free to update this page through submitting pull requests.
 - [Legion - Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
 - [SkelCL – A Skeleton Library for Heterogeneous Systems](https://skelcl.github.io/)
 - [Legate - Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
-- [The Open Community Runtime](https://wiki.modelado.org/Open_Community_Runtime)
+- [The Open Community Runtime - Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
 
 #### Cluster Management/Tools
 
