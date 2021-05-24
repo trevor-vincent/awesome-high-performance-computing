@@ -127,6 +127,7 @@ Please feel free to update this page through submitting pull requests.
 - [TACC tutorials](https://portal.tacc.utexas.edu/tutorials)
 - [Livermore training materials](https://hpc.llnl.gov/training/tutorials)
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
+- [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
