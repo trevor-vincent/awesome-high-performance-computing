@@ -73,6 +73,7 @@ Please feel free to update this page through submitting pull requests.
 - [xCat](https://xcat.org/)
 - [Warewulf](https://warewulf.lbl.gov/)
 - [Bluebanquise](https://github.com/bluebanquise/bluebanquise)
+- [OpenXdMod](https://open.xdmod.org/7.5/index.html)
 
 #### Development Tools for HPC
 
