@@ -59,6 +59,7 @@ Please feel free to update this page through submitting pull requests.
 - [Legate - Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
 - [The Open Community Runtime - Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
 - [Vaex - high performance dataframes in python](https://github.com/vaexio/vaex)
+- [grpc - high performance modern remote procedure call framework](https://grpc.io/)
 
 #### Cluster Management/Tools
 
