@@ -76,13 +76,10 @@ Please feel free to update this page through submitting pull requests.
 - [Bluebanquise](https://github.com/bluebanquise/bluebanquise)
 - [OpenXdMod](https://open.xdmod.org/7.5/index.html)
 
-#### Development Tools for HPC
+#### Development/Workflow Tools for HPC
 
 - [Singularity](https://singularity.lbl.gov/)
 - [Vaex - high performance dataframes in python](https://github.com/vaexio/vaex)
-
-#### Workflow Tools for HPC
-
 - [HTCondor](https://research.cs.wisc.edu/htcondor/)
 - [grpc - high performance modern remote procedure call framework](https://grpc.io/)
 
