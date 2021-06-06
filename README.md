@@ -90,11 +90,12 @@ Please feel free to update this page through submitting pull requests.
 
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
+- [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
 
 #### Performance Tools for HPC
 
 - [papi](https://icl.utk.edu/papi/)
-
+- [scalasca](https://www.scalasca.org/)
 
 ## Hardware
 
