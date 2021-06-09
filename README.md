@@ -85,6 +85,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Debugging Tools for HPC
 
+- [Summary of debugging tools](http://pramodkumbhar.com/2018/06/summary-of-debugging-tools/)
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
 - [totalview](https://totalview.io/)
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
