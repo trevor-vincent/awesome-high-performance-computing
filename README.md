@@ -147,6 +147,7 @@ Please feel free to update this page through submitting pull requests.
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 
 #### Wikis
+- [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
