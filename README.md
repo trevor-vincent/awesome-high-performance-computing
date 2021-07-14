@@ -116,6 +116,7 @@ Please feel free to update this page through submitting pull requests.
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
 - [Foundations of Multithreaded, Parallel, and Distributed Programming](https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B00F4I7HM2/ref=sr_1_2?dchild=1&keywords=Gregory+R.+Andrews+Distributed+Programming&qid=1625766665&s=books&sr=1-2)
+- [Building pipelines using slurm dependencies](https://hpc.nih.gov/docs/job_dependencies.html)
 #### Review Papers
 
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
