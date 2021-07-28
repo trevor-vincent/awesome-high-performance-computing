@@ -168,6 +168,7 @@ Please feel free to update this page through submitting pull requests.
 - [Parallel Virtual Machine](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine)
 - [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 - [Workflow management](https://en.wikipedia.org/wiki/Scientific_workflow_system)
+- [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
 #### Youtube
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
