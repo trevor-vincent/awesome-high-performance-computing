@@ -13,7 +13,7 @@ Please feel free to update this page through submitting pull requests.
 
 ## General Info
 
-### Future Supercomputers 
+### A Few Upcoming Supercomputers 
  - [Frontier](https://www.amd.com/en/products/exascale-era) - 2021, AMD-based, ~1.5 exaflops
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2021, Intel-based, ~1 exaflops
