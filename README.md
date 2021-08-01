@@ -107,7 +107,7 @@ Please feel free to update this page through submitting pull requests.
 ## Learning Resources
 
 #### Books
-
+- [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf)
 - [C++ Concurrency in Action: Practical Multithreading](https://www.manning.com/books/c-plus-plus-concurrency-in-action) - Anthony Williams 2012
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376/ref=sr_1_1?ie=UTF8&qid=1438003865&sr=8-1&keywords=maurice+herlihy) - Maurice Herlihy 2012
 - [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html#ch:work-stealing) - Umut A. Acar 2016
@@ -120,6 +120,8 @@ Please feel free to update this page through submitting pull requests.
 - [Foundations of Multithreaded, Parallel, and Distributed Programming](https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B00F4I7HM2/ref=sr_1_2?dchild=1&keywords=Gregory+R.+Andrews+Distributed+Programming&qid=1625766665&s=books&sr=1-2)
 - [Building pipelines using slurm dependencies](https://hpc.nih.gov/docs/job_dependencies.html)
 - [Writing slurm scripts in python,r and bash](https://vsoch.github.io/lessons/sherlock-jobs/)
+- [Xsede new user tutorials](https://portal.xsede.org/online-training)
+- [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
