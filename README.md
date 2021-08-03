@@ -75,6 +75,7 @@ Please feel free to update this page through submitting pull requests.
 - [Warewulf](https://warewulf.lbl.gov/)
 - [Bluebanquise](https://github.com/bluebanquise/bluebanquise)
 - [OpenXdMod](https://open.xdmod.org/7.5/index.html)
+- [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=lsf-batch-jobs-tasks)
 
 #### Development/Workflow Tools for HPC
 
