@@ -154,6 +154,9 @@ Please feel free to update this page through submitting pull requests.
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 
+#### Consulting
+- [Redline Performance](https://redlineperf.com/)
+
 #### Wikis
 - [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
