@@ -157,6 +157,8 @@ Please feel free to update this page through submitting pull requests.
 
 #### Consulting
 - [Redline Performance](https://redlineperf.com/)
+- [R systems](http://rsystemsinc.com/)\
+- [Advanced Clustering](https://www.advancedclustering.com/)
 
 #### Wikis
 - [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
