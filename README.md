@@ -59,7 +59,7 @@ Please feel free to update this page through submitting pull requests.
 - [Legate - Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
 - [The Open Community Runtime - Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
 - [Pyfi - distributed flow and computation system](https://github.com/radiantone/pyfi)
-
+- [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU]
 #### Cluster Management/Tools
 
 - [OpenHPC](https://openhpc.community/)
