@@ -60,6 +60,9 @@ Please feel free to update this page through submitting pull requests.
 - [The Open Community Runtime - Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
 - [Pyfi - distributed flow and computation system](https://github.com/radiantone/pyfi)
 - [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU]
+- [HPC-X - Nvidia implementation of MPI](https://developer.nvidia.com/networking/hpc-x)
+- [MPAVICH - Implementation of MPI](https://mvapich.cse.ohio-state.edu/)
+
 #### Cluster Management/Tools
 
 - [OpenHPC](https://openhpc.community/)
