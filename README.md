@@ -240,7 +240,10 @@ Please feel free to update this page through submitting pull requests.
   - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
   - [xbyak jit assembler](https://github.com/herumi/xbyak)
   - [cpufetch - pretty cpu info fetcher](https://github.com/Dr-Noob/cpufetch)
- 
+  - [RRZE-HPC](https://github.com/RRZE-HPC)
+  - [Argonne Github](https://github.com/Argonne-National-Laboratory)
+  - [Oak Ridge National Lab Github](https://github.com/ORNL)
+
 #### Other
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
