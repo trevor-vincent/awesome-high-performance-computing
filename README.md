@@ -136,7 +136,6 @@ Please feel free to update this page through submitting pull requests.
 - [Programming for Exascale Computers - Will Gropp, Marc Snir](https://snir.cs.illinois.edu/listed/J55.pdf)
 
 #### Courses
-
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
 - [Udacity High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
@@ -248,6 +247,7 @@ Please feel free to update this page through submitting pull requests.
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
+  - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
 
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
