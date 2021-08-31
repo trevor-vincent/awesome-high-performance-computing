@@ -254,6 +254,11 @@ Please feel free to update this page through submitting pull requests.
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
 
+#### Organizations
+  - [Prace](https://prace-ri.eu/)
+  - [Xsede](https://www.xsede.org/)
+  - [Compute Canada](https://www.computecanada.ca/)
+
 ## Acknowledgements
 
 This repo started from the great curated list https://github.com/taskflow/awesome-parallel-computing
