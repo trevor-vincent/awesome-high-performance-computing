@@ -153,6 +153,7 @@ Please feel free to update this page through submitting pull requests.
 - [HPCWire](https://www.hpcwire.com/)
 - [NextPlatform](https://www.nextplatform.com)
 - [Datacenter Dynamics](https://www.datacenterdynamics.com/en/)
+- [Admin Magazine HPC](https://www.admin-magazine.com/HPC/News)
 
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
