@@ -187,6 +187,7 @@ Please feel free to update this page through submitting pull requests.
 - [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 - [Workflow management](https://en.wikipedia.org/wiki/Scientific_workflow_system)
 - [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
+- [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
 
 #### Youtube
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
