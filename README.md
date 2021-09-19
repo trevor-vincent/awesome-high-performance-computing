@@ -168,6 +168,7 @@ Please feel free to update this page through submitting pull requests.
 - [Advanced Clustering](https://www.advancedclustering.com/)
 
 #### Wikis
+- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 - [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
@@ -255,6 +256,7 @@ Please feel free to update this page through submitting pull requests.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
+  - [Latency numbers](http://norvig.com/21-days.html#answers)
 
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
