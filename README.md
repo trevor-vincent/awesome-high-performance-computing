@@ -1,4 +1,4 @@
-# Awesome High Performance Computing Resources
+2222# Awesome High Performance Computing Resources
 
 A curated list of awesome high performance computing resources. 
 Please feel free to update this page through submitting pull requests.
@@ -138,6 +138,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Misc Papers
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
+- [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
 
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
