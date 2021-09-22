@@ -1,4 +1,4 @@
-2222# Awesome High Performance Computing Resources
+# Awesome High Performance Computing Resources
 
 A curated list of awesome high performance computing resources. 
 Please feel free to update this page through submitting pull requests.
