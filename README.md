@@ -20,7 +20,7 @@ Please feel free to update this page through submitting pull requests.
  - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2021, ~700 Petaflop (Linpack500)
 
 ### Current List of Top 500 Supercomputers
- - https://www.top500.org/lists/top500/2020/11/
+ - https://www.top500.org/lists/top500/2021/06/
 
 ## Software
 
