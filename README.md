@@ -259,6 +259,7 @@ Please feel free to update this page through submitting pull requests.
   - [HPC Summer school](https://www.ihpcss.org/)
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
   - [Latency numbers](http://norvig.com/21-days.html#answers)
+  - [Nvidia HPC benchmarks](https://ngc.nvidia.com/catalog/containers/nvidia:hpc-benchmarks)
 
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
