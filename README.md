@@ -261,6 +261,7 @@ Please feel free to update this page through submitting pull requests.
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
   - [Latency numbers](http://norvig.com/21-days.html#answers)
   - [Nvidia HPC benchmarks](https://ngc.nvidia.com/catalog/containers/nvidia:hpc-benchmarks)
+  - [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
 
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
