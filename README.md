@@ -244,6 +244,14 @@ Please feel free to update this page through submitting pull requests.
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
 
+#### HPC Interview Preparation
+  - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
+
+#### Organizations
+  - [Prace](https://prace-ri.eu/)
+  - [Xsede](https://www.xsede.org/)
+  - [Compute Canada](https://www.computecanada.ca/)
+
 #### Misc. Wikis
 - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 - [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
@@ -276,14 +284,6 @@ Please feel free to update this page through submitting pull requests.
   - [Latency numbers](http://norvig.com/21-days.html#answers)
   - [Nvidia HPC benchmarks](https://ngc.nvidia.com/catalog/containers/nvidia:hpc-benchmarks)
   - [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
-
-#### HPC Interview Preparation
-  - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
-
-#### Organizations
-  - [Prace](https://prace-ri.eu/)
-  - [Xsede](https://www.xsede.org/)
-  - [Compute Canada](https://www.computecanada.ca/)
 
 ## Acknowledgements
 
