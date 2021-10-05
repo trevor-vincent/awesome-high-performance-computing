@@ -103,6 +103,11 @@ Please feel free to update this page through submitting pull requests.
 - [papi](https://icl.utk.edu/papi/)
 - [scalasca](https://www.scalasca.org/)
 
+#### Wikis
+
+- [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
+- [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
+
 ## Hardware
 
 ### Interconnects
@@ -110,6 +115,22 @@ Please feel free to update this page through submitting pull requests.
 - [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/)
 - [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 - [Mellanox infiniband cluster config](https://www.mellanox.com/clusterconfig/)
+
+### GPU
+
+- [Gpu Architecture Analysis](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_parallel)
+- [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+
+### Wikis
+
+- [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+- [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
+- [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
+- [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
+- [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
+- [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
+- [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
+- [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 
 ## Learning Resources
 
@@ -172,29 +193,6 @@ Please feel free to update this page through submitting pull requests.
 - [R systems](http://rsystemsinc.com/)
 - [Advanced Clustering](https://www.advancedclustering.com/)
 
-#### Wikis
-- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
-- [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
-- [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
-- [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
-- [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
-- [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
-- [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
-- [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
-- [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
-- [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
-- [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
-- [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
-- [FLOPS](https://en.wikipedia.org/wiki/FLOPS)
-- [Computational complexity of math operations](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
-- [Many Task Computing](https://en.wikipedia.org/wiki/Many-task_computing)
-- [High Throughput Computing](https://en.wikipedia.org/wiki/High-throughput_computing)
-- [Parallel Virtual Machine](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine)
-- [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
-- [Workflow management](https://en.wikipedia.org/wiki/Scientific_workflow_system)
-- [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
-- [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
-
 #### Youtube
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
@@ -246,6 +244,20 @@ Please feel free to update this page through submitting pull requests.
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
 
+#### Misc. Wikis
+- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+- [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
+- [FLOPS](https://en.wikipedia.org/wiki/FLOPS)
+- [Computational complexity of math operations](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+- [Many Task Computing](https://en.wikipedia.org/wiki/Many-task_computing)
+- [High Throughput Computing](https://en.wikipedia.org/wiki/High-throughput_computing)
+- [Parallel Virtual Machine](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine)
+- [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+- [Workflow management](https://en.wikipedia.org/wiki/Scientific_workflow_system)
+- [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
+- [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
+
+
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
   - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
@@ -256,7 +268,7 @@ Please feel free to update this page through submitting pull requests.
   - [Oak Ridge National Lab Github](https://github.com/ORNL)
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
 
-#### Other
+#### Misc.
   - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
