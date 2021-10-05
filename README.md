@@ -146,26 +146,6 @@ Please feel free to update this page through submitting pull requests.
 - [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html#ch:work-stealing) - Umut A. Acar 2016
 - [Introduction to Parallel Computing](https://www.amazon.ca/Introduction-Parallel-Computing-Zbigniew-Czech/dp/1107174392/ref=sr_1_7?dchild=1&keywords=parallel+computing&qid=1625711415&sr=8-7) - Zbigniew J. Czech
 
-#### Tutorials
-- [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
-- [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
-- [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
-- [Foundations of Multithreaded, Parallel, and Distributed Programming](https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B00F4I7HM2/ref=sr_1_2?dchild=1&keywords=Gregory+R.+Andrews+Distributed+Programming&qid=1625766665&s=books&sr=1-2)
-- [Building pipelines using slurm dependencies](https://hpc.nih.gov/docs/job_dependencies.html)
-- [Writing slurm scripts in python,r and bash](https://vsoch.github.io/lessons/sherlock-jobs/)
-- [Xsede new user tutorials](https://portal.xsede.org/online-training)
-- [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
-
-#### Review Papers
-- [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
-- [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
-- [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
-- [Programming for Exascale Computers - Will Gropp, Marc Snir](https://snir.cs.illinois.edu/listed/J55.pdf)
-
-#### Misc Papers
-- [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
-- [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
-
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
@@ -179,6 +159,23 @@ Please feel free to update this page through submitting pull requests.
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
 - [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
 
+#### Tutorials
+- [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
+- [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
+- [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
+- [Foundations of Multithreaded, Parallel, and Distributed Programming](https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B00F4I7HM2/ref=sr_1_2?dchild=1&keywords=Gregory+R.+Andrews+Distributed+Programming&qid=1625766665&s=books&sr=1-2)
+- [Building pipelines using slurm dependencies](https://hpc.nih.gov/docs/job_dependencies.html)
+- [Writing slurm scripts in python,r and bash](https://vsoch.github.io/lessons/sherlock-jobs/)
+- [Xsede new user tutorials](https://portal.xsede.org/online-training)
+- [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
+- [Improving Performance with SIMD intrinsics](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
+
+#### Review Papers
+- [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
+- [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
+- [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
+- [Programming for Exascale Computers - Will Gropp, Marc Snir](https://snir.cs.illinois.edu/listed/J55.pdf)
+
 #### News
 - [InsideHPC](https://insidehpc.com/)
 - [HPCWire](https://www.hpcwire.com/)
@@ -188,11 +185,6 @@ Please feel free to update this page through submitting pull requests.
 
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
-
-#### Consulting
-- [Redline Performance](https://redlineperf.com/)
-- [R systems](http://rsystemsinc.com/)
-- [Advanced Clustering](https://www.advancedclustering.com/)
 
 #### Youtube
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
@@ -245,6 +237,11 @@ Please feel free to update this page through submitting pull requests.
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
 
+#### Consulting
+- [Redline Performance](https://redlineperf.com/)
+- [R systems](http://rsystemsinc.com/)
+- [Advanced Clustering](https://www.advancedclustering.com/)
+
 #### HPC Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
 
@@ -266,6 +263,9 @@ Please feel free to update this page through submitting pull requests.
 - [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 - [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
 
+#### Misc Papers
+- [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
+- [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
 
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
