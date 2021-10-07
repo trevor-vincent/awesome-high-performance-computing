@@ -205,7 +205,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
-
+- [Tuning Slurm Scheduling for Optimal Responsiveness and Utilization](https://slurm.schedmd.com/SUG14/sched_tutorial.pdf)
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
