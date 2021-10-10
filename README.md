@@ -89,6 +89,9 @@ Please feel free to update this page through submitting pull requests.
 - [HTCondor](https://research.cs.wisc.edu/htcondor/)
 - [grpc - high performance modern remote procedure call framework](https://grpc.io/)
 - [Charliecloud](https://hpc.github.io/charliecloud/)
+- [Jacamar-ci](https://gitlab.com/ecp-ci/jacamar-ci/-/blob/develop/README.md)
+- [Prefect](https://www.prefect.io/)
+- [Apache Airflow](https://airflow.apache.org/)
 
 #### Debugging Tools for HPC
 
@@ -262,6 +265,7 @@ Please feel free to update this page through submitting pull requests.
 - [Workflow management](https://en.wikipedia.org/wiki/Scientific_workflow_system)
 - [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 - [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
+- [Just in time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 
 #### Misc Papers
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
