@@ -172,6 +172,7 @@ Please feel free to update this page through submitting pull requests.
 - [Xsede new user tutorials](https://portal.xsede.org/online-training)
 - [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
 - [Improving Performance with SIMD intrinsics](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
+- [Want speed? Pass by value](https://web.archive.org/web/20140205194657/http://cpp-next.com/archive/2009/08/want-speed-pass-by-value/)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
@@ -209,6 +210,7 @@ Please feel free to update this page through submitting pull requests.
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 - [Tuning Slurm Scheduling for Optimal Responsiveness and Utilization](https://slurm.schedmd.com/SUG14/sched_tutorial.pdf)
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
@@ -267,7 +269,7 @@ Please feel free to update this page through submitting pull requests.
 - [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
 - [Just in time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 
-#### Misc Papers
+#### Misc. Papers
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
 - [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
 
