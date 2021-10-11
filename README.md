@@ -290,7 +290,6 @@ Please feel free to update this page through submitting pull requests.
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
 
 #### Misc.
-  - [Nice notes](https://caiorss.github.io/C-Cpp-Notes/Libraries.html)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
