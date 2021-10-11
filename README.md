@@ -177,6 +177,7 @@ Please feel free to update this page through submitting pull requests.
 - [Introduction to low level bit hacks](https://catonmat.net/low-level-bit-hacks)
 - [How to write fast numerical code: An Introduction](https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf)
 - [Lecture notes on Loop optimizations](https://www.cs.cmu.edu/~fp/courses/15411-f13/lectures/17-loopopt.pdf)
+- [A practical approach to code optimization](https://www.einfochips.com/wp-content/uploads/resources/a-practical-approach-to-optimize-code-implementation.pdf)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
