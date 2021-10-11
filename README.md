@@ -135,6 +135,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
+- [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
 
 ## Learning Resources
 
@@ -173,6 +174,8 @@ Please feel free to update this page through submitting pull requests.
 - [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
 - [Improving Performance with SIMD intrinsics](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
 - [Want speed? Pass by value](https://web.archive.org/web/20140205194657/http://cpp-next.com/archive/2009/08/want-speed-pass-by-value/)
+- [Introduction to low level bit hacks](https://catonmat.net/low-level-bit-hacks)
+- [How to write fast numerical code: An Introduction](https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
