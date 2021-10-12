@@ -105,6 +105,7 @@ Please feel free to update this page through submitting pull requests.
 - [Summary of code performance analysis tools](https://doku.lrz.de/display/PUBLIC/Performance+and+Code+Analysis+Tools+for+HPC)
 - [papi](https://icl.utk.edu/papi/)
 - [scalasca](https://www.scalasca.org/)
+- [tau](https://www.cs.uoregon.edu/research/tau/home.php)
 
 #### Wikis
 
