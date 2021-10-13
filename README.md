@@ -165,7 +165,7 @@ Please feel free to update this page through submitting pull requests.
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
 - [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
 
-#### Tutorials
+#### Tutorials/Guides
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
@@ -180,6 +180,7 @@ Please feel free to update this page through submitting pull requests.
 - [How to write fast numerical code: An Introduction](https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf)
 - [Lecture notes on Loop optimizations](https://www.cs.cmu.edu/~fp/courses/15411-f13/lectures/17-loopopt.pdf)
 - [A practical approach to code optimization](https://www.einfochips.com/wp-content/uploads/resources/a-practical-approach-to-optimize-code-implementation.pdf)
+- [Software optimization manuals](https://www.agner.org/optimize/)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
