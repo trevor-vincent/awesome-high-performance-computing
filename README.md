@@ -194,6 +194,7 @@ Please feel free to update this page through submitting pull requests.
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
 - [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
 - [Programming for Exascale Computers - Will Gropp, Marc Snir](https://snir.cs.illinois.edu/listed/J55.pdf)
+- [On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems (2020)](https://www.mcs.anl.gov/research/projects/argo/publications/2020-sbacpad-peng.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
