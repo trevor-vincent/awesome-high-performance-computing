@@ -107,6 +107,7 @@ Please feel free to update this page through submitting pull requests.
 - [papi](https://icl.utk.edu/papi/)
 - [scalasca](https://www.scalasca.org/)
 - [tau](https://www.cs.uoregon.edu/research/tau/home.php)
+- [scalene](https://github.com/plasma-umass/scalene)
 
 #### Wikis
 
