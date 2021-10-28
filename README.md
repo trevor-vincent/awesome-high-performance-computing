@@ -63,6 +63,7 @@ Please feel free to update this page through submitting pull requests.
 - [HPC-X - Nvidia implementation of MPI](https://developer.nvidia.com/networking/hpc-x)
 - [MPAVICH - Implementation of MPI](https://mvapich.cse.ohio-state.edu/)
 - [mpi4py - pythong bindings for MPI](https://mpi4py.readthedocs.io/en/stable/)
+- [UCX - optimized production proven-communication framework](https://github.com/openucx/ucx#using-ucx)
 
 #### Cluster Management/Tools
 
