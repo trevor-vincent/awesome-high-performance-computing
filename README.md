@@ -64,6 +64,7 @@ Please feel free to update this page through submitting pull requests.
 - [MPAVICH - Implementation of MPI](https://mvapich.cse.ohio-state.edu/)
 - [mpi4py - pythong bindings for MPI](https://mpi4py.readthedocs.io/en/stable/)
 - [UCX - optimized production proven-communication framework](https://github.com/openucx/ucx#using-ucx)
+- [Horovod - distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
 
 #### Cluster Management/Tools
 
