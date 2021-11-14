@@ -65,6 +65,7 @@ Please feel free to update this page through submitting pull requests.
 - [mpi4py - pythong bindings for MPI](https://mpi4py.readthedocs.io/en/stable/)
 - [UCX - optimized production proven-communication framework](https://github.com/openucx/ucx#using-ucx)
 - [Horovod - distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
+- [Taichi (太极) is a parallel programming language for high-performance numerical computations. It is embedded in Python](https://github.com/taichi-dev/taichi)
 
 #### Cluster Management/Tools
 
