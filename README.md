@@ -70,6 +70,7 @@ Please feel free to update this page through submitting pull requests.
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
  - [cpuid](https://en.wikipedia.org/wiki/CPUID)
+ - [cpuid isntruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf)
 
 #### Cluster Management/Tools
 
