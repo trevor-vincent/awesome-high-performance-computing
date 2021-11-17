@@ -69,8 +69,9 @@ Please feel free to update this page through submitting pull requests.
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
+ - [LIKWID.jl - julia wrapper for likwid](https://juliaperf.github.io/LIKWID.jl/dev/)
  - [cpuid](https://en.wikipedia.org/wiki/CPUID)
- - [cpuid isntruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf)
+ - [cpuid instruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf)
 
 #### Cluster Management/Tools
 
