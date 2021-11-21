@@ -182,6 +182,7 @@ Please feel free to update this page through submitting pull requests.
 - [Livermore training materials](https://hpc.llnl.gov/training/tutorials)
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
 - [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
+- [Coursera](https://www.coursera.org/learn/introduction-high-performance-computing)
 
 #### Tutorials/Guides
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
