@@ -272,6 +272,8 @@ Please feel free to update this page through submitting pull requests.
 
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
+ - [HPE HPC](https://twitter.com/hpe_hpc)
+ - [HPC Wire](https://twitter.com/HPCwire)
 
 #### Consulting
 - [Redline Performance](https://redlineperf.com/)
