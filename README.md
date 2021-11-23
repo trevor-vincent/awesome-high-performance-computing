@@ -8,7 +8,7 @@ Please feel free to update this page through submitting pull requests.
  - [General Info](#general-info)
  - [Software](#software)
  - [Hardware](#hardware) 
- - [Learning Resources](#learning-resources)
+ - [Resources](#resources)
  - [Acknowledgements](#acknowledgements )
 
 ## General Info
@@ -153,7 +153,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
 
-## Learning Resources
+## Resources
 
 #### Books/Manuals
 - [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) - Victor Eijkhout 2021
