@@ -314,6 +314,7 @@ Please feel free to update this page through submitting pull requests.
   - [RRZE-HPC](https://github.com/RRZE-HPC)
   - [Argonne Github](https://github.com/Argonne-National-Laboratory)
   - [Oak Ridge National Lab Github](https://github.com/ORNL)
+  - [Compute Canada](https://github.com/ComputeCanada)
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
 
 #### Misc.
