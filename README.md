@@ -121,6 +121,8 @@ Please feel free to update this page through submitting pull requests.
 - [scalene](https://github.com/plasma-umass/scalene)
 - [vampir](https://vampir.eu/)
 - [kerncraft](https://github.com/RRZE-HPC/kerncraft)
+- [NASA parallel benchmark suite](https://www.nas.nasa.gov/software/npb.html)
+- [The Bandwidth Benchmark](git@github.com:RRZE-HPC/TheBandwidthBenchmark.git)
 
 #### Wikis
 
