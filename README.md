@@ -119,6 +119,8 @@ Please feel free to update this page through submitting pull requests.
 - [scalasca](https://www.scalasca.org/)
 - [tau](https://www.cs.uoregon.edu/research/tau/home.php)
 - [scalene](https://github.com/plasma-umass/scalene)
+- [vampir](https://vampir.eu/)
+- [kerncraft](https://github.com/RRZE-HPC/kerncraft)
 
 #### Wikis
 
