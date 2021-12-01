@@ -72,7 +72,9 @@ Please feel free to update this page through submitting pull requests.
  - [LIKWID.jl - julia wrapper for likwid](https://juliaperf.github.io/LIKWID.jl/dev/)
  - [cpuid](https://en.wikipedia.org/wiki/CPUID)
  - [cpuid instruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf)
-
+ - [cpufetch](https://github.com/Dr-Noob/cpufetch)
+ - [gpufetch](https://github.com/Dr-Noob/gpufetch)
+ 
 #### Cluster Management/Tools
 
 - [OpenHPC](https://openhpc.community/)
