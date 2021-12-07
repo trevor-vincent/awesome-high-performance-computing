@@ -176,6 +176,7 @@ Please feel free to update this page through submitting pull requests.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 - [Optimizing subroutines in assembly code](https://www.agner.org/optimize/optimizing_assembly.pdf)
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
+- [Parallel Programming with MPI](https://www.cs.usfca.edu/~peter/ppmpi/)
 
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
