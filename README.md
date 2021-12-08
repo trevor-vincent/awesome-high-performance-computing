@@ -333,6 +333,7 @@ Please feel free to update this page through submitting pull requests.
   - [Nvidia HPC benchmarks](https://ngc.nvidia.com/catalog/containers/nvidia:hpc-benchmarks)
   - [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
   - [AWS Cloud calculator](https://calculator.aws/)
+  - [Quickly benchmark C++ functions](https://quick-bench.com/)
 
 ## Acknowledgements
 
