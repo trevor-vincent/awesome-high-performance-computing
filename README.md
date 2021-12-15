@@ -148,6 +148,11 @@ Please feel free to update this page through submitting pull requests.
 - [A100 Whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
 - [MIG]()
 
+### Cloud
+
+- [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
+- [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
+
 ### Wikis
 
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
