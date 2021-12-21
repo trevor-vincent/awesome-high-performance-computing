@@ -75,8 +75,10 @@ Please feel free to update this page through submitting pull requests.
  - [cpufetch](https://github.com/Dr-Noob/cpufetch)
  - [gpufetch](https://github.com/Dr-Noob/gpufetch)
  
-#### Cluster Management/Tools
+#### Cluster Management/Tools/Stacks
 
+- [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/)
+- [RADIUSS - Rapid Application Development via an Institutional Universal Software Stack](https://computing.llnl.gov/projects/radiuss)
 - [OpenHPC](https://openhpc.community/)
 - [Slurm](https://slurm.schedmd.com/overview.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
