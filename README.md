@@ -124,7 +124,7 @@ Please feel free to update this page through submitting pull requests.
 - [vampir](https://vampir.eu/)
 - [kerncraft](https://github.com/RRZE-HPC/kerncraft)
 - [NASA parallel benchmark suite](https://www.nas.nasa.gov/software/npb.html)
-- [The Bandwidth Benchmark](git@github.com:RRZE-HPC/TheBandwidthBenchmark.git)
+- [The Bandwidth Benchmark](https://github.com/RRZE-HPC/TheBandwidthBenchmark/)
 
 #### Wikis
 
