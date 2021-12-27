@@ -332,6 +332,7 @@ Please feel free to update this page through submitting pull requests.
   - [Oak Ridge National Lab Github](https://github.com/ORNL)
   - [Compute Canada](https://github.com/ComputeCanada)
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
+  - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
 
 #### Misc.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
