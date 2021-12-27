@@ -114,7 +114,7 @@ Please feel free to update this page through submitting pull requests.
 - [totalview](https://totalview.io/)
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
 
-#### Performance Tools for HPC
+#### Performance/Benchmark Tools for HPC
 
 - [Summary of code performance analysis tools](https://doku.lrz.de/display/PUBLIC/Performance+and+Code+Analysis+Tools+for+HPC)
 - [papi](https://icl.utk.edu/papi/)
