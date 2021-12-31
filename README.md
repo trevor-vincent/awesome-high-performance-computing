@@ -148,7 +148,12 @@ Please feel free to update this page through submitting pull requests.
 - [Gpu Architecture Analysis](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_parallel)
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [A100 Whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
-- [MIG]()
+- [MIG](https://www.nvidia.com/en-us/technologies/multi-instance-gpu/)
+
+### TPU/Tensor Cores
+
+- [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+- [NVIDIA Tensor Cores](https://www.nvidia.com/en-us/data-center/tensor-cores/)
 
 ### Cloud
 
@@ -166,6 +171,7 @@ Please feel free to update this page through submitting pull requests.
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
+- [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
 
 ## Resources
 
