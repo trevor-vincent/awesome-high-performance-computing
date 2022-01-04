@@ -326,6 +326,7 @@ Please feel free to update this page through submitting pull requests.
 - [Just in time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 
 #### Misc. Papers
+- [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
 - [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
 
