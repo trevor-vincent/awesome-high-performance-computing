@@ -106,6 +106,7 @@ Please feel free to update this page through submitting pull requests.
 - [Jacamar-ci](https://gitlab.com/ecp-ci/jacamar-ci/-/blob/develop/README.md)
 - [Prefect](https://www.prefect.io/)
 - [Apache Airflow](https://airflow.apache.org/)
+- [HPC Rocket - submit slurm jobs in CI](https://github.com/SvenMarcus/hpc-rocket)
 
 #### Debugging Tools for HPC
 
