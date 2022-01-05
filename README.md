@@ -66,6 +66,7 @@ Please feel free to update this page through submitting pull requests.
 - [UCX - optimized production proven-communication framework](https://github.com/openucx/ucx#using-ucx)
 - [Horovod - distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
 - [Taichi - parallel programming language for high-performance numerical computations (embedded in Python with JIT support)](https://github.com/taichi-dev/taichi)
+- [MAGMA - next generation linear algebra (LA) GPU accelerated libraries](https://developer.nvidia.com/magma)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
