@@ -67,6 +67,7 @@ Please feel free to update this page through submitting pull requests.
 - [Horovod - distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
 - [Taichi - parallel programming language for high-performance numerical computations (embedded in Python with JIT support)](https://github.com/taichi-dev/taichi)
 - [MAGMA - next generation linear algebra (LA) GPU accelerated libraries](https://developer.nvidia.com/magma)
+- [NVIDIA cuNumeric - GPU drop-in for numpy](https://developer.nvidia.com/cunumeric)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
