@@ -165,6 +165,11 @@ Please feel free to update this page through submitting pull requests.
 - [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 
+### Custom/FPGA/ASIC/Other
+
+- [OpenPiton](http://parallel.princeton.edu/openpiton/)
+- [Parallela](https://www.parallella.org/)
+
 ### Wikis
 
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
