@@ -227,6 +227,8 @@ Please feel free to update this page through submitting pull requests.
 - [Lecture notes on Loop optimizations](https://www.cs.cmu.edu/~fp/courses/15411-f13/lectures/17-loopopt.pdf)
 - [A practical approach to code optimization](https://www.einfochips.com/wp-content/uploads/resources/a-practical-approach-to-optimize-code-implementation.pdf)
 - [Software optimization manuals](https://www.agner.org/optimize/)
+- [Guide into OpenMP: Easy multithreading programming for C++](https://bisqwit.iki.fi/story/howto/openmp/)
+- [An Introduction to the Partitioned Global Address Space (PGAS) Programming Model](https://cnx.org/contents/gtg1AzdI@7/An-Introduction-to-the-Partitioned-Global-Address-Space-PGAS-Programming-Model)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
