@@ -325,6 +325,8 @@ Please feel free to update this page through submitting pull requests.
   - [Prace](https://prace-ri.eu/)
   - [Xsede](https://www.xsede.org/)
   - [Compute Canada](https://www.computecanada.ca/)
+  - [Riken CSS](https://www.riken.jp/en/research/labs/r-ccs/)
+  - [International Data Corporation](https://www.idc.com/)
 
 #### Misc. Wikis
 - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
