@@ -273,6 +273,7 @@ Please feel free to update this page through submitting pull requests.
 - [Sharcnet HPC](https://www.youtube.com/channel/UCCRmb5_GMWT2hSlALHlwIMg)
 - [Low Latency C++ for fun and profit](https://www.youtube.com/watch?v=BxfT9fiUsZ4)
 - [scalane python profiler](https://youtu.be/5iEf-_7mM1k)
+- [Kokkos lectures](https://www.youtube.com/watch?v=rUIcWtFU5qM&t=698s)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
@@ -318,7 +319,7 @@ Please feel free to update this page through submitting pull requests.
 - [R systems](http://rsystemsinc.com/)
 - [Advanced Clustering](https://www.advancedclustering.com/)
 
-#### HPC Interview Preparation
+#### Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
 
 #### Organizations
