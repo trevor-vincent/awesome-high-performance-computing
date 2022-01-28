@@ -160,15 +160,20 @@ Please feel free to update this page through submitting pull requests.
 - [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
 - [NVIDIA Tensor Cores](https://www.nvidia.com/en-us/data-center/tensor-cores/)
 
+### Many integrated core processor (MIC)
+
+- [Xeon Phi](https://en.wikipedia.org/wiki/Xeon_Phi)
+
 ### Cloud
 
 - [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 
-### Custom/FPGA/ASIC/Other
+### Custom/FPGA/ASIC/APU/Other
 
 - [OpenPiton](http://parallel.princeton.edu/openpiton/)
 - [Parallela](https://www.parallella.org/)
+- [AMD APU](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
 
 ### Wikis
 
