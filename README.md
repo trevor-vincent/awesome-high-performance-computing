@@ -334,6 +334,7 @@ Please feel free to update this page through submitting pull requests.
   - [Compute Canada](https://www.computecanada.ca/)
   - [Riken CSS](https://www.riken.jp/en/research/labs/r-ccs/)
   - [International Data Corporation](https://www.idc.com/)
+  - [List of Federally funded research and development centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers)
 
 #### Misc. Wikis
 - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
