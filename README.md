@@ -79,6 +79,7 @@ Please feel free to update this page through submitting pull requests.
  
 #### Cluster Management/Tools/Stacks
 
+- [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager)
 - [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/)
 - [RADIUSS - Rapid Application Development via an Institutional Universal Software Stack](https://computing.llnl.gov/projects/radiuss)
 - [OpenHPC](https://openhpc.community/)
@@ -100,7 +101,10 @@ Please feel free to update this page through submitting pull requests.
 
 #### Development/Workflow Tools for HPC
 
-- [Singularity](https://singularity.lbl.gov/)
+- [Singularity - "the docker of HPC"](https://singularity.lbl.gov/)
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
+- [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster)
 - [Vaex - high performance dataframes in python](https://github.com/vaexio/vaex)
 - [HTCondor](https://research.cs.wisc.edu/htcondor/)
 - [grpc - high performance modern remote procedure call framework](https://grpc.io/)
@@ -131,6 +135,8 @@ Please feel free to update this page through submitting pull requests.
 - [The Bandwidth Benchmark](https://github.com/RRZE-HPC/TheBandwidthBenchmark/)
 - [Google benchmark](https://github.com/google/benchmark)
 - [demonspawn](https://github.com/TACC/demonspawn)
+- [HPL benchmark](https://www.netlib.org/benchmark/hpl/)
+- [ngstress](https://github.com/ColinIanKing/stress-ng)
 
 #### Wikis
 
@@ -139,8 +145,10 @@ Please feel free to update this page through submitting pull requests.
 
 ## Hardware
 
-### Interconnects
+### Interconnects/Topology
 
+- [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
+- [Infiniband](https://en.wikipedia.org/wiki/InfiniBand)
 - [Network topologies](https://www.hpcwire.com/2019/07/15/super-connecting-the-supercomputers-innovations-through-network-topologies/)
 - [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 - [Mellanox infiniband cluster config](https://www.mellanox.com/clusterconfig/)
@@ -176,18 +184,21 @@ Please feel free to update this page through submitting pull requests.
 - [Parallela](https://www.parallella.org/)
 - [AMD APU](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
 
-### Wikis
+### Other/Wikis
 
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
-- [Infinband](https://en.wikipedia.org/wiki/InfiniBand#:~:text=InfiniBand%20(IB)%20is%20a%20computer,both%20among%20and%20within%20computers.)
 - [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
 - [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+- [IPMI](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface)
+- [FRU](https://en.wikipedia.org/wiki/Field-replaceable_unit)
+- [Disk Arrays](https://en.wikipedia.org/wiki/Disk_array)
+- [RAID](https://en.wikipedia.org/wiki/RAID)
 
 ## Resources
 
