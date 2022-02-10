@@ -361,6 +361,8 @@ Please feel free to update this page through submitting pull requests.
 - [Compute Canada Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 - [Network Interface Controller (NIC)](https://en.wikipedia.org/wiki/Network_interface_controller)
 - [Just in time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- [List of distributed computing projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects)
+- [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
 
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
