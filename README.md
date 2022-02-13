@@ -365,6 +365,10 @@ Please feel free to update this page through submitting pull requests.
 - [List of distributed computing projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
 
+#### Building Clusters
+- [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
+- [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
+
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
