@@ -204,6 +204,7 @@ Please feel free to update this page through submitting pull requests.
 ## Resources
 
 #### Books/Manuals
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) - Victor Eijkhout 2021
 - [Parallel Programming for Science and Engineering](https://web.corral.tacc.utexas.edu/CompEdu/pdf/pcse/EijkhoutParallelProgramming.pdf) - Victor EIjkhout 2021
 - [Parallel Programming for Science and Engineering - HTML Version](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
