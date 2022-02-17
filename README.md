@@ -213,6 +213,10 @@ Please feel free to update this page through submitting pull requests.
 
 #### Books/Manuals
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+- [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
+- [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.ca/Introduction-Performance-Computing-Scientists-Engineers/dp/143981192X/ref=sr_1_1?crid=1L276HPEB8K7I&keywords=Introduction+to+High+Performance+Computing+for+Scientists+and+Engineers&qid=1645137608&s=books&sprefix=introduction+to+high+performance+computing+for+scientists+and+engineers%2Cstripbooks%2C46&sr=1-1) - Hager 2010
+- [Computer Organization and Design](https://www.amazon.ca/Computer-Organization-Design-RISC-V-Interface/dp/0128203315/ref=sr_1_1?crid=1XLX1HWLGRVO6&keywords=Computer+Organization+and+Design&qid=1645137443&s=books&sprefix=computer+organization+and+design%2Cstripbooks%2C48&sr=1-1)
+- [Optimizing HPC Applications with Intel Cluster Tools: Hunting Petaflops](C+Applications+with+Intel+Cluster+Tools&qid=1645137507&s=books&sprefix=optimizing+hpc+applications+with+intel+cluster+tools%2Cstripbooks%2C80&sr=1-1)
 - [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) - Victor Eijkhout 2021
 - [Parallel Programming for Science and Engineering](https://web.corral.tacc.utexas.edu/CompEdu/pdf/pcse/EijkhoutParallelProgramming.pdf) - Victor EIjkhout 2021
 - [Parallel Programming for Science and Engineering - HTML Version](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
@@ -229,7 +233,7 @@ Please feel free to update this page through submitting pull requests.
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
 - [Parallel Programming with MPI](https://www.cs.usfca.edu/~peter/ppmpi/)
 - [HPC, Big Data, AI Convergence Towards Exascale: Challenge and Vision](https://www.taylorfrancis.com/books/edit/10.1201/9781003176664/hpc-big-data-ai-convergence-towards-exascale-olivier-terzo-jan-martinovi%C4%8D?refId=2cd8b0ad-d63d-42fa-9c3e-fe47fbbe0e29&context=ubx)
-- [Introduction to parallel computing - Ananth Grama](https://www.amazon.com/Introduction-Parallel-Computing-Ananth-Grama/dp/0201648652/ref=sr_1_1?crid=LE1VD245VDX5&keywords=Ananth+Grama+-+Introduction+to+parallel+computing&qid=1644907263&sprefix=ananth+grama+-+introduction+to+parallel+computing%2Caps%2C43&sr=8-1) 
+- [Introduction to parallel computing](https://www.amazon.com/Introduction-Parallel-Computing-Ananth-Grama/dp/0201648652/ref=sr_1_1?crid=LE1VD245VDX5&keywords=Ananth+Grama+-+Introduction+to+parallel+computing&qid=1644907263&sprefix=ananth+grama+-+introduction+to+parallel+computing%2Caps%2C43&sr=8-1) - Ananth Grama
 
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
