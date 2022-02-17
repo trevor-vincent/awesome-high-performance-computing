@@ -248,6 +248,7 @@ Please feel free to update this page through submitting pull requests.
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
 - [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
 - [Introduction to High-Performance and Parallel Computing - Coursera](https://www.coursera.org/learn/introduction-high-performance-computing)
+- [Foundations of HPC 2020/2021](https://github.com/Foundations-of-HPC/Foundations_of_HPC_2020)
 
 #### Tutorials/Guides
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
