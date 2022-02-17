@@ -69,6 +69,7 @@ Please feel free to update this page through submitting pull requests.
 - [MAGMA - next generation linear algebra (LA) GPU accelerated libraries](https://developer.nvidia.com/magma)
 - [NVIDIA cuNumeric - GPU drop-in for numpy](https://developer.nvidia.com/cunumeric)
 - [Halide - a language for fast, portable computation on images and tensors](https://halide-lang.org/index.html#gettingstarted)
+- [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
