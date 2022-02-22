@@ -24,7 +24,7 @@ Please feel free to update this page through submitting pull requests.
 
 ## Software
 
-#### Popular HPC Programming Libraries/APIs/Tools
+#### Popular HPC Programming Libraries/APIs/Tools/Standards
 
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
@@ -70,6 +70,7 @@ Please feel free to update this page through submitting pull requests.
 - [NVIDIA cuNumeric - GPU drop-in for numpy](https://developer.nvidia.com/cunumeric)
 - [Halide - a language for fast, portable computation on images and tensors](https://halide-lang.org/index.html#gettingstarted)
 - [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
+- [PMIX](https://pmix.github.io/standard)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -79,13 +80,14 @@ Please feel free to update this page through submitting pull requests.
  - [cpufetch](https://github.com/Dr-Noob/cpufetch)
  - [gpufetch](https://github.com/Dr-Noob/gpufetch)
  
-#### Cluster Management/Tools/Stacks
+#### Cluster Management/Tools/Schedulers/Stacks
 
 - [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager)
 - [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/)
 - [RADIUSS - Rapid Application Development via an Institutional Universal Software Stack](https://computing.llnl.gov/projects/radiuss)
 - [OpenHPC](https://openhpc.community/)
 - [Slurm](https://slurm.schedmd.com/overview.html)
+- [SGE](http://star.mit.edu/cluster/docs/0.93.3/guides/sge.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 - [Lustre Parallel File System](https://www.lustre.org/)
 - [GPFS](https://en.wikipedia.org/wiki/GPFS)
@@ -193,6 +195,10 @@ Please feel free to update this page through submitting pull requests.
 - [OpenPiton](http://parallel.princeton.edu/openpiton/)
 - [Parallela](https://www.parallella.org/)
 - [AMD APU](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
+
+### Certification
+
+- [Intel Cluster Ready](https://en.wikipedia.org/wiki/Intel_Cluster_Ready)
 
 ### Other/Wikis
 
