@@ -316,6 +316,7 @@ Please feel free to update this page through submitting pull requests.
 - [Low Latency C++ for fun and profit](https://www.youtube.com/watch?v=BxfT9fiUsZ4)
 - [scalane python profiler](https://youtu.be/5iEf-_7mM1k)
 - [Kokkos lectures](https://www.youtube.com/watch?v=rUIcWtFU5qM&t=698s)
+- [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://www.youtube.com/watch?v=WpVbcYnFJmQ)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
