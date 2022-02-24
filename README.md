@@ -175,7 +175,8 @@ Please feel free to update this page through submitting pull requests.
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [A100 Whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
 - [MIG](https://www.nvidia.com/en-us/technologies/multi-instance-gpu/)
-
+- [Gentle Intro to GPU Inner Workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)\
+ 
 ### TPU/Tensor Cores
 
 - [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
