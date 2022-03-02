@@ -299,7 +299,7 @@ Please feel free to update this page through submitting pull requests.
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 
-#### Youtube
+#### Youtube Videos/Courses
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
@@ -319,6 +319,7 @@ Please feel free to update this page through submitting pull requests.
 - [scalane python profiler](https://youtu.be/5iEf-_7mM1k)
 - [Kokkos lectures](https://www.youtube.com/watch?v=rUIcWtFU5qM&t=698s)
 - [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://www.youtube.com/watch?v=WpVbcYnFJmQ)
+- [The Spack 2022 Roadmap](https://www.youtube.com/watch?v=HyA7RpjoY1k)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
