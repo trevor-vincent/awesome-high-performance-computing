@@ -71,6 +71,7 @@ Please feel free to update this page through submitting pull requests.
 - [Halide - a language for fast, portable computation on images and tensors](https://halide-lang.org/index.html#gettingstarted)
 - [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 - [PMIX](https://pmix.github.io/standard)
+- [NCCL](https://developer.nvidia.com/nccl)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -412,7 +413,7 @@ Please feel free to update this page through submitting pull requests.
   - [Compute Canada](https://github.com/ComputeCanada)
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
   - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
-
+`
 #### Misc.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
