@@ -290,6 +290,7 @@ Please feel free to update this page through submitting pull requests.
 - [On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems (2020)](https://www.mcs.anl.gov/research/projects/argo/publications/2020-sbacpad-peng.pdf)
 - [Advances in Parallel & Distributed Processing, and Applications (conference proceedings)](https://link.springer.com/book/10.1007/978-3-030-69984-0)
 - [Designing Heterogeneous Systems: Large Scale Architectural Exploration Via Simulation](https://ieeexplore.ieee.org/abstract/document/9651152)
+- [Reinventing High Performance Computing: Challenges and Opportunities](https://arxiv.org/pdf/2203.02544.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
