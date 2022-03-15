@@ -73,7 +73,6 @@ Please feel free to update this page through submitting pull requests.
 - [PMIX](https://pmix.github.io/standard)
 - [NCCL](https://developer.nvidia.com/nccl)
 - [Kompute - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
-- [MPJExpress - MPI for Java](http://mpjexpress.org/)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
