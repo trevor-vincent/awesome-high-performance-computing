@@ -146,6 +146,7 @@ Please feel free to update this page through submitting pull requests.
 - [demonspawn](https://github.com/TACC/demonspawn)
 - [HPL benchmark](https://www.netlib.org/benchmark/hpl/)
 - [ngstress](https://github.com/ColinIanKing/stress-ng)
+- [HPC IO Benchmark Repository](https://github.com/hpc/ior)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
