@@ -73,9 +73,7 @@ Please feel free to update this page through submitting pull requests.
 - [PMIX](https://pmix.github.io/standard)
 - [NCCL](https://developer.nvidia.com/nccl)
 - [Kompute - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
-- [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development.
-
-](https://github.com/alpaka-group/alpaka)
+- [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -424,6 +422,7 @@ Please feel free to update this page through submitting pull requests.
   - [Compute Canada](https://github.com/ComputeCanada)
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
   - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
+  - [LANL HPC Github](https://github.com/hpc)
 `
 #### Misc.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
