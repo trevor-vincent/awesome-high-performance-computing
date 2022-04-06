@@ -435,6 +435,10 @@ Please feel free to update this page through submitting pull requests.
   - [AWS Cloud calculator](https://calculator.aws/)
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
 
+#### Other Guides
+   - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
+   - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
+
 ## Acknowledgements
 
 This repo started from the great curated list https://github.com/taskflow/awesome-parallel-computing
