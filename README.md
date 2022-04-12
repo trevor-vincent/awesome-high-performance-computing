@@ -296,6 +296,7 @@ Please feel free to update this page through submitting pull requests.
 - [Advances in Parallel & Distributed Processing, and Applications (conference proceedings)](https://link.springer.com/book/10.1007/978-3-030-69984-0)
 - [Designing Heterogeneous Systems: Large Scale Architectural Exploration Via Simulation](https://ieeexplore.ieee.org/abstract/document/9651152)
 - [Reinventing High Performance Computing: Challenges and Opportunities (2022)](https://arxiv.org/pdf/2203.02544.pdf)
+- [Challenges in Heterogeneous HPC White Paper (2022)](https://www.etp4hpc.eu/pujades/files/ETP4HPC_WP_Heterogeneous-HPC_20220216.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
@@ -333,7 +334,7 @@ Please feel free to update this page through submitting pull requests.
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 - [Tuning Slurm Scheduling for Optimal Responsiveness and Utilization](https://slurm.schedmd.com/SUG14/sched_tutorial.pdf)
 - [Parallel Programming Models Overview (2020)](https://www.researchgate.net/publication/348187154_Parallel_programming_models_overview_2020)
-- [Comparative Analysis of Kokkos and Sycl (Jeff Hammond)](https://www.iwocl.org/wp-content/uploads/iwocl-2019-dhpcc-jeff-hammond-a-comparitive-analysis-of-kokkos-and-sycl.pdf)
+- [Comparative Analysis of Kokkos and Sycl (Jeff Hammond)](https://www.iwocl.org/wp-content/uploads/iwocl-2019-dhpcc-jeff-hammond-a-comparitive-analysis-of-kokkos-and-sycl.pdf) 
 - [Hybrid OpenMP/MPI Programming](https://www.nersc.gov/assets/Uploads/NUG2013hybridMPIOpenMP2.pdf)
 
 #### Forums
