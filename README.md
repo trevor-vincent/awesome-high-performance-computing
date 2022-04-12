@@ -71,7 +71,7 @@ Please feel free to update this page through submitting pull requests.
 - [Halide - a language for fast, portable computation on images and tensors](https://halide-lang.org/index.html#gettingstarted)
 - [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 - [PMIX](https://pmix.github.io/standard)
-- [NCCL](https://developer.nvidia.com/nccl)
+- [NCCL - The NVIDIA Collective Communication Library (NCCL) implements multi-GPU and multi-node communication primitives optimized for NVIDIA GPUs and Networking](https://developer.nvidia.com/nccl)
 - [Kompute - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
 - [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
 
