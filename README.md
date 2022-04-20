@@ -108,7 +108,7 @@ Please feel free to update this page through submitting pull requests.
 
 #### Development/Workflow Tools for HPC
 
-- [Singularity - "the docker of HPC"](https://singularity.lbl.gov/)
+- [Apptainer (formerly Singularity) - "the docker of HPC"](https://singularity.lbl.gov/)
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster)
