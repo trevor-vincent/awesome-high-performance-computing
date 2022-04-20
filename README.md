@@ -105,7 +105,7 @@ Please feel free to update this page through submitting pull requests.
 - [OpenXdMod](https://open.xdmod.org/7.5/index.html)
 - [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=lsf-batch-jobs-tasks)
 - [BeeGFS](http://beegfs.io/docs/whitepapers/Introduction_to_BeeGFS_by_ThinkParQ.pdf)
-- [DeepOps - Nvidia GPU infrastructure and automation tools](GPU infrastructure and automation tools)
+- [DeepOps - Nvidia GPU infrastructure and automation tools](https://github.com/NVIDIA/deepops)
 
 #### Development/Workflow Tools for HPC
 
