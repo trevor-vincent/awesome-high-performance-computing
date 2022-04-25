@@ -287,6 +287,7 @@ Please feel free to update this page through submitting pull requests.
 - [C++ Benchmarking for beginners](https://unum.cloud/post/2022-03-04-gbench/)
 - [Mapping MPI ranks to multiple cuda GPU](https://github.com/olcf-tutorials/local_mpi_to_gpu)
 - [Oak Ridge National Lab Tutorials](https://github.com/olcf-tutorials)
+- [How to perform large scale data processing in bioinformatics](https://medium.com/dnanexus/how-to-perform-large-scale-data-processing-in-bioinformatics-4006e8088af2)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
