@@ -8,6 +8,7 @@ Please feel free to update this page through submitting pull requests.
  - [General Info](#general-info)
  - [Software](#software)
  - [Hardware](#hardware) 
+ - [People](#people)
  - [Resources](#resources)
  - [Acknowledgements](#acknowledgements )
 
@@ -223,6 +224,11 @@ Please feel free to update this page through submitting pull requests.
 - [FRU](https://en.wikipedia.org/wiki/Field-replaceable_unit)
 - [Disk Arrays](https://en.wikipedia.org/wiki/Disk_array)
 - [RAID](https://en.wikipedia.org/wiki/RAID)
+
+## People
+
+ - [Jack Dongarra - 2021 Turing Award - LINPACK, BLAS, LAPACK, MPI](https://www.nature.com/articles/s43588-022-00245-w)
+
 
 ## Resources
 
