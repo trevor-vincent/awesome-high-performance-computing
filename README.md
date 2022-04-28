@@ -348,6 +348,7 @@ Please feel free to update this page through submitting pull requests.
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
+ - [r/slurm](https://www.reddit.com/r/SLURM/)
 
 #### Careers
  - [HPC University Careers search](http://hpcuniversity.org/careers/)
