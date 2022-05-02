@@ -270,6 +270,7 @@ Please feel free to update this page through submitting pull requests.
 - [Parallel Computation Math](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/)
 - [Introduction to High-Performance and Parallel Computing - Coursera](https://www.coursera.org/learn/introduction-high-performance-computing)
 - [Foundations of HPC 2020/2021](https://github.com/Foundations-of-HPC)
+- [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/)
 
 #### Tutorials/Guides
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
