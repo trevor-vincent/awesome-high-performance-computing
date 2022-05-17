@@ -75,6 +75,7 @@ Please feel free to update this page through submitting pull requests.
 - [NCCL - The NVIDIA Collective Communication Library (NCCL) implements multi-GPU and multi-node communication primitives optimized for NVIDIA GPUs and Networking](https://developer.nvidia.com/nccl)
 - [Kompute - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
 - [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
+- [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -415,6 +416,7 @@ Please feel free to update this page through submitting pull requests.
 #### Building Clusters
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
 - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
+- [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
 
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
@@ -444,6 +446,7 @@ Please feel free to update this page through submitting pull requests.
   - [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
   - [AWS Cloud calculator](https://calculator.aws/)
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
+  - [LLNL Software repository](https://software.llnl.gov/)
 
 #### Other Guides
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
