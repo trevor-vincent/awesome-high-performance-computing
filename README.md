@@ -176,6 +176,10 @@ Please feel free to update this page through submitting pull requests.
 
 ### CPU
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
+- [Apple M1](https://en.wikipedia.org/wiki/Apple_M1)
+- [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
+- [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
+- [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 
 ### GPU
 
