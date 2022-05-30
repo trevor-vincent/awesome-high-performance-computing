@@ -347,6 +347,7 @@ Please feel free to update this page through submitting pull requests.
 - [Kokkos lectures](https://www.youtube.com/watch?v=rUIcWtFU5qM&t=698s)
 - [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://www.youtube.com/watch?v=WpVbcYnFJmQ)
 - [The Spack 2022 Roadmap](https://www.youtube.com/watch?v=HyA7RpjoY1k)
+- [A Not So Simple Matter of Software | Talk by Turing Award Winner Prof. Jack Dongarra](https://youtu.be/QBCX3Oxp3vw)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
