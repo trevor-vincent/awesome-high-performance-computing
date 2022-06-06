@@ -78,6 +78,7 @@ Please feel free to update this page through submitting pull requests.
 - [Kompute - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
 - [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
 - [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator)
+- [highway - performance portable SIMD intrinsics](https://github.com/google/highway)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
