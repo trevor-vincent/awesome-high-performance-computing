@@ -15,13 +15,12 @@ Please feel free to update this page through submitting pull requests.
 ## General Info
 
 ### A Few Upcoming Supercomputers 
- - [Frontier](https://www.amd.com/en/products/exascale-era) - 2022, AMD-based, ~1.5 exaflops
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2022, Intel-based, ~1 exaflops
  - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2022, ~700 Petaflop (Linpack500)
 
 ### Most Recent List of the Top500 Supercomputers
- - [November 2021](https://www.top500.org/lists/top500/2021/11/)
+ - [June 2022](https://www.top500.org/lists/top500/2022/06/)
 
 ### History
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
