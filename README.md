@@ -355,6 +355,7 @@ Please feel free to update this page through submitting pull requests.
 - [Parallel Programming Models Overview (2020)](https://www.researchgate.net/publication/348187154_Parallel_programming_models_overview_2020)
 - [Comparative Analysis of Kokkos and Sycl (Jeff Hammond)](https://www.iwocl.org/wp-content/uploads/iwocl-2019-dhpcc-jeff-hammond-a-comparitive-analysis-of-kokkos-and-sycl.pdf) 
 - [Hybrid OpenMP/MPI Programming](https://www.nersc.gov/assets/Uploads/NUG2013hybridMPIOpenMP2.pdf)
+- [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean (Google)](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
