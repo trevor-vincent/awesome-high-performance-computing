@@ -238,6 +238,7 @@ Please feel free to update this page through submitting pull requests.
  - [Jack Dongarra - 2021 Turing Award - LINPACK, BLAS, LAPACK, MPI](https://www.nature.com/articles/s43588-022-00245-w)
  - [Bill Gropp - 2010 IEEE TCSC Medal for Excellence in Scalable Computing](https://en.wikipedia.org/wiki/Bill_Gropp)
  - [David Bader - built the first Linux supercomputer](https://en.wikipedia.org/wiki/David_Bader_(computer_scientist))
+ - [Thomas Sterling - Inventor of Beowulf cluster, Parallel/HPX](https://en.wikipedia.org/wiki/Thomas_Sterling_(computing))
 
 ## Resources
 
