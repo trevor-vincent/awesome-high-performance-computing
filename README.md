@@ -79,6 +79,7 @@ Please feel free to update this page through submitting pull requests.
 - [alpaka - The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
 - [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator)
 - [highway - performance portable SIMD intrinsics](https://github.com/google/highway)
+- [NVIDIA stdpar - GPU accelerated C++](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
