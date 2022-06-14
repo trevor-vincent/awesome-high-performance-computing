@@ -80,6 +80,7 @@ Please feel free to update this page through submitting pull requests.
 - [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator)
 - [highway - performance portable SIMD intrinsics](https://github.com/google/highway)
 - [NVIDIA stdpar - GPU accelerated C++](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
+- [Tuplex - Blazing fast python data science](https://tuplex.cs.brown.edu/)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
