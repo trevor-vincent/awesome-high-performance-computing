@@ -324,6 +324,7 @@ Please feel free to update this page through submitting pull requests.
 - [NextPlatform](https://www.nextplatform.com)
 - [Datacenter Dynamics](https://www.datacenterdynamics.com/en/)
 - [Admin Magazine HPC](https://www.admin-magazine.com/HPC/News)
+- [Toms hardware](https://www.tomshardware.com/)
 
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
