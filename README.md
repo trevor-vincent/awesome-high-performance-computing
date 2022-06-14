@@ -192,7 +192,8 @@ Please feel free to update this page through submitting pull requests.
 - [A100 Whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
 - [MIG](https://www.nvidia.com/en-us/technologies/multi-instance-gpu/)
 - [Gentle Intro to GPU Inner Workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
- 
+- [AMD Instinct GPUs](https://en.wikipedia.org/wiki/AMD_Instinct_accelerators)
+
 ### TPU/Tensor Cores
 
 - [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
