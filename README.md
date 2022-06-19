@@ -1,10 +1,11 @@
 # Awesome High Performance Computing Resources
 
-A curated list of awesome high performance computing resources. 
-Please feel free to update this page through submitting pull requests.
+<p align="center">
+<img src="https://github.com/trevor-vincent/awesome-high-performance-computing/blob/f4cdef5d96d5b942477101017d900b68574426c5/sup.jpeg" width="500">
+</p>
 
 <p align="center">
-<img src="https://github.com/trevor-vincent/awesome-high-performance-computing/blob/bd94b5ff5ed3189cea8d0aa7d3a5dc98ba2fe777/frontier.jpg" width="500">
+A curated list of awesome high performance computing resources. 
 </p>
 
 ## Table of Contents
