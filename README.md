@@ -3,6 +3,10 @@
 A curated list of awesome high performance computing resources. 
 Please feel free to update this page through submitting pull requests.
 
+<p align="center">
+<img src="https://github.com/trevor-vincent/awesome-high-performance-computing/blob/bd94b5ff5ed3189cea8d0aa7d3a5dc98ba2fe777/frontier.jpg" width="500">
+</p>
+
 ## Table of Contents
 
  - [General Info](#general-info)
