@@ -119,6 +119,7 @@ A curated list of awesome high performance computing resources.
 - [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=lsf-batch-jobs-tasks)
 - [BeeGFS](http://beegfs.io/docs/whitepapers/Introduction_to_BeeGFS_by_ThinkParQ.pdf)
 - [DeepOps - Nvidia GPU infrastructure and automation tools](https://github.com/NVIDIA/deepops)
+- [fpsync - fast parallel data transfer using fpart and rsync](http://www.fpart.org/fpsync/)
 
 #### Development/Workflow Tools for HPC
 
