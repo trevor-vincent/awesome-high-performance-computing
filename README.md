@@ -379,6 +379,7 @@ A curated list of awesome high performance computing resources.
 #### Careers
  - [HPC University Careers search](http://hpcuniversity.org/careers/)
  - [HPC wire career site](https://careers.hpcwire.com/)
+ - [HPC certification](https://www.hpc-certification.org/)
 
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
