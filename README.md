@@ -251,7 +251,8 @@ A curated list of awesome high performance computing resources.
  - [David Bader - built the first Linux supercomputer](https://en.wikipedia.org/wiki/David_Bader_(computer_scientist))
  - [Thomas Sterling - Inventor of Beowulf cluster, Parallel/HPX](https://en.wikipedia.org/wiki/Thomas_Sterling_(computing))
  - [Seymour Cray - Inventor of the Cray Supercomputer](https://en.wikipedia.org/wiki/Seymour_Cray)
- 
+ - [Larry Smarr - HPC Application Pioneer](https://en.wikipedia.org/wiki/Larry_Smarr)
+  
 ## Resources
 
 #### Books/Manuals
