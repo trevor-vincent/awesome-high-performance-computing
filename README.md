@@ -87,6 +87,7 @@ A curated list of awesome high performance computing resources.
 - [NVIDIA stdpar - GPU accelerated C++](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
 - [Tuplex - Blazing fast python data science](https://tuplex.cs.brown.edu/)
 - [Implicit SPMD Program Compiler (ISPC) - An open-source compiler for high-performance SIMD programming on the CPU and GPU](https://ispc.github.io/)
+- [mpi4jax - zero-copy mpi for jax arrays](https://github.com/mpi4jax/mpi4jax) 
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -186,6 +187,7 @@ A curated list of awesome high performance computing resources.
 - [Battle of the infinibands - Omnipath vs Infiniband](https://www.nextplatform.com/2017/11/29/the-battle-of-the-infinibands/)
 - [Mellanox infiniband cluster config](https://www.mellanox.com/clusterconfig/)
 - [RoCE - RDMA Over Converged Ethernet](https://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet)
+- [Slingshot interconnect](https://www.hpe.com/ca/en/compute/hpc/slingshot-interconnect.html)
 
 ### CPU
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
