@@ -88,6 +88,7 @@ A curated list of awesome high performance computing resources.
 - [Tuplex - Blazing fast python data science](https://tuplex.cs.brown.edu/)
 - [Implicit SPMD Program Compiler (ISPC) - An open-source compiler for high-performance SIMD programming on the CPU and GPU](https://ispc.github.io/)
 - [mpi4jax - zero-copy mpi for jax arrays](https://github.com/mpi4jax/mpi4jax) 
+- [RS MPI - rust bindings for MPI](https://rsmpi.github.io/rsmpi/mpi/index.html)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -428,6 +429,7 @@ A curated list of awesome high performance computing resources.
   - [Xsede](https://www.xsede.org/)
   - [Compute Canada](https://www.computecanada.ca/)
   - [Riken CSS](https://www.riken.jp/en/research/labs/r-ccs/)
+  - [Pawsey](https://pawsey.org.au/)
   - [International Data Corporation](https://www.idc.com/)
   - [List of Federally funded research and development centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers)
 
@@ -470,6 +472,7 @@ A curated list of awesome high performance computing resources.
   - [HPCInfo by Jeff Hammond](https://github.com/jeffhammond/HPCInfo)
   - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
   - [LANL HPC Github](https://github.com/hpc)
+  - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
 `
 #### Misc.
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
@@ -482,7 +485,7 @@ A curated list of awesome high performance computing resources.
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
   - [LLNL Software repository](https://software.llnl.gov/)
 
-#### Other Guides
+#### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
 
