@@ -261,6 +261,7 @@ A curated list of awesome high performance computing resources.
 ## Resources
 
 #### Books/Manuals
+- [HPC Books by Victor Eijkhout](https://theartofhpc.com/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
 - [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.ca/Introduction-Performance-Computing-Scientists-Engineers/dp/143981192X/ref=sr_1_1?crid=1L276HPEB8K7I&keywords=Introduction+to+High+Performance+Computing+for+Scientists+and+Engineers&qid=1645137608&s=books&sprefix=introduction+to+high+performance+computing+for+scientists+and+engineers%2Cstripbooks%2C46&sr=1-1) - Hager 2010
