@@ -222,6 +222,7 @@ A curated list of awesome high performance computing resources.
 - [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 - [rescale](https://rescale.com/)
+- [vast.ai](https://vast.ai/)
 
 ### Custom/FPGA/ASIC/APU
 
