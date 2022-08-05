@@ -123,6 +123,7 @@ A curated list of awesome high performance computing resources.
 - [DeepOps - Nvidia GPU infrastructure and automation tools](https://github.com/NVIDIA/deepops)
 - [fpsync - fast parallel data transfer using fpart and rsync](http://www.fpart.org/fpsync/)
 - [moosefs - distributed file system](https://moosefs.com/)
+- [rocks - open-source Linux cluster distribution](http://www.rocksclusters.org/)
 
 #### Development/Workflow Tools for HPC
 
