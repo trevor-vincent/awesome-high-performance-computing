@@ -486,7 +486,7 @@ A curated list of awesome high performance computing resources.
   - [AWS Cloud calculator](https://calculator.aws/)
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
   - [LLNL Software repository](https://software.llnl.gov/)
-
+  - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
