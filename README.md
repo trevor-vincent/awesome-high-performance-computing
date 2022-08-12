@@ -124,6 +124,7 @@ A curated list of awesome high performance computing resources.
 - [fpsync - fast parallel data transfer using fpart and rsync](http://www.fpart.org/fpsync/)
 - [moosefs - distributed file system](https://moosefs.com/)
 - [rocks - open-source Linux cluster distribution](http://www.rocksclusters.org/)
+- [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
 
 #### Development/Workflow Tools for HPC
 
