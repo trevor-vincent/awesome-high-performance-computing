@@ -481,6 +481,7 @@ A curated list of awesome high performance computing resources.
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
 `
 #### Misc.
+  - [Exascale Project](https://www.exascaleproject.org/)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
   - [HPC Summer school](https://www.ihpcss.org/)
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
