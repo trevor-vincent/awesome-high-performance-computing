@@ -342,6 +342,7 @@ A curated list of awesome high performance computing resources.
 - [Designing Heterogeneous Systems: Large Scale Architectural Exploration Via Simulation](https://ieeexplore.ieee.org/abstract/document/9651152)
 - [Reinventing High Performance Computing: Challenges and Opportunities (2022)](https://arxiv.org/pdf/2203.02544.pdf)
 - [Challenges in Heterogeneous HPC White Paper (2022)](https://www.etp4hpc.eu/pujades/files/ETP4HPC_WP_Heterogeneous-HPC_20220216.pdf)
+- [An Evolutionary Technical & Conceptual Review on High Performance Computing Systems (Dec 2021)](https://kalaharijournals.com/resources/DEC_597.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
