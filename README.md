@@ -463,6 +463,7 @@ A curated list of awesome high performance computing resources.
 - [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
 - [Puget Systems](https://www.pugetsystems.com/)
 - [Lambda Systems](https://lambdalabs.com/)
+- [Titan computers](https://www.titancomputers.com)
 
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
