@@ -461,6 +461,8 @@ A curated list of awesome high performance computing resources.
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
 - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
 - [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
+- [Puget Systems](https://www.pugetsystems.com/)
+- [Lambda Systems](https://lambdalabs.com/)
 
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
