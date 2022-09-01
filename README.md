@@ -166,6 +166,7 @@ A curated list of awesome high performance computing resources.
 - [HPL benchmark](https://www.netlib.org/benchmark/hpl/)
 - [ngstress](https://github.com/ColinIanKing/stress-ng)
 - [HPC IO Benchmark Repository](https://github.com/hpc/ior)
+- [bytehound memory profiler](https://github.com/koute/bytehound)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
