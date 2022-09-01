@@ -334,6 +334,8 @@ A curated list of awesome high performance computing resources.
 - [How to perform large scale data processing in bioinformatics](https://medium.com/dnanexus/how-to-perform-large-scale-data-processing-in-bioinformatics-4006e8088af2)
 - [Step by step SGEMM in OpenCL](https://cnugteren.github.io/tutorial/pages/page1.html)
 - [Frontier User Guide](https://docs.olcf.ornl.gov/systems/frontier_user_guide.html)
+- [Allocating large blocks of memory in bare-metal C programming](https://lemire.me/blog/2020/01/17/allocating-large-blocks-of-memory-bare-metal-c-speeds/)
+
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
@@ -486,7 +488,7 @@ A curated list of awesome high performance computing resources.
   - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
   - [LANL HPC Github](https://github.com/hpc)
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
-`
+
 #### Misc.
   - [Exascale Project](https://www.exascaleproject.org/)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
@@ -499,9 +501,11 @@ A curated list of awesome high performance computing resources.
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
   - [LLNL Software repository](https://software.llnl.gov/)
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
+  
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
+   
 
 ## Acknowledgements
 
