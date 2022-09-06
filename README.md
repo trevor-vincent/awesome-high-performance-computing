@@ -308,6 +308,7 @@ A curated list of awesome high performance computing resources.
 - [Introduction to High-Performance and Parallel Computing - Coursera](https://www.coursera.org/learn/introduction-high-performance-computing)
 - [Foundations of HPC 2020/2021](https://github.com/Foundations-of-HPC)
 - [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/)
+- [High Performance Visualization](https://www.uni-bremen.de/ag-high-performance-visualization)
 
 #### Tutorials/Guides
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
