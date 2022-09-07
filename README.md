@@ -310,7 +310,7 @@ A curated list of awesome high performance computing resources.
 - [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/)
 - [High Performance Visualization](https://www.uni-bremen.de/ag-high-performance-visualization)
 
-#### Tutorials/Guides
+#### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
@@ -336,7 +336,7 @@ A curated list of awesome high performance computing resources.
 - [Step by step SGEMM in OpenCL](https://cnugteren.github.io/tutorial/pages/page1.html)
 - [Frontier User Guide](https://docs.olcf.ornl.gov/systems/frontier_user_guide.html)
 - [Allocating large blocks of memory in bare-metal C programming](https://lemire.me/blog/2020/01/17/allocating-large-blocks-of-memory-bare-metal-c-speeds/)
-
+- [Hashmap benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
