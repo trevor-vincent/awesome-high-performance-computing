@@ -90,6 +90,7 @@ A curated list of awesome high performance computing resources.
 - [Implicit SPMD Program Compiler (ISPC) - An open-source compiler for high-performance SIMD programming on the CPU and GPU](https://ispc.github.io/)
 - [mpi4jax - zero-copy mpi for jax arrays](https://github.com/mpi4jax/mpi4jax) 
 - [RS MPI - rust bindings for MPI](https://rsmpi.github.io/rsmpi/mpi/index.html)
+- [async-rdma - A framework for writing RDMA applications with high-level abstraction and asynchronous APIs](https://github.com/datenlord/async-rdma)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
