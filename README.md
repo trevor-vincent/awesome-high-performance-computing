@@ -432,7 +432,10 @@ A curated list of awesome high performance computing resources.
  - [Top500](https://twitter.com/top500supercomp?s=20)
  - [HPE HPC](https://twitter.com/hpe_hpc)
  - [HPC Wire](https://twitter.com/HPCwire)
-
+ - [Rookie HPC](https://twitter.com/RookieHPC?s=20)
+ - [HPC_Guru](https://twitter.com/HPC_Guru?s=20&t=jHjVtUaZhz4s6Rq62IAmYg)
+ - [Jeff Hammond](https://twitter.com/science_dot)
+ 
 #### Consulting
 - [Redline Performance](https://redlineperf.com/)
 - [R systems](http://rsystemsinc.com/)
