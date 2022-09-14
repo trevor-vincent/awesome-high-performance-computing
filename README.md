@@ -268,6 +268,7 @@ A curated list of awesome high performance computing resources.
 
 #### Books/Manuals
 - [HPC Books by Victor Eijkhout](https://theartofhpc.com/)
+- [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
 - [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.ca/Introduction-Performance-Computing-Scientists-Engineers/dp/143981192X/ref=sr_1_1?crid=1L276HPEB8K7I&keywords=Introduction+to+High+Performance+Computing+for+Scientists+and+Engineers&qid=1645137608&s=books&sprefix=introduction+to+high+performance+computing+for+scientists+and+engineers%2Cstripbooks%2C46&sr=1-1) - Hager 2010
@@ -314,6 +315,8 @@ A curated list of awesome high performance computing resources.
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
+- [Rookie HPC Guide](https://rookiehpc.github.io/index.html)
+- [RedHat High Performance Computing 101](https://www.redhat.com/en/blog/high-performance-computing-101)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
 - [Foundations of Multithreaded, Parallel, and Distributed Programming](https://www.amazon.com/Foundations-Multithreaded-Parallel-Distributed-Programming/dp/B00F4I7HM2/ref=sr_1_2?dchild=1&keywords=Gregory+R.+Andrews+Distributed+Programming&qid=1625766665&s=books&sr=1-2)
 - [Building pipelines using slurm dependencies](https://hpc.nih.gov/docs/job_dependencies.html)
