@@ -311,6 +311,7 @@ A curated list of awesome high performance computing resources.
 - [Foundations of HPC 2020/2021](https://github.com/Foundations-of-HPC)
 - [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/)
 - [High Performance Visualization](https://www.uni-bremen.de/ag-high-performance-visualization)
+- [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
@@ -477,6 +478,8 @@ A curated list of awesome high performance computing resources.
 - [Puget Systems](https://www.pugetsystems.com/)
 - [Lambda Systems](https://lambdalabs.com/)
 - [Titan computers](https://www.titancomputers.com)
+- [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
+- [Detailed reddit discussion on setting up a small cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
 
 #### Misc. Papers
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
