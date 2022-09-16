@@ -341,6 +341,7 @@ A curated list of awesome high performance computing resources.
 - [Frontier User Guide](https://docs.olcf.ornl.gov/systems/frontier_user_guide.html)
 - [Allocating large blocks of memory in bare-metal C programming](https://lemire.me/blog/2020/01/17/allocating-large-blocks-of-memory-bare-metal-c-speeds/)
 - [Hashmap benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
+- [LLNL HPC Tutorials](https://hpc.llnl.gov/documentation/tutorials)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
