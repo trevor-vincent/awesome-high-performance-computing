@@ -1,7 +1,7 @@
 # Awesome High Performance Computing Resources
 
 <p align="center">
-<img src="https://github.com/trevor-vincent/awesome-high-performance-computing/blob/f4cdef5d96d5b942477101017d900b68574426c5/sup.jpeg" width="600">
+<img src="https://www.montana.edu/uit/rci/assets/hpc.png" width="600">
 </p>
 
 <p align="center">
