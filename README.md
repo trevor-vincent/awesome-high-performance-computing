@@ -1,5 +1,3 @@
-# Awesome High Performance Computing Resources
-
 <p align="center">
 <img src="https://www.montana.edu/uit/rci/assets/hpc.png" width="600">
 </p>
