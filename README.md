@@ -415,6 +415,7 @@ A curated list of awesome high performance computing resources.
  - [Johnathon Dursi](https://www.dursi.ca/)
  - [Arm Vendor HPC blog](https://community.arm.com/developer/tools-software/hpc/b/hpc-blog)
  - [HPC Notes](https://www.hpcnotes.com/)
+ - [Brendan Gregg Performance Blog](https://www.brendangregg.com/blog/index.html)
 
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
