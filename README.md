@@ -196,6 +196,7 @@ A curated list of awesome high performance computing resources.
 - [Slingshot interconnect](https://www.hpe.com/ca/en/compute/hpc/slingshot-interconnect.html)
 
 ### CPU
+- [Wikichip](https://en.wikichip.org/wiki/WikiChip)
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
 - [Apple M1](https://en.wikipedia.org/wiki/Apple_M1)
 - [Apple M2](https://en.wikipedia.org/wiki/Apple_M2)
