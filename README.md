@@ -148,6 +148,7 @@ A curated list of awesome high performance computing resources.
 - [totalview](https://totalview.io/)
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
 - [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools)
+- [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
 
 #### Performance/Benchmark Tools for HPC
 
@@ -166,6 +167,7 @@ A curated list of awesome high performance computing resources.
 - [ngstress](https://github.com/ColinIanKing/stress-ng)
 - [HPC IO Benchmark Repository](https://github.com/hpc/ior)
 - [bytehound memory profiler](https://github.com/koute/bytehound)
+- [Flamegraphs](https://www.brendangregg.com/flamegraphs.html)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
