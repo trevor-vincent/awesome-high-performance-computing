@@ -177,7 +177,13 @@ A curated list of awesome high performance computing resources.
  - [Amira](https://www.thermofisher.com/ca/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html)
  - [Scientific Visualization Wiki](https://en.wikipedia.org/wiki/Scientific_visualization)
  - [ADIOS2](https://github.com/ornladios/ADIOS2)
- 
+
+#### Misc.
+ - [mimalloc memory allocator](https://github.com/microsoft/mimalloc)
+ - [jemalloc memory allocator](https://github.com/jemalloc/jemalloc)
+ - [tcmalloc memory allocator](https://github.com/google/tcmalloc)
+ - [Horde memory allocator](https://github.com/emeryberger/Hoard)
+
 #### Wikis
 
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
