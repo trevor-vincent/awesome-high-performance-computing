@@ -322,6 +322,8 @@ A curated list of awesome high performance computing resources.
 - [Nvidia Deep Learning Course](https://www.nvidia.com/en-us/training/online/)
 - [Coursera GPU Programming Specialization](https://www.coursera.org/specializations/gpu-programming)
 - [Coursera Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia)
+- [Archer2 Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/)
+- [Archer2 Message-Passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
