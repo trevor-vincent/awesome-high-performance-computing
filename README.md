@@ -267,7 +267,7 @@ A curated list of awesome high performance computing resources.
  - [Jack Dongarra - 2021 Turing Award - LINPACK, BLAS, LAPACK, MPI](https://www.nature.com/articles/s43588-022-00245-w)
  - [Bill Gropp - 2010 IEEE TCSC Medal for Excellence in Scalable Computing](https://en.wikipedia.org/wiki/Bill_Gropp)
  - [David Bader - built the first Linux supercomputer](https://en.wikipedia.org/wiki/David_Bader_(computer_scientist))
- - [Thomas Sterling - Inventor of Beowulf cluster, Parallel/HPX](https://en.wikipedia.org/wiki/Thomas_Sterling_(computing))
+ - [Thomas Sterling - Inventor of Beowulf cluster, Parallax/HPX](https://en.wikipedia.org/wiki/Thomas_Sterling_(computing))
  - [Seymour Cray - Inventor of the Cray Supercomputer](https://en.wikipedia.org/wiki/Seymour_Cray)
  - [Larry Smarr - HPC Application Pioneer](https://en.wikipedia.org/wiki/Larry_Smarr)
   
