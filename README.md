@@ -319,6 +319,9 @@ A curated list of awesome high performance computing resources.
 - [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/)
 - [High Performance Visualization](https://www.uni-bremen.de/ag-high-performance-visualization)
 - [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
+- [Nvidia Deep Learning Course](https://www.nvidia.com/en-us/training/online/)
+- [Coursera GPU Programming Specialization](https://www.coursera.org/specializations/gpu-programming)
+- [Coursera Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
@@ -522,6 +525,7 @@ A curated list of awesome high performance computing resources.
   - [Quickly benchmark C++ functions](https://quick-bench.com/)
   - [LLNL Software repository](https://software.llnl.gov/)
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
+  - [Prace Training Events](https://events.prace-ri.eu/category/2/)
   
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
