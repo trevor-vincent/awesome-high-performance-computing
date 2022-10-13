@@ -309,7 +309,7 @@ A curated list of awesome high performance computing resources.
 - [Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 - [Vanderbilt - Intro to HPC](https://github.com/vanderbiltscl/SC3260_HPC)
 - [Illinois - Intro to HPC](https://andreask.cs.illinois.edu/Teaching/HPCFall2012/) - Creator of PyCuda
-- [Archer Courses](http://www.archer.ac.uk/training/past_courses.php)
+- [Archer1 Courses](http://www.archer.ac.uk/training/past_courses.php)
 - [TACC tutorials](https://portal.tacc.utexas.edu/tutorials)
 - [Livermore training materials](https://hpc.llnl.gov/training/tutorials)
 - [Xsede training materials](https://www.hpc-training.org/xsede/moodle/)
@@ -322,8 +322,12 @@ A curated list of awesome high performance computing resources.
 - [Nvidia Deep Learning Course](https://www.nvidia.com/en-us/training/online/)
 - [Coursera GPU Programming Specialization](https://www.coursera.org/specializations/gpu-programming)
 - [Coursera Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia)
+- [Coursera Introduction to High Performance Computing](https://www.coursera.org/learn/introduction-high-performance-computing)
 - [Archer2 Shared Memory Programming with OpenMP](https://www.archer2.ac.uk/training/courses/210000-openmp-self-service/)
 - [Archer2 Message-Passing Programming with MPI](https://www.archer2.ac.uk/training/courses/210000-mpi-self-service/)
+- [HetSys 2022 Course](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9XrgXR38IM_FTjmY6h7Gzm)
+- [Edukamu Introduction to Supercomputing](https://edukamu.fi/elements-of-supercomputing)
+- [Heterogeneous Parallel Programming by S K](https://www.youtube.com/channel/UCbD5dhBi6DBSvCTgEDFz7uA/videos)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
