@@ -100,6 +100,7 @@ A curated list of awesome high performance computing resources.
  
 #### Cluster Management/Tools/Schedulers/Stacks
 
+- [Flux framework](https://flux-framework.org/)
 - [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager)
 - [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/)
 - [RADIUSS - Rapid Application Development via an Institutional Universal Software Stack](https://computing.llnl.gov/projects/radiuss)
