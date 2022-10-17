@@ -362,6 +362,7 @@ A curated list of awesome high performance computing resources.
 - [Hashmap benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 - [LLNL HPC Tutorials](https://hpc.llnl.gov/documentation/tutorials)
 - [High Performance Computing: A Bird's Eye View](https://umashankar.blog/high-performance-computing-a-birds-eye-view/)
+- [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
@@ -382,6 +383,7 @@ A curated list of awesome high performance computing resources.
 - [Datacenter Dynamics](https://www.datacenterdynamics.com/en/)
 - [Admin Magazine HPC](https://www.admin-magazine.com/HPC/News)
 - [Toms hardware](https://www.tomshardware.com/)
+- [Tech Radar](https://www.techradar.com/)
 
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
