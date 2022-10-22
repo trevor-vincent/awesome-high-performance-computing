@@ -220,6 +220,8 @@ A curated list of awesome high performance computing resources.
 - [MIG](https://www.nvidia.com/en-us/technologies/multi-instance-gpu/)
 - [Gentle Intro to GPU Inner Workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 - [AMD Instinct GPUs](https://en.wikipedia.org/wiki/AMD_Instinct_accelerators)
+- [AMD GPU List Wiki](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units)
+- [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 
 ### TPU/Tensor Cores
 
