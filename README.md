@@ -28,6 +28,7 @@ A curated list of awesome high performance computing resources.
  
 ### History
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
+ - [History of the Top500 (Wikipedia)](https://en.wikipedia.org/wiki/TOP500)
 
 ## Software
 
