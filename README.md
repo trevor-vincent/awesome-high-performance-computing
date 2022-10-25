@@ -239,6 +239,7 @@ A curated list of awesome high performance computing resources.
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 - [rescale](https://rescale.com/)
 - [vast.ai](https://vast.ai/)
+- [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
 
 ### Custom/FPGA/ASIC/APU
 
