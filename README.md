@@ -435,6 +435,9 @@ A curated list of awesome high performance computing resources.
  - [HPC wire career site](https://careers.hpcwire.com/)
  - [HPC certification](https://www.hpc-certification.org/)
  - [HPC SysAdmin Jobs (reddit)](https://www.reddit.com/r/HPC/comments/w5eu66/systems_administrator_systems_engineer_jobs/)
+
+#### Membership Clubs
+ - [Association for Computing Machinery](acm.org)
  
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
