@@ -57,6 +57,7 @@ A curated list of awesome high performance computing resources.
 - [OpenACC: "OpenMP for GPUs"](https://www.openacc.org/)
 - [numba: Numba is an open source JIT compiler that translates a subset of Python into fast machine code.](https://numba.pydata.org/)
 - [dask: Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love](https://dask.org)
+- [ray: scale AI and Python workloads — from reinforcement learning to deep learning](https://www.ray.io/)
 - [RAJA: architecture and programming model portability for HPC applications](https://github.com/LLNL/RAJA)
 - [ROCM: first open-source software development platform for HPC/Hyperscale-class GPU computing](https://rocmdocs.amd.com/en/latest/)
 - [HIP: HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU](https://github.com/ROCm-Developer-Tools/HIP)
@@ -367,6 +368,7 @@ A curated list of awesome high performance computing resources.
 - [LLNL HPC Tutorials](https://hpc.llnl.gov/documentation/tutorials)
 - [High Performance Computing: A Bird's Eye View](https://umashankar.blog/high-performance-computing-a-birds-eye-view/)
 - [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
+- [Multiple GPUs with pytorch](git@github.com:trevor-vincent/awesome-high-performance-computing.git)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
