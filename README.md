@@ -210,6 +210,7 @@ A curated list of awesome high performance computing resources.
 - [Apple M1](https://en.wikipedia.org/wiki/Apple_M1)
 - [Apple M2](https://en.wikipedia.org/wiki/Apple_M2)
 - [Apple M2 Teardown](https://www.ifixit.com/News/62674/m2-macbook-air-teardown-apple-forgot-the-heatsink)
+- [Apply M1/M2 AMX](https://github.com/corsix/amx)
 - [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
