@@ -337,6 +337,7 @@ A curated list of awesome high performance computing resources.
 - [Edukamu Introduction to Supercomputing](https://edukamu.fi/elements-of-supercomputing)
 - [Heterogeneous Parallel Programming by S K](https://www.youtube.com/channel/UCbD5dhBi6DBSvCTgEDFz7uA/videos)
 - [NCSA HPC Training Moodle](https://www.hpc-training.org/xsede/moodle/)
+- [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
