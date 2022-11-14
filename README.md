@@ -128,6 +128,7 @@ A curated list of awesome high performance computing resources.
 - [moosefs - distributed file system](https://moosefs.com/)
 - [rocks - open-source Linux cluster distribution](http://www.rocksclusters.org/)
 - [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
+- [DeepOps - Infrastructure automation tools for Kubernetes and Slurm clusters with NVIDIA GPUs](https://github.com/NVIDIA/deepops)
 
 #### Development/Workflow Tools for HPC
 
