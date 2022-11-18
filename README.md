@@ -551,6 +551,9 @@ A curated list of awesome high performance computing resources.
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
   - [Prace Training Events](https://events.prace-ri.eu/category/2/)
   
+#### Misc. Theses
+   - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
+  
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
