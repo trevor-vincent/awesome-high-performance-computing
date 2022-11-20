@@ -130,7 +130,7 @@ A curated list of awesome high performance computing resources.
 - [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
 - [DeepOps - Infrastructure automation tools for Kubernetes and Slurm clusters with NVIDIA GPUs](https://github.com/NVIDIA/deepops)
 
-#### Development/Workflow Tools for HPC
+#### Development/Workflow/Monitoring Tools for HPC
 
 - [Apptainer (formerly Singularity) - "the docker of HPC"](https://singularity.lbl.gov/)
 - [Docker](https://www.docker.com/)
@@ -144,7 +144,9 @@ A curated list of awesome high performance computing resources.
 - [Prefect](https://www.prefect.io/)
 - [Apache Airflow](https://airflow.apache.org/)
 - [HPC Rocket - submit slurm jobs in CI](https://github.com/SvenMarcus/hpc-rocket)
-
+- [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui)
+- [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision)
+ 
 #### Debugging Tools for HPC
 
 - [Summary of C/C++ debugging tools](http://pramodkumbhar.com/2018/06/summary-of-debugging-tools/)
@@ -189,7 +191,6 @@ A curated list of awesome high performance computing resources.
  - [Horde memory allocator](https://github.com/emeryberger/Hoard)
 
 #### Wikis
-
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
 
