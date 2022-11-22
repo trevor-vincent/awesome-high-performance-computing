@@ -381,7 +381,7 @@ A curated list of awesome high performance computing resources.
 - [LLNL HPC Tutorials](https://hpc.llnl.gov/documentation/tutorials)
 - [High Performance Computing: A Bird's Eye View](https://umashankar.blog/high-performance-computing-a-birds-eye-view/)
 - [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
-- [Multiple GPUs with pytorch](git@github.com:trevor-vincent/awesome-high-performance-computing.git)
+- [Multiple GPUs with pytorch](https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained)
 
 #### Review Papers
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
