@@ -247,6 +247,7 @@ A curated list of awesome high performance computing resources.
 - [vast.ai](https://vast.ai/)
 - [vultr - cheap bare metal CPU, GPU, DGX servers](vultr.com)
 - [hetzner - cheap servers incl. 80-core ARM](https://www.hetzner.com/)
+- [Ampere ARM cloud-native processors](https://amperecomputing.com/)
 
 #### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
