@@ -239,11 +239,19 @@ A curated list of awesome high performance computing resources.
 
 ### Cloud
 
-- [Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
-- [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
+#### Vendors
+
+- [AWS HPC](https://aws.amazon.com/hpc/)
+- [Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro)
 - [rescale](https://rescale.com/)
 - [vast.ai](https://vast.ai/)
+- [vultr - cheap bare metal CPU, GPU, DGX servers](vultr.com)
+- [hetzner - cheap servers incl. 80-core ARM](https://www.hetzner.com/)
+
+#### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
+- [AWS Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
+- [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 
 ### Custom/FPGA/ASIC/APU
 
