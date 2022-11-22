@@ -23,8 +23,8 @@ A curated list of awesome high performance computing resources.
  - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2022, ~700 Petaflop (Linpack500)
 
 ### Most Recent List of the Top500 Supercomputers
- - [Top500 (June 2022)](https://www.top500.org/lists/top500/2022/06/)
- - [Green500 (June 2022)](https://www.top500.org/lists/green500/2022/06/)
+ - [Top500 (November 2022)](https://www.top500.org/lists/top500/2022/11/)
+ - [Green500 (November 2022)](https://www.top500.org/lists/green500/2022/11/)
  
 ### History
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
