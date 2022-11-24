@@ -517,6 +517,7 @@ A curated list of awesome high performance computing resources.
 - [Just in time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 - [List of distributed computing projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
+- [Quasi-opportunistic supercomputing](https://en.wikipedia.org/wiki/Quasi-opportunistic_supercomputing)
 
 #### Building Clusters
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
