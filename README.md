@@ -100,6 +100,8 @@ A curated list of awesome high performance computing resources.
  - [cpuid instruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf)
  - [cpufetch](https://github.com/Dr-Noob/cpufetch)
  - [gpufetch](https://github.com/Dr-Noob/gpufetch)
+ - [intel cpuinfo](https://www.intel.com/content/www/us/en/develop/documentation/mpi-developer-reference-linux/top/command-reference/cpuinfo.html)
+ - [openmpi hwloc](https://www.open-mpi.org/projects/hwloc/)
  
 #### Cluster Management/Tools/Schedulers/Stacks
 
