@@ -230,6 +230,7 @@ A curated list of awesome high performance computing resources.
 - [AMD Instinct GPUs](https://en.wikipedia.org/wiki/AMD_Instinct_accelerators)
 - [AMD GPU List Wiki](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
+- [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 
 ### TPU/Tensor Cores
 
