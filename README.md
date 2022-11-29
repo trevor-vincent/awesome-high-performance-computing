@@ -532,10 +532,11 @@ A curated list of awesome high performance computing resources.
 - [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
 - [Detailed reddit discussion on setting up a small cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
 
-#### Misc. Papers
+#### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
 - [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
+- [Benchmarking data science: Twelve ways to lie with statistics and performance on parallel computers.](http://ww.unixer.de/publications/img/hoefler-12-ways-data-science-preprint.pdf)
 
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
