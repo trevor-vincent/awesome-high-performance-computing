@@ -387,7 +387,7 @@ A curated list of awesome high performance computing resources.
 - [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
 - [Multiple GPUs with pytorch](https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained)
 
-#### Review Papers
+#### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
 - [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
@@ -398,6 +398,7 @@ A curated list of awesome high performance computing resources.
 - [Reinventing High Performance Computing: Challenges and Opportunities (2022)](https://arxiv.org/pdf/2203.02544.pdf)
 - [Challenges in Heterogeneous HPC White Paper (2022)](https://www.etp4hpc.eu/pujades/files/ETP4HPC_WP_Heterogeneous-HPC_20220216.pdf)
 - [An Evolutionary Technical & Conceptual Review on High Performance Computing Systems (Dec 2021)](https://kalaharijournals.com/resources/DEC_597.pdf)
+- [New Horizons for High-Performance Computing (2022)](https://csdl-downloads.ieeecomputer.org/mags/co/2022/12/09963771.pdf?Expires=1669702667&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3MvY28vMjAyMi8xMi8wOTk2Mzc3MS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Njk3MDI2Njd9fX1dfQ__&Signature=s3K~-JXyED6vMVT9IKGj7LOhR75CrkQXiqAEsAEQt4zRqTbUFywmSoT10th1CdAaZcfZFuMsg23o2e719FRkCD6flVNB55d5tKyMUp7jUbkUtxnatOWLAKXfE4yQ-zrYQQEWBhtpSLKrTAS1oVmJ00YwkWqLYqCjhFIjW9La5od2SGQZEFZ136bbaGzxLZlED3JlMCMLB54YXKr-Ng1rngV4I9Wi-wSTFyLiA92~fUlk1KPQKU0XjtsMyYMYlt06Ze5H6jcQw4ytJ6c7r7qNJ43ifnsZepWmBywA8lVy2g3joOvZJtVjl~S91R8EZbiyWlYdWBGrO7pPdO6hH48~NQ__&Key-Pair-Id=K12PMWTCQBDMDT)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
