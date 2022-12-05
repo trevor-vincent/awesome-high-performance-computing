@@ -174,9 +174,11 @@ A curated list of awesome high performance computing resources.
 - [demonspawn](https://github.com/TACC/demonspawn)
 - [HPL benchmark](https://www.netlib.org/benchmark/hpl/)
 - [ngstress](https://github.com/ColinIanKing/stress-ng)
-- [HPC IO Benchmark Repository](https://github.com/hpc/ior)
+- [Ior](https://github.com/hpc/ior)
 - [bytehound memory profiler](https://github.com/koute/bytehound)
 - [Flamegraphs](https://www.brendangregg.com/flamegraphs.html)
+- [fio](https://linux.die.net/man/1/fio)
+- [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
