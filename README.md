@@ -468,6 +468,7 @@ A curated list of awesome high performance computing resources.
  
 #### Membership Clubs
  - [Association for Computing Machinery](acm.org)
+ - [ETP4HPC](https://www.etp4hpc.eu/)
  
 #### Blogs
  - [1024 Cores](http://www.1024cores.net/) - Dmitry Vyukov 
