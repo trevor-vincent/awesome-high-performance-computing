@@ -189,6 +189,12 @@ A curated list of awesome high performance computing resources.
  - [Scientific Visualization Wiki](https://en.wikipedia.org/wiki/Scientific_visualization)
  - [ADIOS2](https://github.com/ornladios/ADIOS2)
 
+#### General Purpose Scientific Computing Libraries for HPC
+ - [petsc](https://petsc.org/release/)
+ - [ginkgo](https://ginkgo-project.github.io/)
+ - [GSL](https://www.gnu.org/software/gsl/)
+ - [Scalapack](https://netlib.org/scalapack/)
+
 #### Misc.
  - [mimalloc memory allocator](https://github.com/microsoft/mimalloc)
  - [jemalloc memory allocator](https://github.com/jemalloc/jemalloc)
