@@ -68,7 +68,6 @@ A curated list of awesome high performance computing resources.
 - [Legate - Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
 - [The Open Community Runtime - Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
 - [Pyfi - distributed flow and computation system](https://github.com/radiantone/pyfi)
-- [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU](rapids.ai)
 - [HPC-X - Nvidia implementation of MPI](https://developer.nvidia.com/networking/hpc-x)
 - [MPAVICH - Implementation of MPI](https://mvapich.cse.ohio-state.edu/)
 - [mpi4py - python bindings for MPI](https://mpi4py.readthedocs.io/en/stable/)
@@ -194,7 +193,8 @@ A curated list of awesome high performance computing resources.
  - [ginkgo](https://ginkgo-project.github.io/)
  - [GSL](https://www.gnu.org/software/gsl/)
  - [Scalapack](https://netlib.org/scalapack/)
-
+ - [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU](rapids.ai)
+ 
 #### Misc.
  - [mimalloc memory allocator](https://github.com/microsoft/mimalloc)
  - [jemalloc memory allocator](https://github.com/jemalloc/jemalloc)
