@@ -25,6 +25,7 @@ A curated list of awesome high performance computing resources.
 ### Most Recent List of the Top500 Supercomputers
  - [Top500 (November 2022)](https://www.top500.org/lists/top500/2022/11/)
  - [Green500 (November 2022)](https://www.top500.org/lists/green500/2022/11/)
+ - [io500](https://io500.org/)
  
 ### History
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
@@ -549,6 +550,7 @@ A curated list of awesome high performance computing resources.
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
 - [Quantum Computing for High Performance Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9537178)
 - [Benchmarking data science: Twelve ways to lie with statistics and performance on parallel computers.](http://ww.unixer.de/publications/img/hoefler-12-ways-data-science-preprint.pdf)
+- [Establishing the IO500 Benchmark](https://www.vi4io.org/_media/io500/about/io500-establishing.pdf)
 
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
