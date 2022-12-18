@@ -149,6 +149,7 @@ A curated list of awesome high performance computing resources.
 - [HPC Rocket - submit slurm jobs in CI](https://github.com/SvenMarcus/hpc-rocket)
 - [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui)
 - [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision)
+- [genv - GPU Environment Management](https://github.com/run-ai/genv)
  
 #### Debugging Tools for HPC
 
