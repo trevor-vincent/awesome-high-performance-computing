@@ -547,6 +547,7 @@ A curated list of awesome high performance computing resources.
 - [Titan computers](https://www.titancomputers.com)
 - [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
 - [Detailed reddit discussion on setting up a small cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
+- [Tiny titan - build a really cool pi supercomputer](https://tinytitan.github.io/)
 
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
