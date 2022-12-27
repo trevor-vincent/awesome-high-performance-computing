@@ -92,6 +92,7 @@ A curated list of awesome high performance computing resources.
 - [RS MPI - rust bindings for MPI](https://rsmpi.github.io/rsmpi/mpi/index.html)
 - [async-rdma - A framework for writing RDMA applications with high-level abstraction and asynchronous APIs](https://github.com/datenlord/async-rdma)
 - [joblib - data-flow programming for performance (python)](https://joblib.readthedocs.io/en/latest/why.html)
+- [oneAPI- open, cross-industry, standards-based, unified, multiarchitecture, multi-vendor programming model](oneapi.io)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
