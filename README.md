@@ -94,6 +94,7 @@ A curated list of awesome high performance computing resources.
 - [joblib - data-flow programming for performance (python)](https://joblib.readthedocs.io/en/latest/why.html)
 - [oneAPI - open, cross-industry, standards-based, unified, multiarchitecture, multi-vendor programming model](https://www.oneapi.io/)
 - [Codon - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead](https://github.com/exaloop/codon)
+- [DeepSpeed - is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference](https://github.com/microsoft/DeepSpeed)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
