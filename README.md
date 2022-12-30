@@ -496,9 +496,10 @@ A curated list of awesome high performance computing resources.
 
  - [ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP)](https://ppopp19.sigplan.org/home)
  - [ACM Symposium on Parallel Algorithms and Architectures (SPAA)](https://spaa.acm.org/)
- - [ACM/IEEE International Conference for High-performance Computing, Networking, Storage, and Analysis (SC)](https://sc19.supercomputing.org/)
+ - [SC conference (SC)](https://supercomputing.org/)
  - [IEEE International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/)
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
+ - [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/cfp.htm)
 
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
