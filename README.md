@@ -229,8 +229,12 @@ A curated list of awesome high performance computing resources.
 - [Apple M2](https://en.wikipedia.org/wiki/Apple_M2)
 - [Apple M2 Teardown](https://www.ifixit.com/News/62674/m2-macbook-air-teardown-apple-forgot-the-heatsink)
 - [Apply M1/M2 AMX](https://github.com/corsix/amx)
+- [List of Intel processors](https://en.wikipedia.org/wiki/List_of_Intel_processors)
+- [List of Intel micro architectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 - [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
+- [List of AMD processors](https://en.wikipedia.org/wiki/List_of_AMD_processors)
+- [List of AMD CPU micro architectures](https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures)
 - [Comparison of AMD architectures](https://en.wikipedia.org/wiki/Table_of_AMD_processors)
 
 ### GPU
@@ -241,9 +245,10 @@ A curated list of awesome high performance computing resources.
 - [MIG](https://www.nvidia.com/en-us/technologies/multi-instance-gpu/)
 - [Gentle Intro to GPU Inner Workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 - [AMD Instinct GPUs](https://en.wikipedia.org/wiki/AMD_Instinct_accelerators)
-- [AMD GPU List Wiki](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units)
+- [List of AMD GPUs](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units)
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
+- [List of Intel GPUs](https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units)
 
 ### TPU/Tensor Cores
 
