@@ -409,6 +409,7 @@ A curated list of awesome high performance computing resources.
 - [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
 - [Multiple GPUs with pytorch](https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained)
 - [Brendan Gregg on Linux Performance](https://www.brendangregg.com/linuxperf.html)
+- [Automatic Slurm build scripts](https://www.ni-sp.com/slurm-build-script-and-container-commercial-support/#h-automatic-slurm-build-script-for-rh-centos-7-8-and-9)
 
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
