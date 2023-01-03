@@ -96,6 +96,7 @@ A curated list of awesome high performance computing resources.
 - [Codon - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead](https://github.com/exaloop/codon)
 - [DeepSpeed - is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference](https://github.com/microsoft/DeepSpeed)
 - [Intel ISPC - SPMD compiler](https://github.com/ispc/ispc)
+- [Alpa - training large scale neural networks](https://github.com/alpa-projects/alpa)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
