@@ -426,6 +426,7 @@ A curated list of awesome high performance computing resources.
 - [New Horizons for High-Performance Computing (2022)](https://csdl-downloads.ieeecomputer.org/mags/co/2022/12/09963771.pdf?Expires=1669702667&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3MvY28vMjAyMi8xMi8wOTk2Mzc3MS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Njk3MDI2Njd9fX1dfQ__&Signature=s3K~-JXyED6vMVT9IKGj7LOhR75CrkQXiqAEsAEQt4zRqTbUFywmSoT10th1CdAaZcfZFuMsg23o2e719FRkCD6flVNB55d5tKyMUp7jUbkUtxnatOWLAKXfE4yQ-zrYQQEWBhtpSLKrTAS1oVmJ00YwkWqLYqCjhFIjW9La5od2SGQZEFZ136bbaGzxLZlED3JlMCMLB54YXKr-Ng1rngV4I9Wi-wSTFyLiA92~fUlk1KPQKU0XjtsMyYMYlt06Ze5H6jcQw4ytJ6c7r7qNJ43ifnsZepWmBywA8lVy2g3joOvZJtVjl~S91R8EZbiyWlYdWBGrO7pPdO6hH48~NQ__&Key-Pair-Id=K12PMWTCQBDMDT)
 - [CConfidential High-Performance Computing in the Public Cloud](https://arxiv.org/pdf/2212.02378.pdf)
 - [Containerisation for High Performance Computing Systems: Survey and Prospects](https://ieeexplore.ieee.org/abstract/document/9985426)
+- [Heterogeneous Computing Systems (2023)](https://arxiv.org/pdf/2212.14418.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
