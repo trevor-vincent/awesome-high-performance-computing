@@ -252,6 +252,7 @@ A curated list of awesome high performance computing resources.
 - [Comparison of CUDA architectures](https://en.wikipedia.org/wiki/CUDA)
 - [Tales of the M1 GPU](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 - [List of Intel GPUs](https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units)
+- [Performance of DGX Cluster](https://www.computer.org/csdl/proceedings-article/cloudcom/2022/636700a170/1JNqFu7QdTG)
 
 ### TPU/Tensor Cores
 
