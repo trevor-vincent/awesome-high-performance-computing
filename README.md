@@ -427,6 +427,7 @@ A curated list of awesome high performance computing resources.
 - [CConfidential High-Performance Computing in the Public Cloud](https://arxiv.org/pdf/2212.02378.pdf)
 - [Containerisation for High Performance Computing Systems: Survey and Prospects](https://ieeexplore.ieee.org/abstract/document/9985426)
 - [Heterogeneous Computing Systems (2023)](https://arxiv.org/pdf/2212.14418.pdf)
+- [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
