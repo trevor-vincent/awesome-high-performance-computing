@@ -138,6 +138,11 @@ A curated list of awesome high performance computing resources.
 - [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
 - [DeepOps - Infrastructure automation tools for Kubernetes and Slurm clusters with NVIDIA GPUs](https://github.com/NVIDIA/deepops)
 
+#### HPC-specific Operating Systems
+- [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
+- [mOS](http://cs.iit.edu/~khale/docs/mos.pdf)
+- [Kitten](https://www.sandia.gov/app/uploads/sites/210/2022/11/pedretti_lanl11.pdf)
+
 #### Development/Workflow/Monitoring Tools for HPC
 
 - [Apptainer (formerly Singularity) - "the docker of HPC"](https://singularity.lbl.gov/)
