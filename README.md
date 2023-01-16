@@ -429,6 +429,7 @@ A curated list of awesome high performance computing resources.
 - [Containerisation for High Performance Computing Systems: Survey and Prospects](https://ieeexplore.ieee.org/abstract/document/9985426)
 - [Heterogeneous Computing Systems (2023)](https://arxiv.org/pdf/2212.14418.pdf)
 - [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
+- [Energy-Aware Scheduling for High-Performance Computing Systems: A Survey](https://www.mdpi.com/1996-1073/16/2/890)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
