@@ -607,6 +607,7 @@ A curated list of awesome high performance computing resources.
   - [LLNL Software repository](https://software.llnl.gov/)
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
   - [Prace Training Events](https://events.prace-ri.eu/category/2/)
+  - [Nice discussion on FlameGraph profiling](https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events/27867426#27867426)
   
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
