@@ -169,6 +169,7 @@ A curated list of awesome high performance computing resources.
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
 - [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools)
 - [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
+- [Hotspot - linux perf GUI](https://github.com/KDAB/hotspot/)
 
 #### Performance/Benchmark Tools for HPC
 
