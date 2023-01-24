@@ -383,6 +383,7 @@ A curated list of awesome high performance computing resources.
 - [NCSA HPC Training Moodle](https://www.hpc-training.org/xsede/moodle/)
 - [Supercomputing in plain english](http://www.oscer.ou.edu/education.php)
 - [Cornell workshop](https://cvw.cac.cornell.edu/topics)
+- [Carpentries Incubator HPC Intro](https://carpentries-incubator.github.io/hpc-intro/)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
