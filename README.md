@@ -137,6 +137,10 @@ A curated list of awesome high performance computing resources.
 - [rocks - open-source Linux cluster distribution](http://www.rocksclusters.org/)
 - [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
 - [DeepOps - Infrastructure automation tools for Kubernetes and Slurm clusters with NVIDIA GPUs](https://github.com/NVIDIA/deepops)
+- [OpenOnDemand - Access your organization’s supercomputers through the web to compute from anywhere, on any device.](https://openondemand.org/)
+- [XDMoD - open source tool to facilitate the management of high performance computing resources](https://supremm.xdmod.org/10.0/supremm-overview.html)
+- [Globus Connect - Fast transfer of data/files between supercomputers](https://www.globus.org/globus-connect)
+
 
 #### HPC-specific Operating Systems
 - [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
