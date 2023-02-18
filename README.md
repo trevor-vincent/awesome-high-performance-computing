@@ -499,6 +499,7 @@ A curated list of awesome high performance computing resources.
  - [HPC certification](https://www.hpc-certification.org/)
  - [HPC SysAdmin Jobs (reddit)](https://www.reddit.com/r/HPC/comments/w5eu66/systems_administrator_systems_engineer_jobs/)
  - [The United States Research Software Engineer Association](https://us-rse.org/)
+ - [NCSA Internship](https://wiki.ncsa.illinois.edu/display/NCSACIP/NCSA+Internship+Program+for+CI+Professionals+Home)
  
 #### Membership Clubs
  - [Association for Computing Machinery](acm.org)
