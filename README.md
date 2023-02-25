@@ -291,6 +291,7 @@ A curated list of awesome high performance computing resources.
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
 - [AWS Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
+- [An Empirical Study of Containerized MPI and GUI Application on HPC in the Cloud](https://ieeexplore.ieee.org/abstract/document/10046607)
 
 ### Custom/FPGA/ASIC/APU
 
