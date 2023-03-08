@@ -304,6 +304,13 @@ A curated list of awesome high performance computing resources.
 
 - [Intel Cluster Ready](https://en.wikipedia.org/wiki/Intel_Cluster_Ready)
 
+### Student Opportunities
+
+- [Supercomputing Conference Student Opportunities](https://sc21.supercomputing.org/program/studentssc/)
+- [SCC Student cluster competition](https://www.studentclustercompetition.us/)
+- [Winter Classic Invitational](https://www.winterclassicinvitational.com/)
+- [Linux Cluster Institute](https://linuxclustersinstitute.org/)
+
 ### Other/Wikis
 
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
@@ -624,6 +631,7 @@ A curated list of awesome high performance computing resources.
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
   - [Prace Training Events](https://events.prace-ri.eu/category/2/)
   - [Nice discussion on FlameGraph profiling](https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events/27867426#27867426)
+  - [Nice discussion on parts of a supercomputer on reddit (https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
   
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
