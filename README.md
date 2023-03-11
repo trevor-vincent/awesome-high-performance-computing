@@ -197,6 +197,7 @@ A curated list of awesome high performance computing resources.
 - [fio](https://linux.die.net/man/1/fio)
 - [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS)
 - [Hotspot - Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
+- [mixbench - benchmarks for CPUs and GPUs](https://github.com/ekondis/mixbench)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
