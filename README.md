@@ -633,7 +633,7 @@ A curated list of awesome high performance computing resources.
   - [Boinc - volunteer computing projects](https://boinc.berkeley.edu/projects.php)
   - [Prace Training Events](https://events.prace-ri.eu/category/2/)
   - [Nice discussion on FlameGraph profiling](https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events/27867426#27867426)
-  - [Nice discussion on parts of a supercomputer on reddit (https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
+  - [Nice discussion on parts of a supercomputer on reddit](https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
   
 #### Misc. Theses
