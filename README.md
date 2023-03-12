@@ -141,7 +141,6 @@ A curated list of awesome high performance computing resources.
 - [XDMoD - open source tool to facilitate the management of high performance computing resources](https://supremm.xdmod.org/10.0/supremm-overview.html)
 - [Globus Connect - Fast transfer of data/files between supercomputers](https://www.globus.org/globus-connect)
 
-
 #### HPC-specific Operating Systems
 - [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
 - [mOS](http://cs.iit.edu/~khale/docs/mos.pdf)
@@ -198,6 +197,7 @@ A curated list of awesome high performance computing resources.
 - [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS)
 - [Hotspot - Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
 - [mixbench - benchmarks for CPUs and GPUs](https://github.com/ekondis/mixbench)
+- [pmu-tools (toplev) performance tools for modern Intel CPUs](https://github.com/andikleen/pmu-tools)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
@@ -437,6 +437,7 @@ A curated list of awesome high performance computing resources.
 - [Automatic Slurm build scripts](https://www.ni-sp.com/slurm-build-script-and-container-commercial-support/#h-automatic-slurm-build-script-for-rh-centos-7-8-and-9)
 - [Fastest unordered_map implementation / benchmarks](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 - [Memory bandwith NapkinMath](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [Avoiding Instruction Cache Misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
