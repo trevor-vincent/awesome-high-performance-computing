@@ -97,6 +97,7 @@ A curated list of awesome high performance computing resources.
 - [DeepSpeed - is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference](https://github.com/microsoft/DeepSpeed)
 - [Intel ISPC - SPMD compiler](https://github.com/ispc/ispc)
 - [Alpa - training large scale neural networks](https://github.com/alpa-projects/alpa)
+- [Scalix - data parallel computing framework](https://github.com/NAGAGroup/Scalix)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
