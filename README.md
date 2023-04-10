@@ -543,6 +543,12 @@ A curated list of awesome high performance computing resources.
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
  - [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/cfp.htm)
 
+#### Communities/Chat Groups
+  - [HPC Social Discord server](https://hpc.social/projects/chat/)
+  - [HPC Social slack group](https://hpcsocial.slack.com/)
+  - [HPC Social](https://hpc.social/)
+  - [Beowulf Mailing List](https://www.beowulf.org/)
+
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
  - [HPE HPC](https://twitter.com/hpe_hpc)
