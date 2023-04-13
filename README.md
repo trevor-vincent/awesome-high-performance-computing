@@ -199,6 +199,8 @@ A curated list of awesome high performance computing resources.
 - [Hotspot - Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
 - [mixbench - benchmarks for CPUs and GPUs](https://github.com/ekondis/mixbench)
 - [pmu-tools (toplev) performance tools for modern Intel CPUs](https://github.com/andikleen/pmu-tools)
+- [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html)
+- [STREAM Memory Bandwidth Benchmark](https://www.cs.virginia.edu/stream/)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
