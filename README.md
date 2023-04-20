@@ -593,6 +593,8 @@ A curated list of awesome high performance computing resources.
 - [List of distributed computing projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
 - [Quasi-opportunistic supercomputing](https://en.wikipedia.org/wiki/Quasi-opportunistic_supercomputing)
+- [Limits of Computation](https://en.wikipedia.org/wiki/Limits_of_computation)
+- [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
 
 #### Building Clusters
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
@@ -646,9 +648,8 @@ A curated list of awesome high performance computing resources.
   - [Nice discussion on FlameGraph profiling](https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events/27867426#27867426)
   - [Nice discussion on parts of a supercomputer on reddit (https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
-  - [Limits of Computation](https://en.wikipedia.org/wiki/Limits_of_computation)
-  - [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
-  
+  - [BOINC Compute for science](https://boinc.berkeley.edu/)
+ 
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
   
