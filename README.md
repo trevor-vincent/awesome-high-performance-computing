@@ -459,6 +459,7 @@ A curated list of awesome high performance computing resources.
 - [Heterogeneous Computing Systems (2023)](https://arxiv.org/pdf/2212.14418.pdf)
 - [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
 - [Energy-Aware Scheduling for High-Performance Computing Systems: A Survey](https://www.mdpi.com/1996-1073/16/2/890)
+- [Ultimate Physical limits to computation - Seth Lloyd](https://arxiv.org/abs/quant-ph/9908043)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
@@ -645,6 +646,8 @@ A curated list of awesome high performance computing resources.
   - [Nice discussion on FlameGraph profiling](https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events/27867426#27867426)
   - [Nice discussion on parts of a supercomputer on reddit (https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
+  - [Limits of Computation](https://en.wikipedia.org/wiki/Limits_of_computation)
+  - [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
   
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
