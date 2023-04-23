@@ -441,6 +441,7 @@ A curated list of awesome high performance computing resources.
 - [Fastest unordered_map implementation / benchmarks](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 - [Memory bandwith NapkinMath](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Avoiding Instruction Cache Misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
+- [Multi-GPU Programming with Standard Parallel C++](https://developer.nvidia.com/blog/multi-gpu-programming-with-standard-parallel-c-part-1/)
 
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
