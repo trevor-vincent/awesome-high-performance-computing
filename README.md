@@ -461,6 +461,7 @@ A curated list of awesome high performance computing resources.
 - [Myths and Legends in High-Performance Computing](https://arxiv.org/pdf/2301.02432.pdf)
 - [Energy-Aware Scheduling for High-Performance Computing Systems: A Survey](https://www.mdpi.com/1996-1073/16/2/890)
 - [Ultimate Physical limits to computation - Seth Lloyd](https://arxiv.org/abs/quant-ph/9908043)
+- [Myths and Legends in High-Performance Computing](https://arxiv.org/abs/2301.02432)
 
 #### News
 - [InsideHPC](https://insidehpc.com/)
