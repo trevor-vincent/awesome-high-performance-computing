@@ -98,6 +98,7 @@ A curated list of awesome high performance computing resources.
 - [Intel ISPC - SPMD compiler](https://github.com/ispc/ispc)
 - [Alpa - training large scale neural networks](https://github.com/alpa-projects/alpa)
 - [Scalix - data parallel computing framework](https://github.com/NAGAGroup/Scalix)
+- [HIPLZ - framework for intel-gpu architectures](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_15)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
@@ -442,6 +443,9 @@ A curated list of awesome high performance computing resources.
 - [Memory bandwith NapkinMath](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Avoiding Instruction Cache Misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 - [Multi-GPU Programming with Standard Parallel C++](https://developer.nvidia.com/blog/multi-gpu-programming-with-standard-parallel-c-part-1/)
+
+#### Presentations
+- [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
 
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
