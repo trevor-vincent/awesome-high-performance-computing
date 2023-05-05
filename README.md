@@ -479,6 +479,7 @@ A curated list of awesome high performance computing resources.
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 - [Preparing Applications for Aurora in the Exascale Era](https://connectedsocialmedia.com/20114/preparing-applications-for-aurora-in-the-exascale-era/)
+- [Slurm podcast](https://www.rce-cast.com/index.php/Podcast/rce-10-slurm.html)
 
 #### Youtube Videos/Courses
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
