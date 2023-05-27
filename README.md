@@ -446,7 +446,7 @@ A curated list of awesome high performance computing resources.
 
 #### Presentations
 - [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
-
+ 
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
@@ -481,7 +481,7 @@ A curated list of awesome high performance computing resources.
 - [Preparing Applications for Aurora in the Exascale Era](https://connectedsocialmedia.com/20114/preparing-applications-for-aurora-in-the-exascale-era/)
 - [Slurm podcast](https://www.rce-cast.com/index.php/Podcast/rce-10-slurm.html)
 
-#### Youtube Videos/Courses
+#### Youtube Videos/Courses/Channels
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
@@ -504,6 +504,8 @@ A curated list of awesome high performance computing resources.
 - [The Spack 2022 Roadmap](https://www.youtube.com/watch?v=HyA7RpjoY1k)
 - [A Not So Simple Matter of Software | Talk by Turing Award Winner Prof. Jack Dongarra](https://youtu.be/QBCX3Oxp3vw)
 - [Vectorization/SIMD intrinsics](https://www.youtube.com/watch?v=x9Scb5Mku1g)
+- [New Silicon for Supercomputers: A Guide for Software Engineers](https://www.youtube.com/watch?v=w3xNLj6nRgs&t=197s)
+- [TechTechPotato Channel](TechTechPotato)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
