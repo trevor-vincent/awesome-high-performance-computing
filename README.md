@@ -443,6 +443,7 @@ A curated list of awesome high performance computing resources.
 - [Memory bandwith NapkinMath](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Avoiding Instruction Cache Misses](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 - [Multi-GPU Programming with Standard Parallel C++](https://developer.nvidia.com/blog/multi-gpu-programming-with-standard-parallel-c-part-1/)
+- [EuroCC National Competence Center Sweden (ENCCS) HPC tutorials](https://enccs.se/lessons/)
 
 #### Presentations
 - [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
