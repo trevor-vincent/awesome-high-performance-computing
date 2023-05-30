@@ -626,6 +626,7 @@ A curated list of awesome high performance computing resources.
 - [Benchmarking data science: Twelve ways to lie with statistics and performance on parallel computers.](http://ww.unixer.de/publications/img/hoefler-12-ways-data-science-preprint.pdf)
 - [Establishing the IO500 Benchmark](https://www.vi4io.org/_media/io500/about/io500-establishing.pdf)
 - [NVIDIA High Performance Computing articles](https://research.nvidia.com/research-area/high-performance-computing)
+- [Let's write a superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
