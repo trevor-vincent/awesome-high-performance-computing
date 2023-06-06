@@ -165,7 +165,7 @@ A curated list of awesome high performance computing resources.
 - [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui)
 - [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision)
 - [genv - GPU Environment Management](https://github.com/run-ai/genv)
-- [snakemake - a framework for reproducible data analysis]
+- [snakemake - a framework for reproducible data analysis](https://snakemake.readthedocs.io/en/stable/)
 
 #### Debugging Tools for HPC
 
