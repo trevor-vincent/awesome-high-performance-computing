@@ -167,6 +167,8 @@ A curated list of awesome high performance computing resources.
 - [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision)
 - [genv - GPU Environment Management](https://github.com/run-ai/genv)
 - [snakemake - a framework for reproducible data analysis](https://snakemake.readthedocs.io/en/stable/)
+- [ruptime - batch job monitoring](https://github.com/alexmyczko/ruptime)
+- [remora - batch job monitoring](https://github.com/TACC/remora)
 
 #### Debugging Tools for HPC
 
@@ -644,6 +646,7 @@ A curated list of awesome high performance computing resources.
   - [Texas Advanced Computing Center (TACC) Github](https://github.com/TACC)
   - [LANL HPC Github](https://github.com/hpc)
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
+  - [University of Buffalo - Center for Computational Research](https://github.com/ubccr)
 
 #### Misc.
   - [Exascale Project](https://www.exascaleproject.org/)
