@@ -627,6 +627,7 @@ A curated list of awesome high performance computing resources.
 - [Establishing the IO500 Benchmark](https://www.vi4io.org/_media/io500/about/io500-establishing.pdf)
 - [NVIDIA High Performance Computing articles](https://research.nvidia.com/research-area/high-performance-computing)
 - [Let's write a superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+- [How the titan supercomputer was recycled](https://www.olcf.ornl.gov/2020/01/02/big-iron-afterlife-how-ornls-titan-supercomputer-was-recycled/)
 
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
