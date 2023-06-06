@@ -19,7 +19,7 @@ A curated list of awesome high performance computing resources.
 
 ### A Few Upcoming Supercomputers 
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
- - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2022, Intel-based, ~1 exaflops
+ - [Aurora](https://en.wikipedia.org/wiki/Aurora_(supercomputer)) - 2022, Intel-based, ~2 exaflops
  - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2022, ~700 Petaflop (Linpack500)
 
 ### Most Recent List of the Top500 Supercomputers
