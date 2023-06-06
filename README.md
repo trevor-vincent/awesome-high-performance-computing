@@ -99,6 +99,7 @@ A curated list of awesome high performance computing resources.
 - [Alpa - training large scale neural networks](https://github.com/alpa-projects/alpa)
 - [Scalix - data parallel computing framework](https://github.com/NAGAGroup/Scalix)
 - [HIPLZ - framework for intel-gpu architectures](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_15)
+- [DeterminedAI - Distributed deep learning](https://www.determined.ai/)
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
