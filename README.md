@@ -205,6 +205,8 @@ A curated list of awesome high performance computing resources.
 - [pmu-tools (toplev) performance tools for modern Intel CPUs](https://github.com/andikleen/pmu-tools)
 - [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html)
 - [STREAM Memory Bandwidth Benchmark](https://www.cs.virginia.edu/stream/)
+- [Intel MPI benchmarks](https://www.intel.com/content/www/us/en/docs/mpi-library/user-guide-benchmarks/2021-2/overview.html)
+- [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
@@ -665,7 +667,8 @@ A curated list of awesome high performance computing resources.
   - [Nice discussion on parts of a supercomputer on reddit](https://www.reddit.com/r/HPC/comments/11elh93/job_node_socket_task_runner_device_thread_logical/)
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
   - [BOINC Compute for science](https://boinc.berkeley.edu/)
- 
+  - [Count prime numbers using MPI](https://people.sc.fsu.edu/~jburkardt/c_src/prime_mpi/prime_mpi.html)
+
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
   
