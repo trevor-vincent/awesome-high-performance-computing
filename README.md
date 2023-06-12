@@ -42,6 +42,7 @@ A curated list of awesome high performance computing resources.
 - [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
 - [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
 - [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
+- [MPI Standardization Forum](https://www.mpi-forum.org/)
 - [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
 - [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
 - [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
