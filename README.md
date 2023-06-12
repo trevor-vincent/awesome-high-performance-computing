@@ -208,6 +208,7 @@ A curated list of awesome high performance computing resources.
 - [STREAM Memory Bandwidth Benchmark](https://www.cs.virginia.edu/stream/)
 - [Intel MPI benchmarks](https://www.intel.com/content/www/us/en/docs/mpi-library/user-guide-benchmarks/2021-2/overview.html)
 - [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
+- [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
 
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
