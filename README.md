@@ -110,7 +110,8 @@ A curated list of awesome high performance computing resources.
  - [gpufetch](https://github.com/Dr-Noob/gpufetch)
  - [intel cpuinfo](https://www.intel.com/content/www/us/en/develop/documentation/mpi-developer-reference-linux/top/command-reference/cpuinfo.html)
  - [openmpi hwloc](https://www.open-mpi.org/projects/hwloc/)
- 
+ - [PRK - Parallel Research Kernels](https://github.com/ParRes/Kernels)
+
 #### Cluster Management/Tools/Schedulers/Stacks
 
 - [Flux framework](https://flux-framework.org/)
