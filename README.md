@@ -381,6 +381,7 @@ A curated list of awesome high performance computing resources.
 - [The Student Supercomputer Challenge Guide](https://www.amazon.ca/Student-Supercomputer-Challenge-Guide-Supercomputing/dp/9811338310/ref=sr_1_1?crid=2J5374I76RP2Y&keywords=The+student+supercomputer+challenge&qid=1657060946&sprefix=the+student+supercomputer+challenge%2Caps%2C53&sr=8-1)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [E-Zines on Bash, Linux, Perf, etc - Julia Evans](https://wizardzines.com/)
+- [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111)
 
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
