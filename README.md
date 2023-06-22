@@ -456,6 +456,7 @@ A curated list of awesome high performance computing resources.
 - [Multi-GPU Programming with Standard Parallel C++](https://developer.nvidia.com/blog/multi-gpu-programming-with-standard-parallel-c-part-1/)
 - [EuroCC National Competence Center Sweden (ENCCS) HPC tutorials](https://enccs.se/lessons/)
 - [LLNL hpc tutorials](https://hpc-tutorials.llnl.gov/)
+- [python.org Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 
 #### Presentations
 - [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
