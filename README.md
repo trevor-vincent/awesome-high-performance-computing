@@ -481,7 +481,9 @@ A curated list of awesome high performance computing resources.
 - [Ultimate Physical limits to computation - Seth Lloyd](https://arxiv.org/abs/quant-ph/9908043)
 - [Myths and Legends in High-Performance Computing](https://arxiv.org/abs/2301.02432)
 - [Abstract Machine Models and Proxy Architectures for Exascale Computing, 2014, Sandia National Laboratories and Lawrence Berkeley National Laboratory](https://www.osti.gov/servlets/purl/1561498)
-
+- [Some thoughts on the environmental impact of High Performance Computing](https://sifflez.org/publications/environment-hpc/)
+- [A Research Retrospective on AMD's Exascale Computing Journey](https://dl.acm.org/doi/abs/10.1145/3579371.3589349)
+  
 #### News
 - [InsideHPC](https://insidehpc.com/)
 - [HPCWire](https://www.hpcwire.com/)
