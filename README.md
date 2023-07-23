@@ -415,6 +415,7 @@ A curated list of awesome high performance computing resources.
 - [Cornell workshop](https://cvw.cac.cornell.edu/topics)
 - [Carpentries Incubator HPC Intro](https://carpentries-incubator.github.io/hpc-intro/)
 - [UL HPC School](https://ulhpc-tutorials.readthedocs.io/en/latest/hpc-school/)
+- [Introduction to High-Performance Parallel Distributed Computing using Chapel, UPC++ and Coarray Fortran](https://bitbucket.org/berkeleylab/upcxx/wiki/events/CUF23)
 
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
