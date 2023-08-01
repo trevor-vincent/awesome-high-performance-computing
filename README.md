@@ -31,6 +31,9 @@ A curated list of awesome high performance computing resources.
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
  - [History of the Top500 (Wikipedia)](https://en.wikipedia.org/wiki/TOP500)
  - [History of LLNL Computing](https://computing.llnl.gov/about/machine-history)
+
+### Trends
+ - [Trends in HPC for AI workloads](https://epochai.org/trends)
  
 ## Software
 
