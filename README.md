@@ -308,7 +308,8 @@ A curated list of awesome high performance computing resources.
 - [hetzner - cheap servers incl. 80-core ARM](https://www.hetzner.com/)
 - [Ampere ARM cloud-native processors](https://amperecomputing.com/)
 - [Scaleway](https://www.scaleway.com/en/)
-
+- [Chameleon Cloud](https://www.chameleoncloud.org/)
+  
 #### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
 - [AWS Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
