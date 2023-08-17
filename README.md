@@ -257,6 +257,7 @@ A curated list of awesome high performance computing resources.
 - [Mellanox infiniband cluster config](https://www.mellanox.com/clusterconfig/)
 - [RoCE - RDMA Over Converged Ethernet](https://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet)
 - [Slingshot interconnect](https://www.hpe.com/ca/en/compute/hpc/slingshot-interconnect.html)
+- [CXL - Compute Express Link](https://www.computeexpresslink.org/)
 
 ### CPU
 - [Wikichip](https://en.wikichip.org/wiki/WikiChip)
