@@ -646,7 +646,8 @@ A curated list of awesome high performance computing resources.
 - [Tiny titan - build a really cool pi supercomputer](https://tinytitan.github.io/)
 - [Building an Intel HPC cluster with OpenHPC](https://cdrdv2-public.intel.com/671501/installguide-openhpc2-centos8-18jul21.pdf)
 - [Reddit r/HPC post on building clusters](https://www.reddit.com/r/HPC/comments/11azmhy/wanting_to_setup_a_cluster/)
-
+- [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
+  
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
 - [Tools for scientific computing](https://arxiv.org/pdf/2108.13053.pdf)
@@ -691,7 +692,7 @@ A curated list of awesome high performance computing resources.
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
   - [BOINC Compute for science](https://boinc.berkeley.edu/)
   - [Count prime numbers using MPI](https://people.sc.fsu.edu/~jburkardt/c_src/prime_mpi/prime_mpi.html)
-
+  
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
   
