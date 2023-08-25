@@ -178,7 +178,8 @@ A curated list of awesome high performance computing resources.
 - [snakemake - a framework for reproducible data analysis](https://snakemake.readthedocs.io/en/stable/)
 - [ruptime - batch job monitoring](https://github.com/alexmyczko/ruptime)
 - [remora - batch job monitoring](https://github.com/TACC/remora)
-
+- [perun - energy monitor](https://github.com/Helmholtz-AI-Energy/perun)
+  
 #### Debugging Tools for HPC
 
 - [Summary of C/C++ debugging tools](http://pramodkumbhar.com/2018/06/summary-of-debugging-tools/)
