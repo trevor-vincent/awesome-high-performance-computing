@@ -234,6 +234,7 @@ A curated list of awesome high performance computing resources.
  - [Scalapack](https://netlib.org/scalapack/)
  - [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU](rapids.ai)
  - [trilinos](https://trilinos.github.io/)
+ - [tnl project](https://tnl-project.org/)
  
 #### Misc.
  - [mimalloc memory allocator](https://github.com/microsoft/mimalloc)
