@@ -650,6 +650,7 @@ A curated list of awesome high performance computing resources.
 - [Building an Intel HPC cluster with OpenHPC](https://cdrdv2-public.intel.com/671501/installguide-openhpc2-centos8-18jul21.pdf)
 - [Reddit r/HPC post on building clusters](https://www.reddit.com/r/HPC/comments/11azmhy/wanting_to_setup_a_cluster/)
 - [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
+- [Building a High-performance Computing Cluster Using FreeBSD](https://people.freebsd.org/~brooks/papers/bsdcon2003/fbsdcluster/)
   
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
