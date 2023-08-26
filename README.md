@@ -471,10 +471,6 @@ A curated list of awesome high performance computing resources.
 - [python.org Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 - [HPC toolset tutorial (cluster management)](https://github.com/ubccr/hpc-toolset-tutorial)
 
-#### Presentations
-- [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
-- [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
-
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
@@ -537,6 +533,11 @@ A curated list of awesome high performance computing resources.
 - [Vectorization/SIMD intrinsics](https://www.youtube.com/watch?v=x9Scb5Mku1g)
 - [New Silicon for Supercomputers: A Guide for Software Engineers](https://www.youtube.com/watch?v=w3xNLj6nRgs&t=197s)
 - [TechTechPotato Channel](TechTechPotato)
+- [How to write the perfect hash table ](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
+
+#### Presentations
+- [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
+- [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
 
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
@@ -697,11 +698,12 @@ A curated list of awesome high performance computing resources.
   
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
-  
+
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
+
 
 ## Acknowledgements
 
