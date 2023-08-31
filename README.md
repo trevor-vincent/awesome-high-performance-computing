@@ -393,7 +393,9 @@ A curated list of awesome high performance computing resources.
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [E-Zines on Bash, Linux, Perf, etc - Julia Evans](https://wizardzines.com/)
 - [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111)
-
+- [OpenMP Examples (openmp.org)](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)https://www.openmp.org/resources/openmp-books/
+- [Latest books on OpemMP (openmp.org)](https://www.openmp.org/resources/openmp-books/)
+  
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
@@ -470,7 +472,8 @@ A curated list of awesome high performance computing resources.
 - [LLNL hpc tutorials](https://hpc-tutorials.llnl.gov/)
 - [python.org Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 - [HPC toolset tutorial (cluster management)](https://github.com/ubccr/hpc-toolset-tutorial)
-
+- [OpenMP tutorials](https://www.openmp.org/resources/tutorials-articles/)
+  
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
