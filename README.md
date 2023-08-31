@@ -395,8 +395,8 @@ A curated list of awesome high performance computing resources.
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [E-Zines on Bash, Linux, Perf, etc - Julia Evans](https://wizardzines.com/)
 - [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111)
-- [OpenMP Examples (openmp.org)](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)https://www.openmp.org/resources/openmp-books/
-- [Latest books on OpemMP (openmp.org)](https://www.openmp.org/resources/openmp-books/)
+- [OpenMP Examples - openmp.org](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)
+- [Latest books on OpemMP - openmp.org](https://www.openmp.org/resources/openmp-books/)
   
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
