@@ -365,7 +365,9 @@ A curated list of awesome high performance computing resources.
 ## Resources
 
 #### Books/Manuals
-- [HPC Books by Victor Eijkhout](https://theartofhpc.com/)
+- [Free Modern HPC Books by Victor Eijkhout](https://theartofhpc.com/)
+- [High Performance Parallel Runtimes](https://www.amazon.com/High-Performance-Parallel-Runtimes-Implementation-ebook/dp/B08WH82KF9/ref=sr_1_1?keywords=High+Performance+Parallel+Runtimes&qid=1689287759&sr=8-1)
+- [The OpenMP Common Core: Making OpenMP Simple Again](https://www.amazon.com/OpenMP-Common-Core-Engineering-Computation/dp/0262538865/ref=d_pd_sbs_sccl_2_1/130-5660046-7109016?pd_rd_w=Cqnxw&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=HG04QQS87WDHAGV578EE&pd_rd_wg=u0csS&pd_rd_r=8a6a0024-5dec-4934-8fa5-99e24d9fc4bd&pd_rd_i=0262538865&psc=1)
 - [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
