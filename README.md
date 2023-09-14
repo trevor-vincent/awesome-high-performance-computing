@@ -179,6 +179,8 @@ A curated list of awesome high performance computing resources.
 - [ruptime - batch job monitoring](https://github.com/alexmyczko/ruptime)
 - [remora - batch job monitoring](https://github.com/TACC/remora)
 - [perun - energy monitor](https://github.com/Helmholtz-AI-Energy/perun)
+- [Prometheus - Monitoring metrics](https://prometheus.io/)
+- [Grafana - Monitoring metrics](https://github.com/grafana/grafana)
   
 #### Debugging Tools for HPC
 
