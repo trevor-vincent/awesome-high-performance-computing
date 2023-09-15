@@ -567,7 +567,8 @@ A curated list of awesome high performance computing resources.
  - [The United States Research Software Engineer Association](https://us-rse.org/)
  - [NCSA Internship](https://wiki.ncsa.illinois.edu/display/NCSACIP/NCSA+Internship+Program+for+CI+Professionals+Home)
  - [AI and Future HPC Job Prospect](https://www.reddit.com/r/HPC/comments/12anrgq/hpc_future_career_prospects/)
- 
+ - [HPC sys admin career (reddit)](https://www.reddit.com/r/HPC/comments/16jkqlv/it_support_for_an_academic_hpc_cluster_as_a_career/)
+   
 #### Membership Clubs
  - [Association for Computing Machinery](acm.org)
  - [ETP4HPC](https://www.etp4hpc.eu/)
