@@ -400,6 +400,10 @@ A curated list of awesome high performance computing resources.
 - [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111)
 - [OpenMP Examples - openmp.org](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)
 - [Latest books on OpemMP - openmp.org](https://www.openmp.org/resources/openmp-books/)
+- [Programming Massively Parallel Processors 1st Edition 2010](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0123814723)
+- [Programming Massively Parallel Processors 2nd Edition 2012](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands-ebook/dp/B00AQEXYS0/ref=sr_1_1?crid=1TEF02TERCEPA&keywords=Programming+Massively+Parallel+Processors+2nd+Edition+2012&qid=1695110685&s=books&sprefix=programming+massively+parallel+processors+2nd+edition+2012%2Cstripbooks%2C91&sr=1-1)
+- [Programming Massively Parallel Processors 3rd Edition 2017](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=2H0FO0KU8BMF7&keywords=Programming+Massively+Parallel+Processors+3rd+edition&qid=1695110708&s=books&sprefix=programming+massively+parallel+processors+3rd+edition%2Cstripbooks%2C64&sr=1-1)
+- [Programming Massively Parallel Processors 4th Edition 2023](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=18EW0LVO2VFMC&keywords=Programming+Massively+Parallel+Processors+4th+Edition+2023&qid=1695110729&s=books&sprefix=programming+massively+parallel+processors+4th+edition+2023%2Cstripbooks%2C88&sr=1-1)
   
 #### Courses
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
