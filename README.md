@@ -181,6 +181,8 @@ A curated list of awesome high performance computing resources.
 - [perun - energy monitor](https://github.com/Helmholtz-AI-Energy/perun)
 - [Prometheus - Monitoring metrics](https://prometheus.io/)
 - [Grafana - Monitoring metrics](https://github.com/grafana/grafana)
+- [redun - yet another redundant workflow engine](https://github.com/insitro/redun)
+- [parsl - extends parallelism in Python beyond a single computer.](https://github.com/Parsl/parsl)
   
 #### Debugging Tools for HPC
 
