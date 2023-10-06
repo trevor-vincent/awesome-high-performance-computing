@@ -108,7 +108,8 @@ A curated list of awesome high performance computing resources.
 - [Scalix - data parallel computing framework](https://github.com/NAGAGroup/Scalix)
 - [HIPLZ - framework for intel-gpu architectures](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_15)
 - [DeterminedAI - Distributed deep learning](https://www.determined.ai/)
-
+- [parsl - extends parallelism in Python beyond a single computer.](https://github.com/Parsl/parsl)
+  
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
  - [LIKWID.jl - julia wrapper for likwid](https://juliaperf.github.io/LIKWID.jl/dev/)
@@ -182,7 +183,7 @@ A curated list of awesome high performance computing resources.
 - [Prometheus - Monitoring metrics](https://prometheus.io/)
 - [Grafana - Monitoring metrics](https://github.com/grafana/grafana)
 - [redun - yet another redundant workflow engine](https://github.com/insitro/redun)
-- [parsl - extends parallelism in Python beyond a single computer.](https://github.com/Parsl/parsl)
+- [arbiter2 - Arbiter2 monitors and protects interactive nodes with cgroups.](https://github.com/CHPC-UofU/arbiter2)
   
 #### Debugging Tools for HPC
 
@@ -691,7 +692,8 @@ A curated list of awesome high performance computing resources.
   - [LANL HPC Github](https://github.com/hpc)
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
   - [University of Buffalo - Center for Computational Research](https://github.com/ubccr)
-
+  - [Center for High Performance Computing - University of Utah](https://github.com/CHPC-UofU)
+    
 #### Misc.
   - [Exascale Project](https://www.exascaleproject.org/)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
