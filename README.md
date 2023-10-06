@@ -484,7 +484,8 @@ A curated list of awesome high performance computing resources.
 - [python.org Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 - [HPC toolset tutorial (cluster management)](https://github.com/ubccr/hpc-toolset-tutorial)
 - [OpenMP tutorials](https://www.openmp.org/resources/tutorials-articles/)
-  
+- [CUDA best practices guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
+
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
