@@ -39,7 +39,7 @@ A curated list of awesome high performance computing resources.
  
 ## Software
 
-#### Popular HPC Programming Libraries/APIs/Tools/Standards
+#### Popular HPC Programming Libraries/APIs/Tools/Standards/Simulators
 
 - [OpenMP: Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran](https://www.openmp.org/)
 - [HPX: A C++ Standard Library for Concurrency and Parallelism](https://github.com/STEllAR-GROUP/hpx)
@@ -109,7 +109,8 @@ A curated list of awesome high performance computing resources.
 - [HIPLZ - framework for intel-gpu architectures](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_15)
 - [DeterminedAI - Distributed deep learning](https://www.determined.ai/)
 - [parsl - extends parallelism in Python beyond a single computer.](https://github.com/Parsl/parsl)
-  
+- [Simgrid - simulate cluster/HPC environments](https://simgrid.org/)
+    
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
  - [LIKWID.jl - julia wrapper for likwid](https://juliaperf.github.io/LIKWID.jl/dev/)
