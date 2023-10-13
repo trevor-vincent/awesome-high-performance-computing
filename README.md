@@ -197,6 +197,7 @@ A curated list of awesome high performance computing resources.
 
 #### Performance/Benchmark Tools for HPC
 
+- [Summary of profing tools](https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/)
 - [Summary of code performance analysis tools](https://doku.lrz.de/display/PUBLIC/Performance+and+Code+Analysis+Tools+for+HPC)
 - [papi](https://icl.utk.edu/papi/)
 - [scalasca](https://www.scalasca.org/)
@@ -223,7 +224,8 @@ A curated list of awesome high performance computing resources.
 - [Intel MPI benchmarks](https://www.intel.com/content/www/us/en/docs/mpi-library/user-guide-benchmarks/2021-2/overview.html)
 - [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
-
+- [core-to-core-latency](https://github.com/nviennot/core-to-core-latency)
+  
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
  - [paraview](https://yt-project.org/)
@@ -486,7 +488,8 @@ A curated list of awesome high performance computing resources.
 - [HPC toolset tutorial (cluster management)](https://github.com/ubccr/hpc-toolset-tutorial)
 - [OpenMP tutorials](https://www.openmp.org/resources/tutorials-articles/)
 - [CUDA best practices guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
-
+- [Understanding CPU Architecture And Performance Using LIKWID](https://pramodkumbhar.com/2020/03/architectural-optimisations-using-likwid-profiler/)
+  
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
@@ -590,7 +593,8 @@ A curated list of awesome high performance computing resources.
  - [Arm Vendor HPC blog](https://community.arm.com/developer/tools-software/hpc/b/hpc-blog)
  - [HPC Notes](https://www.hpcnotes.com/)
  - [Brendan Gregg Performance Blog](https://www.brendangregg.com/blog/index.html)
-
+ - [Performance engineering blog](https://pramodkumbhar.com)
+   
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
  - [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
