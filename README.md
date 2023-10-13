@@ -489,6 +489,7 @@ A curated list of awesome high performance computing resources.
 - [OpenMP tutorials](https://www.openmp.org/resources/tutorials-articles/)
 - [CUDA best practices guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 - [Understanding CPU Architecture And Performance Using LIKWID](https://pramodkumbhar.com/2020/03/architectural-optimisations-using-likwid-profiler/)
+- [32 OpenMP Traps For C++ Developers](https://pvs-studio.com/en/blog/posts/cpp/a0054/#ID0EWEAC)
   
 #### Review Papers/Articles
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
