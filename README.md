@@ -110,7 +110,8 @@ A curated list of awesome high performance computing resources.
 - [DeterminedAI - Distributed deep learning](https://www.determined.ai/)
 - [parsl - extends parallelism in Python beyond a single computer.](https://github.com/Parsl/parsl)
 - [Simgrid - simulate cluster/HPC environments](https://simgrid.org/)
-    
+- [Pollux - Message Passing Cloud orchestrator](https://github.com/polluxio/pollux-payload)
+
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
  - [LIKWID.jl - julia wrapper for likwid](https://juliaperf.github.io/LIKWID.jl/dev/)
