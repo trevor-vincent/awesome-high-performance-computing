@@ -444,7 +444,8 @@ A curated list of awesome high performance computing resources.
 - [Carpentries Incubator HPC Intro](https://carpentries-incubator.github.io/hpc-intro/)
 - [UL HPC School](https://ulhpc-tutorials.readthedocs.io/en/latest/hpc-school/)
 - [Introduction to High-Performance Parallel Distributed Computing using Chapel, UPC++ and Coarray Fortran](https://bitbucket.org/berkeleylab/upcxx/wiki/events/CUF23)
-
+- [Performance Engineering off Software Systems (MIT-OCW)](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
+  
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
