@@ -558,10 +558,6 @@ A curated list of awesome high performance computing resources.
 - [TechTechPotato Channel](TechTechPotato)
 - [How to write the perfect hash table ](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 
-#### Presentations
-- [Undersubscription: An Underutilized Factor in High-Performance Computing](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=2122&context=research_symp)
-- [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
-
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 - [Tuning Slurm Scheduling for Optimal Responsiveness and Utilization](https://slurm.schedmd.com/SUG14/sched_tutorial.pdf)
@@ -569,6 +565,7 @@ A curated list of awesome high performance computing resources.
 - [Comparative Analysis of Kokkos and Sycl (Jeff Hammond)](https://www.iwocl.org/wp-content/uploads/iwocl-2019-dhpcc-jeff-hammond-a-comparitive-analysis-of-kokkos-and-sycl.pdf) 
 - [Hybrid OpenMP/MPI Programming](https://www.nersc.gov/assets/Uploads/NUG2013hybridMPIOpenMP2.pdf)
 - [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean (Google)](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+- [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
 
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
