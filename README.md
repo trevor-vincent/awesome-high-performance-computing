@@ -29,6 +29,7 @@ A curated list of awesome high performance computing resources.
  
 ### History
  - [History of Supercomputing (Wikipedia)](https://en.wikipedia.org/wiki/History_of_supercomputing)
+ - [History of Parallel Computing (Wikipedia)](https://en.wikipedia.org/wiki/Parallel_computing#History)
  - [History of the Top500 (Wikipedia)](https://en.wikipedia.org/wiki/TOP500)
  - [History of LLNL Computing](https://computing.llnl.gov/about/machine-history)
  - [The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer (1997)](https://www.amazon.ca/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852/ref=sr_1_1?crid=1IOWC3IOYWPOP&keywords=seymour+cray&qid=1690959561&sprefix=seymour+cray%2Caps%2C88&sr=8-1)
@@ -567,6 +568,22 @@ A curated list of awesome high performance computing resources.
 - [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean (Google)](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
 
+  
+#### Building Clusters
+- [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
+- [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
+- [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
+- [Puget Systems](https://www.pugetsystems.com/)
+- [Lambda Systems](https://lambdalabs.com/)
+- [Titan computers](https://www.titancomputers.com)
+- [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
+- [Detailed reddit discussion on setting up a small cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
+- [Tiny titan - build a really cool pi supercomputer](https://tinytitan.github.io/)
+- [Building an Intel HPC cluster with OpenHPC](https://cdrdv2-public.intel.com/671501/installguide-openhpc2-centos8-18jul21.pdf)
+- [Reddit r/HPC post on building clusters](https://www.reddit.com/r/HPC/comments/11azmhy/wanting_to_setup_a_cluster/)
+- [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
+- [Building a High-performance Computing Cluster Using FreeBSD](https://people.freebsd.org/~brooks/papers/bsdcon2003/fbsdcluster/)
+
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
@@ -658,21 +675,7 @@ A curated list of awesome high performance computing resources.
 - [Quasi-opportunistic supercomputing](https://en.wikipedia.org/wiki/Quasi-opportunistic_supercomputing)
 - [Limits of Computation](https://en.wikipedia.org/wiki/Limits_of_computation)
 - [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
-
-#### Building Clusters
-- [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
-- [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
-- [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
-- [Puget Systems](https://www.pugetsystems.com/)
-- [Lambda Systems](https://lambdalabs.com/)
-- [Titan computers](https://www.titancomputers.com)
-- [Temple course on building/maintaining a cluster](https://www.hpc.temple.edu/mhpc/2021/hpc-technology/index.html)
-- [Detailed reddit discussion on setting up a small cluster](https://www.reddit.com/r/HPC/comments/xeipt7/setting_up_a_small_hpc_cluster/)
-- [Tiny titan - build a really cool pi supercomputer](https://tinytitan.github.io/)
-- [Building an Intel HPC cluster with OpenHPC](https://cdrdv2-public.intel.com/671501/installguide-openhpc2-centos8-18jul21.pdf)
-- [Reddit r/HPC post on building clusters](https://www.reddit.com/r/HPC/comments/11azmhy/wanting_to_setup_a_cluster/)
-- [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
-- [Building a High-performance Computing Cluster Using FreeBSD](https://people.freebsd.org/~brooks/papers/bsdcon2003/fbsdcluster/)
+- [Concurrency patterns](https://en.wikipedia.org/wiki/Concurrency_pattern)
   
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
@@ -700,7 +703,10 @@ A curated list of awesome high performance computing resources.
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
   - [University of Buffalo - Center for Computational Research](https://github.com/ubccr)
   - [Center for High Performance Computing - University of Utah](https://github.com/CHPC-UofU)
-    
+  
+#### Misc. Theses
+   - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
+
 #### Misc.
   - [Exascale Project](https://www.exascaleproject.org/)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
@@ -719,15 +725,11 @@ A curated list of awesome high performance computing resources.
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
   - [BOINC Compute for science](https://boinc.berkeley.edu/)
   - [Count prime numbers using MPI](https://people.sc.fsu.edu/~jburkardt/c_src/prime_mpi/prime_mpi.html)
-  
-#### Misc. Theses
-   - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
 
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
-
 
 ## Acknowledgements
 
