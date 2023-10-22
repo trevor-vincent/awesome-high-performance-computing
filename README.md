@@ -612,6 +612,7 @@ A curated list of awesome high performance computing resources.
  - [HPC Notes](https://www.hpcnotes.com/)
  - [Brendan Gregg Performance Blog](https://www.brendangregg.com/blog/index.html)
  - [Performance engineering blog](https://pramodkumbhar.com)
+ - [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/)
    
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
@@ -676,6 +677,7 @@ A curated list of awesome high performance computing resources.
 - [Limits of Computation](https://en.wikipedia.org/wiki/Limits_of_computation)
 - [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
 - [Concurrency patterns](https://en.wikipedia.org/wiki/Concurrency_pattern)
+- [Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)
   
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
