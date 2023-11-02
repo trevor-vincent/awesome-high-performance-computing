@@ -572,6 +572,7 @@ A curated list of awesome high performance computing resources.
 
   
 #### Building Clusters
+- [Slurm for dummies guide](https://github.com/SergioMEV/slurm-for-dummies)
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
 - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
 - [Build a Raspberry Pi Cluster](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/)
