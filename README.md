@@ -187,6 +187,7 @@ A curated list of awesome high performance computing resources.
 - [Grafana - Monitoring metrics](https://github.com/grafana/grafana)
 - [redun - yet another redundant workflow engine](https://github.com/insitro/redun)
 - [arbiter2 - Arbiter2 monitors and protects interactive nodes with cgroups.](https://github.com/CHPC-UofU/arbiter2)
+- [nextflow - Data-driven computational pipelines](https://www.nextflow.io/)
   
 #### Debugging Tools for HPC
 
