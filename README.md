@@ -229,6 +229,7 @@ A curated list of awesome high performance computing resources.
 - [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
 - [core-to-core-latency](https://github.com/nviennot/core-to-core-latency)
+- [speedscope - flamegraph profiler for many languages](https://github.com/jlfwong/speedscope)
   
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
