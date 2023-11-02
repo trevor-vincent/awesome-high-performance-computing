@@ -531,7 +531,8 @@ A curated list of awesome high performance computing resources.
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
 - [Preparing Applications for Aurora in the Exascale Era](https://connectedsocialmedia.com/20114/preparing-applications-for-aurora-in-the-exascale-era/)
 - [Slurm podcast](https://www.rce-cast.com/index.php/Podcast/rce-10-slurm.html)
-
+- [HPCPodcast](https://insidehpc.com/category/resources/hpc-podcast/)
+  
 #### Youtube Videos/Courses/Channels
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
