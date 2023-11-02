@@ -584,7 +584,8 @@ A curated list of awesome high performance computing resources.
 - [Reddit r/HPC post on building clusters](https://www.reddit.com/r/HPC/comments/11azmhy/wanting_to_setup_a_cluster/)
 - [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
 - [Building a High-performance Computing Cluster Using FreeBSD](https://people.freebsd.org/~brooks/papers/bsdcon2003/fbsdcluster/)
-
+- [Supermicro GPU racks](https://www.supermicro.com/en/products/gpu)
+  
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
