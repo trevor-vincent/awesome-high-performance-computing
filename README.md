@@ -196,8 +196,8 @@ A curated list of awesome high performance computing resources.
 - [totalview](https://totalview.io/)
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
 - [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools)
-- [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
-- [Hotspot - linux perf GUI](https://github.com/KDAB/hotspot/)
+- [seer modern gui for gdb](https://github.com/epasveer/seer)
+
 
 #### Performance/Benchmark Tools for HPC
 
@@ -229,8 +229,10 @@ A curated list of awesome high performance computing resources.
 - [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
 - [core-to-core-latency](https://github.com/nviennot/core-to-core-latency)
+- [Hotspot - linux perf GUI](https://github.com/KDAB/hotspot/)
 - [speedscope - flamegraph profiler for many languages](https://github.com/jlfwong/speedscope)
-  
+- [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
+    
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
  - [paraview](https://yt-project.org/)
