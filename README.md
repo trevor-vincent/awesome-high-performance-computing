@@ -274,7 +274,8 @@ A curated list of awesome high performance computing resources.
 - [RoCE - RDMA Over Converged Ethernet](https://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet)
 - [Slingshot interconnect](https://www.hpe.com/ca/en/compute/hpc/slingshot-interconnect.html)
 - [CXL - Compute Express Link](https://www.computeexpresslink.org/)
-
+- [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
+  
 ### CPU
 - [Wikichip](https://en.wikichip.org/wiki/WikiChip)
 - [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
@@ -282,6 +283,7 @@ A curated list of awesome high performance computing resources.
 - [Apple M2](https://en.wikipedia.org/wiki/Apple_M2)
 - [Apple M2 Teardown](https://www.ifixit.com/News/62674/m2-macbook-air-teardown-apple-forgot-the-heatsink)
 - [Apply M1/M2 AMX](https://github.com/corsix/amx)
+- [Apple M3](https://en.wikipedia.org/wiki/Apple_M3)
 - [List of Intel processors](https://en.wikipedia.org/wiki/List_of_Intel_processors)
 - [List of Intel micro architectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 - [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
@@ -450,6 +452,8 @@ A curated list of awesome high performance computing resources.
 - [UL HPC School](https://ulhpc-tutorials.readthedocs.io/en/latest/hpc-school/)
 - [Introduction to High-Performance Parallel Distributed Computing using Chapel, UPC++ and Coarray Fortran](https://bitbucket.org/berkeleylab/upcxx/wiki/events/CUF23)
 - [Performance Engineering off Software Systems (MIT-OCW)](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
+- [Introduction to Parallel Computing (CMSC 498X/818X)](https://www.cs.umd.edu/class/fall2020/cmsc498x/lectures.shtml)
+- [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
   
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
@@ -575,6 +579,7 @@ A curated list of awesome high performance computing resources.
 
   
 #### Building Clusters
+- [Resources for learning about HPC networks and storage r/HPC](https://www.reddit.com/r/HPC/comments/17o0q5d/resources_for_learning_about_hpc_networks_and/)
 - [Slurm for dummies guide](https://github.com/SergioMEV/slurm-for-dummies)
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
 - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster) 
