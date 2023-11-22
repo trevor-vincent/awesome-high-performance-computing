@@ -31,7 +31,7 @@ A curated list of awesome high performance computing resources.
  - [History of Parallel Computing (Wikipedia)](https://en.wikipedia.org/wiki/Parallel_computing#History)
  - [History of the Top500 (Wikipedia)](https://en.wikipedia.org/wiki/TOP500)
  - [History of LLNL Computing](https://computing.llnl.gov/about/machine-history)
- - [The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer (1997)](https://www.amazon.ca/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852/ref=sr_1_1?crid=1IOWC3IOYWPOP&keywords=seymour+cray&qid=1690959561&sprefix=seymour+cray%2Caps%2C88&sr=8-1)
+ - [The Supermen: The Story of Seymour Cray ... (1997)](https://www.amazon.ca/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852/ref=sr_1_1?crid=1IOWC3IOYWPOP&keywords=seymour+cray&qid=1690959561&sprefix=seymour+cray%2Caps%2C88&sr=8-1)
  - [Unmatched - 50 Years of Supercomputing (2023)](https://www.routledge.com/Unmatched-50-Years-of-Supercomputing/Barkai/p/book/9780367479619)
    
 ### Trends
@@ -325,6 +325,7 @@ A curated list of awesome high performance computing resources.
 - [Scaleway](https://www.scaleway.com/en/)
 - [Chameleon Cloud](https://www.chameleoncloud.org/)
 - [Lambda Labs](https://lambdalabs.com/)
+- [Runpod](https://www.runpod.io/)
   
 #### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
