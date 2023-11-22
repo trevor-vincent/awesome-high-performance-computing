@@ -695,8 +695,9 @@ A curated list of awesome high performance computing resources.
 - [Establishing the IO500 Benchmark](https://www.vi4io.org/_media/io500/about/io500-establishing.pdf)
 - [NVIDIA High Performance Computing articles](https://research.nvidia.com/research-area/high-performance-computing)
 - [Let's write a superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-- [How the titan supercomputer was recycled](https://www.olcf.ornl.gov/2020/01/02/big-iron-afterlife-how-ornls-titan-supercomputer-was-recycled/)
-
+- [Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
+- [The State of Fortran (arxiv paper 2022)](https://arxiv.org/abs/2203.15110)
+  
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
   - [libsc - Supercomputing library](https://github.com/cburstedde/libsc)
