@@ -70,6 +70,7 @@ A curated list of awesome high performance computing resources.
 - [Legate: Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
 - [Legion: Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
 - [MAGMA: next generation linear algebra (LA) GPU accelerated libraries](https://developer.nvidia.com/magma)
+- [Merlin: a distributed task queuing system, designed to allow complex HPC workflows to scale to large numbers of simulations](https://merlin.readthedocs.io/en/latest/)
 - [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 - [MOGSLib: User defined schedulers](https://github.com/ECLScheduling/MOGSLib)
 - [mpi4jax: zero-copy mpi for jax arrays](https://github.com/mpi4jax/mpi4jax)
@@ -741,7 +742,8 @@ A curated list of awesome high performance computing resources.
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
-
+   - [Awesome HPC](https://github.com/dstdev/awesome-hpc/)
+     
 ## Acknowledgements
 
 This repo started from the great curated list https://github.com/taskflow/awesome-parallel-computing
