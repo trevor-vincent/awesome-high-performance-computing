@@ -738,6 +738,9 @@ A curated list of awesome high performance computing resources.
   - [BOINC Compute for science](https://boinc.berkeley.edu/)
   - [Count prime numbers using MPI](https://people.sc.fsu.edu/~jburkardt/c_src/prime_mpi/prime_mpi.html)
 
+#### Games
+  - [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io)
+
 #### Other Curated Lists
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
