@@ -40,74 +40,75 @@ A curated list of awesome high performance computing resources.
 ## Software
 
 #### Popular HPC Programming Libraries/APIs/Tools/Standards/Simulators
-- [alpaka: The alpaka library is a header-only C++17 abstraction library for accelerator development](https://github.com/alpaka-group/alpaka)
-- [async-rdma: A framework for writing RDMA applications with high-level abstraction and asynchronous APIs](https://github.com/datenlord/async-rdma)
-- [CAF: An Open Source Implementation of the Actor Model in C++](https://github.com/actor-framework/actor-framework)
-- [Chapel: A Programming Language for Productive Parallel Computing on Large-scale Systems](https://chapel-lang.org/)
-- [Charm++: Parallel Programming with Migratable Objects](http://charm.cs.illinois.edu/research/charm)
-- [Cilk Plus: C/C++ Extension for Data and Task Parallelism](https://www.cilkplus.org/)
-- [Codon: high-performance Python compiler that compiles Python code to native machine code without any runtime overhead](https://github.com/exaloop/codon)
-- [CUDA: High performance NVIDIA GPU acceleration](https://developer.nvidia.com/cuda-toolkit)
-- [dask: Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love](https://dask.org)
-- [DeepSpeed: is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference](https://github.com/microsoft/DeepSpeed)
-- [DeterminedAI: Distributed deep learning](https://www.determined.ai/)
-- [FastFlow: High-performance Parallel Patterns in C++](https://github.com/fastflow/fastflow)
-- [Galois: A C++ Library to Ease Parallel Programming with Irregular Parallelism](https://github.com/IntelligentSoftwareSystems/Galois)
-- [Halide: a language for fast, portable computation on images and tensors](https://halide-lang.org/index.html#gettingstarted)
-- [Heteroflow: Concurrent CPU-GPU Task Programming using Modern C++](https://github.com/Heteroflow/Heteroflow)
-- [highway: performance portable SIMD intrinsics](https://github.com/google/highway)
-- [HIP: HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU](https://github.com/ROCm-Developer-Tools/HIP)
-- [HPC-X: Nvidia implementation of MPI](https://developer.nvidia.com/networking/hpc-x)
-- [HPX: A C++ Standard Library for Concurrency and Parallelism](https://github.com/STEllAR-GROUP/hpx)
-- [Horovod: distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
-- [Implicit SPMD Program Compiler (ISPC): An open-source compiler for high-performance SIMD programming on the CPU and GPU](https://ispc.github.io/)
-- [Intel ISPC: SPMD compiler](https://github.com/ispc/ispc)
-- [Intel TBB: Threading Building Blocks](https://www.threadingbuildingblocks.org/)
-- [joblib: data-flow programming for performance (python)](https://joblib.readthedocs.io/en/latest/why.html)
-- [Kompute: The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)](https://github.com/KomputeProject/kompute)
-- [Kokkos: A C++ Programming Model for Writing Performance Portable Applications on HPC platforms](https://github.com/kokkos/kokkos)
-- [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator)
-- [Legate: Nvidia replacement for numpy based on Legion](https://github.com/nv-legate/legate.numpy)
-- [Legion: Distributed heterogenous programming librrary](https://github.com/StanfordLegion/legion)
-- [MAGMA: next generation linear algebra (LA) GPU accelerated libraries](https://developer.nvidia.com/magma)
-- [Merlin: a distributed task queuing system, designed to allow complex HPC workflows to scale to large numbers of simulations](https://merlin.readthedocs.io/en/latest/)
-- [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
-- [MOGSLib: User defined schedulers](https://github.com/ECLScheduling/MOGSLib)
-- [mpi4jax: zero-copy mpi for jax arrays](https://github.com/mpi4jax/mpi4jax)
-- [mpi4py: python bindings for MPI](https://mpi4py.readthedocs.io/en/stable/)
-- [MPI: Message passing interface; OpenMPI implementation](https://www.open-mpi.org/)
-- [MPI: Message passing interface: MPICH implementation](https://www.mpich.org/)
-- [MPI Standardization Forum](https://www.mpi-forum.org/)
-- [MPAVICH: Implementation of MPI](https://mvapich.cse.ohio-state.edu/)
-- [NCCL: The NVIDIA Collective Communication Library (NCCL) implements multi-GPU and multi-node communication primitives optimized for NVIDIA GPUs and Networking](https://developer.nvidia.com/nccl)
-- [NVIDIA cuNumeric: GPU drop-in for numpy](https://developer.nvidia.com/cunumeric)
-- [NVIDIA stdpar: GPU accelerated C++](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/)
-- [numba: Numba is an open source JIT compiler that translates a subset of Python into fast machine code.](https://numba.pydata.org/)
-- [oneAPI: open, cross-industry, standards-based, unified, multiarchitecture, multi-vendor programming model](https://www.oneapi.io/)
-- [OpenACC: "OpenMP for GPUs"](https://www.openacc.org/)
-- [OpenCilk: MIT continuation of Cilk Plus](https://www.opencilk.org/)
-- [OpenMP: Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran](https://www.openmp.org/)
-- [PVM: Parallel Virtual Maschine: A predecessor to MPI for distributed computing](https://www.csm.ornl.gov/pvm/)
-- [PMIX](https://pmix.github.io/standard)
-- [Pollux: Message Passing Cloud orchestrator](https://github.com/polluxio/pollux-payload)
-- [Pyfi: distributed flow and computation system](https://github.com/radiantone/pyfi)
-- [RAJA: architecture and programming model portability for HPC applications](https://github.com/LLNL/RAJA)
-- [RaftLib: A C++ Library for Enabling Stream and Dataflow Parallel Computation](https://github.com/RaftLib/RaftLib)
-- [ray: scale AI and Python workloads — from reinforcement learning to deep learning](https://www.ray.io/)
-- [ROCM: first open-source software development platform for HPC/Hyperscale-class GPU computing](https://rocmdocs.com/en/latest/)
-- [RS MPI: rust bindings for MPI](https://rsmpi.github.io/rsmpi/mpi/index.html)
-- [Scalix: data parallel computing framework](https://github.com/NAGAGroup/Scalix)
-- [Simgrid: simulate cluster/HPC environments](https://simgrid.org/)
-- [SkelCL: A Skeleton Library for Heterogeneous Systems](https://skelcl.github.io/)
-- [STAPL: Standard Template Adaptive Parallel Programming Library in C++](https://parasol.tamu.edu/stapl/)
-- [STLab: High-level Constructs for Implementing Multicore Algorithms with Minimized Contention](http://stlab.cc/libraries/concurrency/)
-- [SYCL: C++ Abstraction layer for heterogeneous devices](https://www.khronos.org/sycl/)
-- [Taichi: parallel programming language for high-performance numerical computations (embedded in Python with JIT support)](https://github.com/taichi-dev/taichi)
-- [Taskflow: A Modern C++ Parallel Task Programming Library](https://github.com/taskflow/taskflow)
-- [The Open Community Runtime: Specification for Asynchronous Many Task systems](https://wiki.modelado.org/Open_Community_Runtime)
-- [Transwarp: A Header-only C++ Library for Task Concurrency](https://github.com/bloomen/transwarp)
-- [Tuplex: Blazing fast python data science](https://tuplex.cs.brown.edu/)
-- [UCX: optimized production proven-communication framework](https://github.com/openucx/ucx#using-ucx)
+- [alpaka](https://github.com/alpaka-group/alpaka) - The alpaka library is a header-only C++17 abstraction library for accelerator development
+- [async-rdma](https://github.com/datenlord/async-rdma) - A framework for writing RDMA applications with high-level abstraction and asynchronous APIs
+- [CAF](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
+- [Chapel](https://chapel-lang.org/) - A Programming Language for Productive Parallel Computing on Large-scale Systems
+- [Charm++](http://charm.cs.illinois.edu/research/charm) - Parallel Programming with Migratable Objects
+- [Cilk Plus](https://www.cilkplus.org/) - C/C++ Extension for Data and Task Parallelism
+- [Codon](https://github.com/exaloop/codon) - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead
+- [CUDA](https://developer.nvidia.com/cuda-toolkit) - High performance NVIDIA GPU acceleration
+- [dask](https://dask.org) - Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - An easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference
+- [DeterminedAI](https://www.determined.ai/) - Distributed deep learning
+- [FastFlow](https://github.com/fastflow/fastflow) - High-performance Parallel Patterns in C++
+- [Galois](https://github.com/IntelligentSoftwareSystems/Galois) - A C++ Library to Ease Parallel Programming with Irregular Parallelism
+- [Halide](https://halide-lang.org/index.html#gettingstarted) - A language for fast, portable computation on images and tensors
+- [Heteroflow](https://github.com/Heteroflow/Heteroflow) - Concurrent CPU-GPU Task Programming using Modern C++
+- [highway](https://github.com/google/highway) - Performance portable SIMD intrinsics
+- [HIP](https://github.com/ROCm-Developer-Tools/HIP) - HIP is a C++ Runtime API and Kernel Language for AMD/Nvidia GPU
+- [HPC-X](https://developer.nvidia.com/networking/hpc-x) - Nvidia implementation of MPI
+- [HPX](https://github.com/STEllAR-GROUP/hpx) - A C++ Standard Library for Concurrency and Parallelism
+- [Horovod](https://github.com/horovod/horovod) - Distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
+- [ISPC](https://ispc.github.io/) - An open-source compiler for high-performance SIMD programming on the CPU and GPU
+- [Intel ISPC](https://github.com/ispc/ispc) - SPMD compiler
+- [Intel TBB](https://www.threadingbuildingblocks.org/) - Threading Building Blocks
+- [joblib](https://joblib.readthedocs.io/en/latest/why.html) - Data-flow programming for performance (python)
+- [Kompute](https://github.com/KomputeProject/kompute) - The general purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends)
+- [Kokkos](https://github.com/kokkos/kokkos) - A C++ Programming Model for Writing Performance Portable Applications on HPC platforms
+- [Kubeflow MPI Operator](https://github.com/kubeflow/mpi-operator) - MPI Operator for Kubeflow
+- [Legate](https://github.com/nv-legate/legate.numpy) - Nvidia replacement for numpy based on Legion
+- [Legion](https://github.com/StanfordLegion/legion) - Distributed heterogeneous programming library
+- [MAGMA](https://developer.nvidia.com/magma) - Next generation linear algebra (LA) GPU accelerated libraries
+- [Merlin](https://merlin.readthedocs.io/en/latest/) - A distributed task queuing system, designed to allow complex HPC workflows to scale to large numbers of simulations
+- [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi) - Microsoft's implementation of MPI
+- [MOGSLib](https://github.com/ECLScheduling/MOGSLib) - User defined schedulers
+- [mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy mpi for jax arrays
+- [mpi4py](https://mpi4py.readthedocs.io/en/stable/) - Python bindings for MPI
+- [MPI](https://www.open-mpi.org/) - OpenMPI implementation of the Message passing interface
+- [MPI](https://www.mpich.org/) - MPICH implementation of the Message passing interface
+- [MPI Standardization Forum](https://www.mpi-forum.org/) - Forum for MPI standardization
+- [MPAVICH](https://mvapich.cse.ohio-state.edu/) - Implementation of MPI
+- [NCCL](https://developer.nvidia.com/nccl) - The NVIDIA Collective Communication Library for multi-GPU and multi-node communication
+- [cuNumeric](https://developer.nvidia.com/cunumeric) - GPU drop-in for numpy
+- [stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/) - GPU accelerated C++ from NVIDIA
+- [numba](https://numba.pydata.org/) - A JIT compiler that translates a subset of Python into fast machine code
+- [oneAPI](https://www.oneapi.io/) - A unified, multiarchitecture, multi-vendor programming model
+- [OpenACC](https://www.openacc.org/) - "OpenMP for GPUs"
+- [OpenCilk](https://www.opencilk.org/) - MIT continuation of Cilk Plus
+- [OpenMP](https://www.openmp.org/) - Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran
+- [PVM](https://www.csm.ornl.gov/pvm/) - Parallel Virtual Machine: A predecessor to MPI for distributed computing
+- [PMIX](https://pmix.github.io/standard) - Standard for process management
+- [Pollux](https://github.com/polluxio/pollux-payload) - Message Passing Cloud orchestrator
+- [Pyfi](https://github.com/radiantone/pyfi) - Distributed flow and computation system
+- [RAJA](https://github.com/LLNL/RAJA) - Architecture and programming model portability for HPC applications
+- [RaftLib](https://github.com/RaftLib/RaftLib) - A C++ Library for Enabling Stream and Dataflow Parallel Computation
+- [ray](https://www.ray.io/) - Scale AI and Python workloads from reinforcement learning to deep learning
+- [ROCM](https://rocmdocs.com/en/latest/) - First open-source software development platform for HPC/Hyperscale-class GPU computing
+- [RS MPI](https://rsmpi.github.io/rsmpi/mpi/index.html) - Rust bindings for MPI
+- [Scalix](https://github.com/NAGAGroup/Scalix) - Data parallel computing framework
+- [Simgrid](https://simgrid.org/) - Simulate cluster/HPC environments
+- [SkelCL](https://skelcl.github.io/) - A Skeleton Library for Heterogeneous Systems
+- [STAPL](https://parasol.tamu.edu/stapl/) - Standard Template Adaptive Parallel Programming Library in C++
+- [STLab](http://stlab.cc/libraries/concurrency/) - High-level Constructs for Implementing Multicore Algorithms with Minimized Contention
+- [SYCL](https://www.khronos.org/sycl/) - C++ Abstraction layer for heterogeneous devices
+- [Taichi](https://github.com/taichi-dev/taichi) - Parallel programming language for high-performance numerical computations in Python
+- [Taskflow](https://github.com/taskflow/taskflow) - A Modern C++ Parallel Task Programming Library
+- [The Open Community Runtime](https://wiki.modelado.org/Open_Community_Runtime) - Specification for Asynchronous Many Task systems
+- [Transwarp](https://github.com/bloomen/transwarp) - A Header-only C++ Library for Task Concurrency
+- [Tuplex](https://tuplex.cs.brown.edu/) - Blazing fast python data science
+- [UCX](https://github.com/openucx/ucx#using-ucx) - Optimized production proven-communication framework
+
 
 #### Cluster Hardware Discovery Tools
  - [Likwid - provides all information about the supercomputer/cluster](https://github.com/RRZE-HPC/likwid)
