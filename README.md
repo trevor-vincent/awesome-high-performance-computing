@@ -418,6 +418,7 @@ A curated list of awesome high performance computing resources.
 - [Power and Performance_ Software Analysis and Optimization](https://www.amazon.ca/Power-Performance-Software-Analysis-Optimization-ebook/dp/B00WZ1AX6S/ref=sr_1_1?crid=22HMPRFCYAXC0&keywords=Power+and+Performance_+Software+Analysis+and+Optimization&qid=1695111518&s=books&sprefix=power+and+performance_+software+analysis+and+optimization%2Cstripbooks%2C85&sr=1-1)
   
 #### Courses
+- [HPC Carpentry](https://www.hpc-carpentry.org/)
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
 - [Udacity High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
