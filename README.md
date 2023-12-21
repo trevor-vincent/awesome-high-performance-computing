@@ -541,6 +541,7 @@ A curated list of awesome high performance computing resources.
 - [HPCPodcast](https://insidehpc.com/category/resources/hpc-podcast/)
   
 #### Youtube Videos/Courses/Channels
+- [Argonne lectures on Extreme Scale Computing 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw)
