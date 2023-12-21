@@ -416,6 +416,7 @@ A curated list of awesome high performance computing resources.
 - [Programming Massively Parallel Processors 4th Edition 2023](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=18EW0LVO2VFMC&keywords=Programming+Massively+Parallel+Processors+4th+Edition+2023&qid=1695110729&s=books&sprefix=programming+massively+parallel+processors+4th+edition+2023%2Cstripbooks%2C88&sr=1-1)
 - [Software Optimization Cookbook](https://www.amazon.ca/Software-Optimization-Cookbook-Performance-Platforms/dp/0976483211)
 - [Power and Performance_ Software Analysis and Optimization](https://www.amazon.ca/Power-Performance-Software-Analysis-Optimization-ebook/dp/B00WZ1AX6S/ref=sr_1_1?crid=22HMPRFCYAXC0&keywords=Power+and+Performance_+Software+Analysis+and+Optimization&qid=1695111518&s=books&sprefix=power+and+performance_+software+analysis+and+optimization%2Cstripbooks%2C85&sr=1-1)
+- [Gropp books on MPI](https://wgropp.cs.illinois.edu/usingmpiweb/)
   
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
