@@ -152,7 +152,8 @@ A curated list of awesome high performance computing resources.
 - [OpenOnDemand - Access your organization’s supercomputers through the web to compute from anywhere, on any device.](https://openondemand.org/)
 - [XDMoD - open source tool to facilitate the management of high performance computing resources](https://supremm.xdmod.org/10.0/supremm-overview.html)
 - [Globus Connect - Fast transfer of data/files between supercomputers](https://www.globus.org/globus-connect)
-- [NetApp - Intelligent data infrastructure for any workload)[www.netapp.com]
+- [NetApp - Intelligent data infrastructure for any workload](www.netapp.com)
+- [Starfish - Unstructured data management and metadata for files and objects](https://starfishstorage.com/)
   
 #### HPC-specific Operating Systems
 - [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
