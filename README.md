@@ -751,6 +751,7 @@ A curated list of awesome high performance computing resources.
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
    - [Awesome HPC](https://github.com/dstdev/awesome-hpc/)
+   - [Sig HPC Education](https://sighpceducation.acm.org/resources/hpcresources/)
      
 ## Acknowledgements
 
