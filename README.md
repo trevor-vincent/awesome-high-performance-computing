@@ -346,7 +346,7 @@ A curated list of awesome high performance computing resources.
 
 - [Intel Cluster Ready](https://en.wikipedia.org/wiki/Intel_Cluster_Ready)
 
-### Student Opportunities
+### Student Opportunities / Workshops
 
 - [Supercomputing Conference Student Opportunities](https://sc21.supercomputing.org/program/studentssc/)
 - [SCC Student cluster competition](https://www.studentclustercompetition.us/)
