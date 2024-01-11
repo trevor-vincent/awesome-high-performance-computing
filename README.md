@@ -455,6 +455,7 @@ A curated list of awesome high performance computing resources.
 - [Performance Engineering off Software Systems (MIT-OCW)](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
 - [Introduction to Parallel Computing (CMSC 498X/818X)](https://www.cs.umd.edu/class/fall2020/cmsc498x/lectures.shtml)
 - [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
+- [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja)
   
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
