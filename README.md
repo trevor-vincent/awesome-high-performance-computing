@@ -418,6 +418,7 @@ A curated list of awesome high performance computing resources.
 - [Software Optimization Cookbook](https://www.amazon.ca/Software-Optimization-Cookbook-Performance-Platforms/dp/0976483211)
 - [Power and Performance_ Software Analysis and Optimization](https://www.amazon.ca/Power-Performance-Software-Analysis-Optimization-ebook/dp/B00WZ1AX6S/ref=sr_1_1?crid=22HMPRFCYAXC0&keywords=Power+and+Performance_+Software+Analysis+and+Optimization&qid=1695111518&s=books&sprefix=power+and+performance_+software+analysis+and+optimization%2Cstripbooks%2C85&sr=1-1)
 - [Gropp books on MPI](https://wgropp.cs.illinois.edu/usingmpiweb/)
+- [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
   
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
