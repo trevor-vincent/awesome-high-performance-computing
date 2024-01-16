@@ -231,6 +231,7 @@ A curated list of awesome high performance computing resources.
 - [Hotspot - linux perf GUI](https://github.com/KDAB/hotspot/)
 - [speedscope - flamegraph profiler for many languages](https://github.com/jlfwong/speedscope)
 - [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
+- [Hyperfine - command line benchmarking](git@github.com:sharkdp/hyperfine.git)
     
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
