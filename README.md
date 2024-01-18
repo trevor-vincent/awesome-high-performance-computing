@@ -371,6 +371,7 @@ A curated list of awesome high performance computing resources.
 - [Disk Arrays](https://en.wikipedia.org/wiki/Disk_array)
 - [RAID](https://en.wikipedia.org/wiki/RAID)
 - [Cray](https://en.wikipedia.org/wiki/Cray)
+- [Digital Signal Processors](https://en.wikipedia.org/wiki/Digital_signal_processor)
 
 ## People
 
