@@ -219,7 +219,7 @@ A curated list of awesome high performance computing resources.
 - [Flamegraphs](https://www.brendangregg.com/flamegraphs.html)
 - [fio](https://linux.die.net/man/1/fio)
 - [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS)
-- [Hotspot - Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
+- [Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
 - [mixbench - benchmarks for CPUs and GPUs](https://github.com/ekondis/mixbench)
 - [pmu-tools (toplev) performance tools for modern Intel CPUs](https://github.com/andikleen/pmu-tools)
 - [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html)
@@ -228,10 +228,12 @@ A curated list of awesome high performance computing resources.
 - [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
 - [core-to-core-latency](https://github.com/nviennot/core-to-core-latency)
-- [Hotspot - linux perf GUI](https://github.com/KDAB/hotspot/)
 - [speedscope - flamegraph profiler for many languages](https://github.com/jlfwong/speedscope)
 - [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
 - [Hyperfine - command line benchmarking](https://github.com/sharkdp/hyperfine)
+- [Openfoam HPC benchmark](https://develop.openfoam.com/committees/hpc/-/wikis/home)
+- [OSU microbenchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
+- [fio flexible I/O tester](https://fio.readthedocs.io/)
     
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
