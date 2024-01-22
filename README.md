@@ -110,13 +110,13 @@ A curated list of awesome high performance computing resources.
 - [UCX](https://github.com/openucx/ucx#using-ucx) - Optimized production proven-communication framework
 
 #### Cluster Hardware Discovery Tools
-- [Likwid](https://github.com/RRZE-HPC/likwid) - Provides all information about the supercomputer/cluster.
-- [LIKWID.jl](https://juliaperf.github.io/LIKWID.jl/dev/) - Julia wrapper for LIKWID.
 - [cpuid](https://en.wikipedia.org/wiki/CPUID) - A software instruction available on Intel, AMD, and other processors that can be used to determine processor type and features.
 - [cpuid instruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf) - A detailed note on the CPUID instruction used for processor identification.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - A simple yet fancy CPU architecture fetching tool.
 - [gpufetch](https://github.com/Dr-Noob/gpufetch) - A tool similar to cpufetch, but for fetching GPU architecture.
 - [intel cpuinfo](https://www.intel.com/content/www/us/en/develop/documentation/mpi-developer-reference-linux/top/command-reference/cpuinfo.html) - Intel tool providing information about the characteristics of Intel CPUs.
+- [Likwid](https://github.com/RRZE-HPC/likwid) - Provides all information about the supercomputer/cluster.
+- [LIKWID.jl](https://juliaperf.github.io/LIKWID.jl/dev/) - Julia wrapper for LIKWID.
 - [openmpi hwloc](https://www.open-mpi.org/projects/hwloc/) - Portable Hardware Locality (hwloc) software project.
 - [PRK - Parallel Research Kernels](https://github.com/ParRes/Kernels) - A collection of kernels for parallel programming research.
 
