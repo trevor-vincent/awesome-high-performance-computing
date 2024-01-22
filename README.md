@@ -131,6 +131,7 @@ A curated list of awesome high performance computing resources.
 - [SGE](http://star.mit.edu/cluster/docs/0.93.3/guides/sge.html)
 - [Portable Batch System & OpenPBS](https://www.openpbs.org/)
 - [Lustre Parallel File System](https://www.lustre.org/)
+- [Ceph - open source distributed storage system](https://ceph.io/en/)
 - [Intel DAOS](https://daos.io)
 - [GPFS](https://en.wikipedia.org/wiki/GPFS)
 - [Spack package manager for HPC/supercomputers](https://spack.io/)
