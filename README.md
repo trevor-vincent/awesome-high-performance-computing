@@ -121,41 +121,39 @@ A curated list of awesome high performance computing resources.
 - [PRK - Parallel Research Kernels](https://github.com/ParRes/Kernels) - A collection of kernels for parallel programming research.
 
 #### Cluster Management/Tools/Schedulers/Stacks
-
-- [Flux framework](https://flux-framework.org/)
-- [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager)
-- [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/)
-- [RADIUSS - Rapid Application Development via an Institutional Universal Software Stack](https://computing.llnl.gov/projects/radiuss)
-- [OpenHPC](https://openhpc.community/)
-- [Slurm](https://slurm.schedmd.com/overview.html)
-- [SGE](http://star.mit.edu/cluster/docs/0.93.3/guides/sge.html)
-- [Portable Batch System & OpenPBS](https://www.openpbs.org/)
-- [Lustre Parallel File System](https://www.lustre.org/)
-- [Ceph - open source distributed storage system](https://ceph.io/en/)
-- [Intel DAOS](https://daos.io)
-- [GPFS](https://en.wikipedia.org/wiki/GPFS)
-- [Spack package manager for HPC/supercomputers](https://spack.io/)
-- [Guix package manager for HPC/supercomputers](https://hpc.guix.info/)
-- [Easybuild package manager for HPC/supercomputers](https://docs.easybuild.io/en/latest/)
-- [Lmod](https://lmod.readthedocs.io/en/latest/)
-- [Ruse](https://github.com/JanneM/Ruse)
-- [xCat](https://xcat.org/)
-- [Warewulf](https://warewulf.lbl.gov/)
-- [Bluebanquise](https://github.com/bluebanquise/bluebanquise)
-- [OpenXdMod](https://open.xdmod.org/7.5/index.html)
-- [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=lsf-batch-jobs-tasks)
-- [BeeGFS](http://beegfs.io/docs/whitepapers/Introduction_to_BeeGFS_by_ThinkParQ.pdf)
-- [DeepOps - Nvidia GPU infrastructure and automation tools](https://github.com/NVIDIA/deepops)
-- [fpsync - fast parallel data transfer using fpart and rsync](http://www.fpart.org/fpsync/)
-- [moosefs - distributed file system](https://moosefs.com/)
-- [rocks - open-source Linux cluster distribution](http://www.rocksclusters.org/)
-- [sstack - a tool to install multiple software stacks, such as Spack, EasyBuild, and Conda](https://gitlab.com/nmsu_hpc/sstack)
-- [DeepOps - Infrastructure automation tools for Kubernetes and Slurm clusters with NVIDIA GPUs](https://github.com/NVIDIA/deepops)
-- [OpenOnDemand - Access your organization’s supercomputers through the web to compute from anywhere, on any device.](https://openondemand.org/)
-- [XDMoD - open source tool to facilitate the management of high performance computing resources](https://supremm.xdmod.org/10.0/supremm-overview.html)
-- [Globus Connect - Fast transfer of data/files between supercomputers](https://www.globus.org/globus-connect)
-- [NetApp - Intelligent data infrastructure for any workload](www.netapp.com)
-- [Starfish - Unstructured data management and metadata for files and objects](https://starfishstorage.com/)
+- [BeeGFS](http://beegfs.io/docs/whitepapers/Introduction_to_BeeGFS_by_ThinkParQ.pdf) - A parallel file system designed for performance-critical environments.
+- [Bluebanquise](https://github.com/bluebanquise/bluebanquise) - An open-source cluster management tool.
+- [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager) - Software for deploying and managing HPC and AI server clusters.
+- [Ceph](https://ceph.io/en/) - An open-source distributed storage system.
+- [DeepOps](https://github.com/NVIDIA/deepops) - Nvidia's GPU infrastructure and automation tools for Kubernetes and Slurm clusters.
+- [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/) - A collection of open-source software packages for HPC environments.
+- [Easybuild](https://docs.easybuild.io/en/latest/) - A package manager for HPC/supercomputers.
+- [Flux framework](https://flux-framework.org/) - A framework for high-performance computing clusters.
+- [fpsync](http://www.fpart.org/fpsync/) - A tool for fast parallel data transfer using fpart and rsync.
+- [GPFS](https://en.wikipedia.org/wiki/GPFS) - A high-performance parallel file system developed by IBM.
+- [Guix](https://hpc.guix.info/) - A package manager for HPC/supercomputers.
+- [Intel DAOS](https://daos.io) - A software-defined scale-out object store for HPC applications.
+- [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=lsf-batch-jobs-tasks) - A batch system for HPC and distributed computing environments.
+- [Lmod](https://lmod.readthedocs.io/en/latest/) - A Lua-based module system for software environment management on HPC systems.
+- [Lustre Parallel File System](https://www.lustre.org/) - A high-performance distributed filesystem for large-scale cluster computing.
+- [moosefs](https://moosefs.com/) - A fault-tolerant, highly available, distributed file system.
+- [NetApp](www.netapp.com) - Intelligent data infrastructure for various workloads.
+- [OpenHPC](https://openhpc.community/) - A community-led set of HPC components.
+- [OpenOnDemand](https://openondemand.org/) - A web portal for accessing supercomputing resources.
+- [OpenPBS](https://www.openpbs.org/) - A software for workload management and job scheduling.
+- [OpenXdMod](https://open.xdmod.org/7.5/index.html) - A tool for managing high-performance computing resources.
+- [RADIUSS](https://computing.llnl.gov/projects/radiuss) - Rapid Application Development via an Institutional Universal Software Stack.
+- [rocks](http://www.rocksclusters.org/) - An open-source Linux cluster distribution.
+- [Ruse](https://github.com/JanneM/Ruse) - A tool for managing software environments in HPC clusters.
+- [SGE](http://star.mit.edu/cluster/docs/0.93.3/guides/sge.html) - A resource management software for large clusters of computers.
+- [Slurm](https://slurm.schedmd.com/overview.html) - A cluster management and job scheduling system for Linux clusters.
+- [Spack](https://spack.io/) - A package manager for HPC/supercomputers.
+- [sstack](https://gitlab.com/nmsu_hpc/sstack) - A tool to install multiple software stacks such as Spack, EasyBuild, and Conda.
+- [Starfish](https://starfishstorage.com/) - Unstructured data management and metadata solution for files and objects.
+- [Warewulf](https://warewulf.lbl.gov/) - An operating system provisioning system and cluster management tool.
+- [xCat](https://xcat.org/) - A distributed computing management and provisioning tool.
+- [XDMoD](https://supremm.xdmod.org/10.0/supremm-overview.html) - An open-source tool for managing high-performance computing resources.
+- [Globus Connect](https://www.globus.org/globus-connect) - A fast data transfer tool between supercomputers.
   
 #### HPC-specific Operating Systems
 - [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
