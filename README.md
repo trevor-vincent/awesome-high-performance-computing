@@ -633,6 +633,7 @@ A curated list of awesome high performance computing resources.
  - [Brendan Gregg Performance Blog](https://www.brendangregg.com/blog/index.html)
  - [Performance engineering blog](https://pramodkumbhar.com)
  - [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/)
+ - [Servers@Home](https://servers.hydrology.cc/blog/)
    
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
