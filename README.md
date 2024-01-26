@@ -234,7 +234,8 @@ A curated list of awesome high performance computing resources.
 - [OSU microbenchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [fio flexible I/O tester](https://fio.readthedocs.io/)
 - [vftrace](https://github.com/SX-Aurora/Vftrace)
-  
+- [tinymembench](https://github.com/ssvb/tinymembench)
+    
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
  - [paraview](https://yt-project.org/)
