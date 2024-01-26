@@ -233,7 +233,8 @@ A curated list of awesome high performance computing resources.
 - [Openfoam HPC benchmark](https://develop.openfoam.com/committees/hpc/-/wikis/home)
 - [OSU microbenchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
 - [fio flexible I/O tester](https://fio.readthedocs.io/)
-    
+- [vftrace](https://github.com/SX-Aurora/Vftrace)
+  
 #### IO/Visualization Tools for HPC
  - [the yt project](https://yt-project.org/)
  - [paraview](https://yt-project.org/)
