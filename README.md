@@ -681,6 +681,9 @@ A curated list of awesome high performance computing resources.
   - [International Data Corporation](https://www.idc.com/)
   - [List of Federally funded research and development centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers)
 
+#### Interesting r/HPC posts
+  - [finding a supercomputer to use for research](https://www.reddit.com/r/HPC/comments/19e58z7/how_do_i_go_about_finding_a_supercomputer_to_use/)
+
 #### Misc. Wikis
 - [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 - [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
