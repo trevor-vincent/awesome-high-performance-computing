@@ -717,6 +717,7 @@ A curated list of awesome high performance computing resources.
 - [Let's write a superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 - [Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
 - [The State of Fortran (arxiv paper 2022)](https://arxiv.org/abs/2203.15110)
+- [50 years later, is two phase locking still the best](https://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
   
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
