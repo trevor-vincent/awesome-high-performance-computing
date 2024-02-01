@@ -513,6 +513,7 @@ A curated list of awesome high performance computing resources.
 - [32 OpenMP Traps For C++ Developers](https://pvs-studio.com/en/blog/posts/cpp/a0054/#ID0EWEAC)
   
 #### Review Papers/Articles
+- [Interactive and Urgent HPC Challenges (2024)](https://arxiv.org/pdf/2401.14550.pdf)
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
 - [The Landscape of Parallel Computing Research: A View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf)
 - [Extreme Heterogeneity 2018: Productive Computational Science in the Era of Extreme Heterogeneity](references/2018-Extreme-Heterogeneity-DoE.pdf)
