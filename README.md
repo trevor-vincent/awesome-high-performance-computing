@@ -644,7 +644,10 @@ A curated list of awesome high performance computing resources.
  - [Performance engineering blog](https://pramodkumbhar.com)
  - [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/)
  - [Servers@Home](https://servers.hydrology.cc/blog/)
-   
+ - [Dr.Bandwith Blog](https://sites.utexas.edu/jdm4372/2010/10/01/welcome-to-dr-bandwidths-blog/)
+ - [Johnny's Software Lab](https://johnnysswlab.com/)
+ - [Daniel Lemire Blog](https://lemire.me/blog/)
+     
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
  - [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
