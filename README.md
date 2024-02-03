@@ -160,9 +160,9 @@ A curated list of awesome high performance computing resources.
 - [Globus Connect](https://www.globus.org/globus-connect) - A fast data transfer tool between supercomputers.
   
 #### HPC-specific Operating Systems
-- [McKernel](https://github.com/RIKEN-SysSoft/mckernel)
-- [mOS](http://cs.iit.edu/~khale/docs/mos.pdf)
-- [Kitten](https://www.sandia.gov/app/uploads/sites/210/2022/11/pedretti_lanl11.pdf)
+- [Kitten](https://www.sandia.gov/app/uploads/sites/210/2022/11/pedretti_lanl11.pdf) - A lightweight kernel designed for high-performance computing. It focuses on providing low noise and predictable performance for HPC applications.
+- [McKernel](https://github.com/RIKEN-SysSoft/mckernel) - A hybrid kernel that combines Linux and a lightweight kernel designed to provide high performance for HPC applications.
+- [mOS](http://cs.iit.edu/~khale/docs/mos.pdf) - A specialized operating system for high-performance computing, designed to support large-scale, manycore processors.
 
 #### Development/Workflow/Monitoring Tools for HPC
 
