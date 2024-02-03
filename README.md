@@ -166,30 +166,31 @@ A curated list of awesome high performance computing resources.
 
 #### Development/Workflow/Monitoring Tools for HPC
 
-- [Apptainer (formerly Singularity) - "the docker of HPC"](https://singularity.lbl.gov/)
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
-- [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster)
-- [Vaex - high performance dataframes in python](https://github.com/vaexio/vaex)
-- [HTCondor](https://research.cs.wisc.edu/htcondor/)
-- [grpc - high performance modern remote procedure call framework](https://grpc.io/)
-- [Charliecloud](https://hpc.github.io/charliecloud/)
-- [Jacamar-ci](https://gitlab.com/ecp-ci/jacamar-ci/-/blob/develop/README.md)
-- [Prefect](https://www.prefect.io/)
-- [Apache Airflow](https://airflow.apache.org/)
-- [HPC Rocket - submit slurm jobs in CI](https://github.com/SvenMarcus/hpc-rocket)
-- [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui)
-- [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision)
-- [genv - GPU Environment Management](https://github.com/run-ai/genv)
-- [snakemake - a framework for reproducible data analysis](https://snakemake.readthedocs.io/en/stable/)
-- [ruptime - batch job monitoring](https://github.com/alexmyczko/ruptime)
-- [remora - batch job monitoring](https://github.com/TACC/remora)
-- [perun - energy monitor](https://github.com/Helmholtz-AI-Energy/perun)
-- [Prometheus - Monitoring metrics](https://prometheus.io/)
-- [Grafana - Monitoring metrics](https://github.com/grafana/grafana)
-- [redun - yet another redundant workflow engine](https://github.com/insitro/redun)
-- [arbiter2 - Arbiter2 monitors and protects interactive nodes with cgroups.](https://github.com/CHPC-UofU/arbiter2)
-- [nextflow - Data-driven computational pipelines](https://www.nextflow.io/)
+- [Apache Airflow](https://airflow.apache.org/) - A platform to programmatically author, schedule, and monitor workflows.
+- [Apptainer (formerly Singularity)](https://singularity.lbl.gov/) - Container platform designed for scientific and high-performance computing (HPC) environments.
+- [arbiter2](https://github.com/CHPC-UofU/arbiter2) - Monitors and protects interactive nodes with cgroups.
+- [Charliecloud](https://hpc.github.io/charliecloud/) - Lightweight container solution for high-performance computing (HPC).
+- [Docker](https://www.docker.com/) - A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+- [genv](https://github.com/run-ai/genv) - GPU Environment Management for managing and scheduling GPU resources.
+- [Grafana](https://github.com/grafana/grafana) - Open-source platform for monitoring and observability, visualizing metrics.
+- [grpc](https://grpc.io/) - A high-performance, open-source universal RPC framework.
+- [HPC Rocket](https://github.com/SvenMarcus/hpc-rocket) - Allows submitting Slurm jobs in Continuous Integration (CI) pipelines.
+- [HTCondor](https://research.cs.wisc.edu/htcondor/) - An open-source high-throughput computing software framework.
+- [Jacamar-ci](https://gitlab.com/ecp-ci/jacamar-ci/-/blob/develop/README.md) - CI/CD tool designed for HPC and scientific computing workflows.
+- [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications.
+- [nextflow](https://www.nextflow.io/) - A workflow framework to deploy data-driven computational pipelines.
+- [perun](https://github.com/Helmholtz-AI-Energy/perun) - Energy monitor for HPC systems, focusing on performance and energy efficiency.
+- [Prefect](https://www.prefect.io/) - A workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
+- [Prometheus](https://prometheus.io/) - An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+- [redun](https://github.com/insitro/redun) - Workflow engine that emphasizes simplicity, reliability, and scalability.
+- [remora](https://github.com/TACC/remora) - Tool for monitoring and reporting the performance of batch jobs on HPC systems.
+- [ruptime](https://github.com/alexmyczko/ruptime) - A utility for monitoring the status of computational jobs and systems.
+- [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision) - A dashboard for monitoring and managing Slurm jobs.
+- [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster implemented using Docker containers, for development and testing.
+- [snakemake](https://snakemake.readthedocs.io/en/stable/) - A workflow management system that reduces the complexity of creating reproducible and scalable data analyses.
+- [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui) - A terminal-based UI for managing and monitoring Slurm clusters.
+- [Vaex](https://github.com/vaexio/vaex) - A Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
+
   
 #### Debugging Tools for HPC
 
