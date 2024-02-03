@@ -1,9 +1,13 @@
 <p align="center">
 <img src="https://www.montana.edu/uit/rci/assets/hpc.png" width="600">
 </p>
-
 <p align="center">
 A curated list of awesome high performance computing resources. 
+</p>
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" />
+  </a>
 </p>
 
 ## Table of Contents
