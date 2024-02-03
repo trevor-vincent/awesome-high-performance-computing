@@ -719,6 +719,7 @@ A curated list of awesome high performance computing resources.
 - [Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
 - [The State of Fortran (arxiv paper 2022)](https://arxiv.org/abs/2203.15110)
 - [50 years later, is two phase locking still the best](https://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
+- [Estimating your memory bandwith](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
   
 #### Misc. Repos
   - [Build a Beowulf cluster](https://github.com/darshanmandge/Cluster)
