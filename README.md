@@ -557,7 +557,7 @@ A curated list of awesome high performance computing resources.
 - [Slurm podcast](https://www.rce-cast.com/index.php/Podcast/rce-10-slurm.html)
 - [HPCPodcast](https://insidehpc.com/category/resources/hpc-podcast/)
   
-#### Youtube Videos/Courses/Channels
+#### Video Presentations/Courses/Channels
 - [Argonne lectures on Extreme Scale Computing 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
 - [Argonne supercomputer tour](https://www.youtube.com/watch?v=UT9HCgp2X3A)
 - [Containers in HPC - what they fix and what they break ](https://youtube.com/watch?v=WQTrA4-9ZXk&feature=share) 
@@ -584,7 +584,8 @@ A curated list of awesome high performance computing resources.
 - [New Silicon for Supercomputers: A Guide for Software Engineers](https://www.youtube.com/watch?v=w3xNLj6nRgs&t=197s)
 - [TechTechPotato Channel](TechTechPotato)
 - [How to write the perfect hash table ](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
-
+- [FosDem 2024 HPC Big Data Conference videos](https://fosdem.org/2024/schedule/track/hpc-big-data-data-science/)
+  
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
 - [Tuning Slurm Scheduling for Optimal Responsiveness and Utilization](https://slurm.schedmd.com/SUG14/sched_tutorial.pdf)
@@ -660,6 +661,7 @@ A curated list of awesome high performance computing resources.
  - [IEEE International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/)
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
  - [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/cfp.htm)
+ - [FosDem](https://fosdem.org/)
 
 #### Communities/Chat Groups
   - [HPC Social Discord server](https://hpc.social/projects/chat/)
