@@ -194,12 +194,12 @@ A curated list of awesome high performance computing resources.
   
 #### Debugging Tools for HPC
 
-- [Summary of C/C++ debugging tools](http://pramodkumbhar.com/2018/06/summary-of-debugging-tools/)
-- [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt)
-- [totalview](https://totalview.io/)
-- [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/)
-- [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools)
-- [seer modern gui for gdb](https://github.com/epasveer/seer)
+- [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt) - A powerful debugger designed for developers to solve complex problems on multi-threaded and multi-process environments in HPC.
+- [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/) - A tool for detecting and reporting issues in MPI (Message Passing Interface) applications.
+- [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools) - A collection of tools for debugging Python applications, including pdb and other utilities.
+- [seer modern gui for gdb](https://github.com/epasveer/seer) - A graphical user interface for GDB, aiming to improve the debugging experience with modern features and visuals.
+- [Summary of C/C++ debugging tools](http://pramodkumbhar.com/2018/06/summary-of-debugging-tools/) - An overview of various debugging tools available for C/C++ applications, focusing on HPC environments.
+- [totalview](https://totalview.io/) - A comprehensive source code analysis and debugging tool designed for complex software running on HPC systems, supporting a wide range of languages and architectures.
 
 
 #### Performance/Benchmark Tools for HPC
