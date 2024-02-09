@@ -596,7 +596,7 @@ A curated list of awesome high performance computing resources.
 - [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
 
   
-#### Building Clusters
+#### Building Clusters/Virtual Clusters
 - [Resources for learning about HPC networks and storage r/HPC](https://www.reddit.com/r/HPC/comments/17o0q5d/resources_for_learning_about_hpc_networks_and/)
 - [Slurm for dummies guide](https://github.com/SergioMEV/slurm-for-dummies)
 - [Build a cluster under 50k](https://www.reddit.com/r/HPC/comments/srssrt/build_a_minicluster_under_50000/)
@@ -613,6 +613,7 @@ A curated list of awesome high performance computing resources.
 - [Build a virtual cluster with PelicanHPC](https://sourceforge.net/projects/pelicanhpc/)
 - [Building a High-performance Computing Cluster Using FreeBSD](https://people.freebsd.org/~brooks/papers/bsdcon2003/fbsdcluster/)
 - [Supermicro GPU racks](https://www.supermicro.com/en/products/gpu)
+- [VirtualOrfeo - Virtual HPC Cluster](https://gitlab.com/area7/datacenter/codes/virtualorfeo)
   
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
