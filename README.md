@@ -326,6 +326,8 @@ A curated list of awesome high performance computing resources.
 
 ### Cloud
 
+- [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
+
 #### Vendors
 
 - [AWS HPC](https://aws.amazon.com/hpc/)
@@ -777,7 +779,8 @@ A curated list of awesome high performance computing resources.
 #### Games
   - [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io)
 
-#### Other Curated Lists
+#### Other Curated Lists 
+   - [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
