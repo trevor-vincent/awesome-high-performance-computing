@@ -242,13 +242,13 @@ A curated list of awesome high performance computing resources.
 - [tinymembench](https://github.com/ssvb/tinymembench)
     
 #### IO/Visualization Tools for HPC
- - [the yt project](https://yt-project.org/)
- - [paraview](https://yt-project.org/)
- - [visit](https://wci.llnl.gov/simulation/computer-codes/visit)
- - [vedo](https://vedo.embl.es/)
- - [Amira](https://www.thermofisher.com/ca/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html)
- - [Scientific Visualization Wiki](https://en.wikipedia.org/wiki/Scientific_visualization)
- - [ADIOS2](https://github.com/ornladios/ADIOS2)
+- [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
+- [Amira](https://www.thermofisher.com/ca/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html) - A powerful, multifaceted 3D software platform for visualizing, manipulating, and understanding Life Science and bio-medical data coming from all types of sources.
+- [paraview](https://www.paraview.org/) - An open-source, multi-platform data analysis and visualization application.
+- [Scientific Visualization Wiki](https://en.wikipedia.org/wiki/Scientific_visualization) - A comprehensive guide to the field of scientific visualization, detailing techniques, tools, and applications.
+- [the yt project](https://yt-project.org/) - An open-source, Python-based package for analyzing and visualizing volumetric data.
+- [vedo](https://vedo.embl.es/) - A lightweight and powerful python module for scientific analysis and visualization of 3D objects and point clouds based on VTK.
+- [visit](https://wci.llnl.gov/simulation/computer-codes/visit) - An Open Source, interactive, scalable, visualization, animation and analysis tool.
 
 #### General Purpose Scientific Computing Libraries for HPC
  - [petsc](https://petsc.org/release/)
