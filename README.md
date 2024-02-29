@@ -132,7 +132,7 @@ A curated list of awesome high performance computing resources.
 - [DeepOps](https://github.com/NVIDIA/deepops) - Nvidia's GPU infrastructure and automation tools for Kubernetes and Slurm clusters.
 - [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/) - A collection of open-source software packages for HPC environments.
 - [Easybuild](https://docs.easybuild.io/en/latest/) - A package manager for HPC/supercomputers.
-- [EESSI](https://www.eessi.io) A shared stack of scientific software installations.
+- [EESSI](https://www.eessi.io) - A shared stack of scientific software installations.
 - [Flux framework](https://flux-framework.org/) - A framework for high-performance computing clusters.
 - [fpsync](http://www.fpart.org/fpsync/) - A tool for fast parallel data transfer using fpart and rsync.
 - [GPFS](https://en.wikipedia.org/wiki/GPFS) - A high-performance parallel file system developed by IBM.
