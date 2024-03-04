@@ -112,6 +112,7 @@ A curated list of awesome high performance computing resources.
 - [Transwarp](https://github.com/bloomen/transwarp) - A Header-only C++ Library for Task Concurrency
 - [Tuplex](https://tuplex.cs.brown.edu/) - Blazing fast python data science
 - [UCX](https://github.com/openucx/ucx#using-ucx) - Optimized production proven-communication framework
+- [Zluda](https://github.com/vosen/ZLUDA) - Run unmodified CUDA applications with near-native performance on Intel AMD GPUs.
 
 #### Cluster Hardware Discovery Tools
 - [cpuid](https://en.wikipedia.org/wiki/CPUID) - A software instruction available on Intel, AMD, and other processors that can be used to determine processor type and features.
