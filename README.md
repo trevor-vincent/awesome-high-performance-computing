@@ -204,42 +204,42 @@ A curated list of awesome high performance computing resources.
 
 #### Performance/Benchmark Tools for HPC
 
-- [Summary of profing tools](https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/)
-- [Summary of code performance analysis tools](https://doku.lrz.de/display/PUBLIC/Performance+and+Code+Analysis+Tools+for+HPC)
-- [papi](https://icl.utk.edu/papi/)
-- [scalasca](https://www.scalasca.org/)
-- [tau](https://www.cs.uoregon.edu/research/tau/home.php)
-- [scalene](https://github.com/plasma-umass/scalene)
-- [vampir](https://vampir.eu/)
-- [kerncraft](https://github.com/RRZE-HPC/kerncraft)
-- [NASA parallel benchmark suite](https://www.nas.nasa.gov/software/npb.html)
-- [The Bandwidth Benchmark](https://github.com/RRZE-HPC/TheBandwidthBenchmark/)
-- [Google benchmark](https://github.com/google/benchmark)
-- [demonspawn](https://github.com/TACC/demonspawn)
-- [HPL benchmark](https://www.netlib.org/benchmark/hpl/)
-- [ngstress](https://github.com/ColinIanKing/stress-ng)
-- [Ior](https://github.com/hpc/ior)
-- [bytehound memory profiler](https://github.com/koute/bytehound)
-- [Flamegraphs](https://www.brendangregg.com/flamegraphs.html)
-- [fio](https://linux.die.net/man/1/fio)
-- [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS)
-- [Hotspot - the Linux perf GUI for performance analysis](https://github.com/KDAB/hotspot/)
-- [mixbench - benchmarks for CPUs and GPUs](https://github.com/ekondis/mixbench)
-- [pmu-tools (toplev) performance tools for modern Intel CPUs](https://github.com/andikleen/pmu-tools)
-- [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html)
-- [STREAM Memory Bandwidth Benchmark](https://www.cs.virginia.edu/stream/)
-- [Intel MPI benchmarks](https://www.intel.com/content/www/us/en/docs/mpi-library/user-guide-benchmarks/2021-2/overview.html)
-- [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
-- [hpctoolkit - performance analysis toolkit](http://hpctoolkit.org/man/hpctoolkit.html)
-- [core-to-core-latency](https://github.com/nviennot/core-to-core-latency)
-- [speedscope - flamegraph profiler for many languages](https://github.com/jlfwong/speedscope)
-- [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html)
-- [Hyperfine - command line benchmarking](https://github.com/sharkdp/hyperfine)
-- [Openfoam HPC benchmark](https://develop.openfoam.com/committees/hpc/-/wikis/home)
-- [OSU microbenchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/)
-- [fio flexible I/O tester](https://fio.readthedocs.io/)
-- [vftrace](https://github.com/SX-Aurora/Vftrace)
-- [tinymembench](https://github.com/ssvb/tinymembench)
+- [demonspawn](https://github.com/TACC/demonspawn) - A framework for automated execution of benchmarks and simulations, designed for HPC environments.
+- [Google benchmark](https://github.com/google/benchmark) - A microbenchmark support library for C++ that tracks performance over time.
+- [HPL benchmark](https://www.netlib.org/benchmark/hpl/) - The High Performance Linpack Benchmark for measuring floating-point computing power of systems.
+- [kerncraft](https://github.com/RRZE-HPC/kerncraft) - A tool for analytical modeling of loop performance and cache behavior on HPC systems.
+- [NASA parallel benchmark suite](https://www.nas.nasa.gov/software/npb.html) - A set of benchmarks designed to evaluate the performance of parallel supercomputers.
+- [papi](https://icl.utk.edu/papi/) - Provides standard APIs for accessing hardware performance counters available on modern microprocessors.
+- [scalasca](https://www.scalasca.org/) - A software tool that supports performance analysis of large-scale parallel applications.
+- [scalene](https://github.com/plasma-umass/scalene) - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
+- [Summary of code performance analysis tools](https://doku.lrz.de/display/PUBLIC/Performance+and+Code+Analysis+Tools+for+HPC) - An overview of tools for analyzing HPC application performance.
+- [Summary of profiling tools](https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/) - A comprehensive list of profiling tools for performance analysis in HPC.
+- [tau](https://www.cs.uoregon.edu/research/tau/home.php) - TAU (Tuning and Analysis Utilities) is a profiling and tracing toolkit for performance analysis of parallel programs.
+- [The Bandwidth Benchmark](https://github.com/RRZE-HPC/TheBandwidthBenchmark/) - A tool for measuring memory bandwidth across various CPUs and systems.
+- [vampir](https://vampir.eu/) - A tool for detailed analysis of MPI program executions by visualizing their event traces.
+- [bytehound memory profiler](https://github.com/koute/bytehound) - A detailed memory profiler for tracking down memory issues and leaks.
+- [Flamegraphs](https://www.brendangregg.com/flamegraphs.html) - Visualization tool for profiling software, allowing quick identification of performance bottlenecks.
+- [fio](https://linux.die.net/man/1/fio) - Flexible I/O tester for benchmarking and stress/hardware verification.
+- [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS) - Provides key performance indicators for IBM Spectrum Scale, aiding in performance tuning and monitoring.
+- [Ior](https://github.com/hpc/ior) - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
+- [ngstress](https://github.com/ColinIanKing/stress-ng) - A versatile tool for stressing various subsystems of a computer to find hardware faults or to benchmark performance.
+- [Hotspot](https://github.com/KDAB/hotspot/) - The Linux perf GUI for in-depth performance analysis and visualization of software behavior.
+- [mixbench](https://github.com/ekondis/mixbench) - A benchmark suite designed to evaluate CPUs and GPUs across different compute and memory operations.
+- [pmu-tools (toplev)](https://github.com/andikleen/pmu-tools) - Performance monitoring tools for modern Intel CPUs, offering detailed insights into hardware and application performance.
+- [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html) - A benchmark suite designed to provide a comparative measure of compute-intensive performance across the widest practical range of hardware.
+- [STREAM Memory Bandwidth Benchmark](https://www.cs.virginia.edu/stream/) - Measures sustainable memory bandwidth and the corresponding computation rate for simple vector kernels.
+- [Intel MPI benchmarks](https://www.intel.com/content/www/us/en/docs/mpi-library/user-guide-benchmarks/2021-2/overview.html) - A set of benchmarks designed to measure the performance and scalability of MPI implementations on Intel architectures.
+- [Ohio state MPI benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A comprehensive suite of benchmarks for evaluating MPI performance across a variety of message passing patterns and communication protocols.
+- [hpctoolkit](http://hpctoolkit.org/man/hpctoolkit.html) - An integrated suite of tools for measurement and analysis of program performance on computers ranging from desktops to supercomputers.
+- [core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - A diagnostic tool designed to measure and report the latency between CPU cores, aiding in the optimization of parallel computing tasks.
+- [speedscope](https://github.com/jlfwong/speedscope) - An interactive, web-based viewer for performance profiles of software. It supports various formats and provides a flamegraph visualization to identify hot paths efficiently.
+- [Differential Flamegraphs](https://www.brendangregg.com/blog/2014-11-09/differential-flame-graphs.html) - A visualization technique developed by Brendan Gregg that highlights differences between performance profiles, making it easier to spot performance regressions or improvements.
+- [Hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool that provides a simple and user-friendly means to compare the performance of commands, featuring statistical analysis across multiple runs.
+- [Openfoam HPC benchmark](https://develop.openfoam.com/committees/hpc/-/wikis/home) - A benchmarking suite for evaluating the High Performance Computing capabilities of OpenFOAM, an open-source CFD software, under various computational loads.
+- [OSU microbenchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of microbenchmarks designed to evaluate the performance of MPI implementations across various communication protocols and message sizes.
+- [fio flexible I/O tester](https://fio.readthedocs.io/) - A versatile tool for I/O workload simulation and benchmarking, capable of testing a wide array of storage and filesystem configurations.
+- [vftrace](https://github.com/SX-Aurora/Vftrace) - A tracing tool specifically designed for the NEC SX-Aurora TSUBASA Vector Engine, enabling detailed performance analysis of vectorized code.
+- [tinymembench](https://github.com/ssvb/tinymembench) - A simple memory benchmark tool, focusing on benchmarking memory bandwidth and latency with minimal dependencies, suitable for various platforms.
     
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
