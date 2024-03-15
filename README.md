@@ -727,6 +727,7 @@ A curated list of awesome high performance computing resources.
 - [Bremermann's Limit](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
 - [Concurrency patterns](https://en.wikipedia.org/wiki/Concurrency_pattern)
 - [Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)
+- [Server Management](https://wiki.hydrology.cc/en/home)
   
 #### Misc. Papers/Articles
 - [Advanced Parallel Programming in C++](https://www.diehlpk.de/assets/modern_cpp.pdf)
