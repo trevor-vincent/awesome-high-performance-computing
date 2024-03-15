@@ -113,6 +113,7 @@ A curated list of awesome high performance computing resources.
 - [Tuplex](https://tuplex.cs.brown.edu/) - Blazing fast python data science
 - [UCX](https://github.com/openucx/ucx#using-ucx) - Optimized production proven-communication framework
 - [Zluda](https://github.com/vosen/ZLUDA) - Run unmodified CUDA applications with near-native performance on Intel AMD GPUs.
+- [HyperQueue](https://github.com/It4innovations/hyperqueue) - HyperQueue is a tool designed to simplify execution of large workflows (task graphs) on HPC clusters.
 
 #### Cluster Hardware Discovery Tools
 - [cpuid](https://en.wikipedia.org/wiki/CPUID) - A software instruction available on Intel, AMD, and other processors that can be used to determine processor type and features.
