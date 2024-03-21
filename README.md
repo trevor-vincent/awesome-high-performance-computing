@@ -75,6 +75,7 @@ A curated list of awesome high performance computing resources.
 - [Legion](https://github.com/StanfordLegion/legion) - Distributed heterogeneous programming library
 - [MAGMA](https://developer.nvidia.com/magma) - Next generation linear algebra (LA) GPU accelerated libraries
 - [Merlin](https://merlin.readthedocs.io/en/latest/) - A distributed task queuing system, designed to allow complex HPC workflows to scale to large numbers of simulations
+- [Metal](https://developer.apple.com/documentation/metal/performing_calculations_on_a_gpu) - Apple's GPU API
 - [Microsoft MPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi) - Microsoft's implementation of MPI
 - [MOGSLib](https://github.com/ECLScheduling/MOGSLib) - User defined schedulers
 - [mpi4jax](https://github.com/mpi4jax/mpi4jax) - Zero-copy mpi for jax arrays
