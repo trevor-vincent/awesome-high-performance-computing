@@ -322,7 +322,8 @@ A curated list of awesome high performance computing resources.
 
 ### TPU/Tensor Cores
 
-- [Google TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+- [Google TPU](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+- [TPU Wiki](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
 - [NVIDIA Tensor Cores](https://www.nvidia.com/en-us/data-center/tensor-cores/)
 
 ### Many integrated core processor (MIC)
