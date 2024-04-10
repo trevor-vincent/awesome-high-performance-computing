@@ -798,7 +798,7 @@ A curated list of awesome high performance computing resources.
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
    - [Awesome HPC](https://github.com/dstdev/awesome-hpc/)
    - [Sig HPC Education](https://sighpceducation.acm.org/resources/hpcresources/)
-   - [Fortran Code](https://github.com/Beliavsky/Fortran-code-on-GitHub)
+   - [Fortran Codes On Github](https://github.com/Beliavsky/Fortran-code-on-GitHub)
    - [Fortan Tools](https://github.com/Beliavsky/Fortran-Tools)
      
 ## Acknowledgements
