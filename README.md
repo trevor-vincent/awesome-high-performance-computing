@@ -17,6 +17,7 @@ A curated list of awesome high performance computing resources.
  - [Hardware](#hardware) 
  - [People](#people)
  - [Resources](#resources)
+ - [Other Curated Lists](#other-curated-lists)
  - [Acknowledgements](#acknowledgements )
 
 ## General Info
@@ -790,13 +791,15 @@ A curated list of awesome high performance computing resources.
   - [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io)
   - [Sad Server - practice linux server management](https://sadservers.com/scenarios)
     
-#### Other Curated Lists 
+## Other Curated Lists 
    - [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
    - [Princeton resources on OpenMP](https://researchcomputing.princeton.edu/education/external-online-resources/openmp)
    - [Awesome HPC](https://github.com/dstdev/awesome-hpc/)
    - [Sig HPC Education](https://sighpceducation.acm.org/resources/hpcresources/)
+   - [Fortran Code](https://github.com/Beliavsky/Fortran-code-on-GitHub)
+   - [Fortan Tools](https://github.com/Beliavsky/Fortran-Tools)
      
 ## Acknowledgements
 
