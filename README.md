@@ -799,7 +799,7 @@ A curated list of awesome high performance computing resources.
    - [Awesome HPC](https://github.com/dstdev/awesome-hpc/)
    - [Sig HPC Education](https://sighpceducation.acm.org/resources/hpcresources/)
    - [Fortran Codes On Github](https://github.com/Beliavsky/Fortran-code-on-GitHub)
-   - [Fortan Tools](https://github.com/Beliavsky/Fortran-Tools)
+   - [Fortran Tools](https://github.com/Beliavsky/Fortran-Tools)
      
 ## Acknowledgements
 
