@@ -246,6 +246,8 @@ A curated list of awesome high performance computing resources.
 - [vftrace](https://github.com/SX-Aurora/Vftrace) - A tracing tool specifically designed for the NEC SX-Aurora TSUBASA Vector Engine, enabling detailed performance analysis of vectorized code.
 - [tinymembench](https://github.com/ssvb/tinymembench) - A simple memory benchmark tool, focusing on benchmarking memory bandwidth and latency with minimal dependencies, suitable for various platforms.
 - [Geekbench](https://www.geekbench.com/) - Cross platform benchmarking tool
+- [Empirical Roofline Tool (ERT)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/research/roofline/software/ert/) - Create empirical roofline plots, alternative to intel vtune for any machine
+- [Roofline Visualizer for ERT](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/research/roofline/software/roofline-visualizer/) - Visualizer for ERT
   
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
