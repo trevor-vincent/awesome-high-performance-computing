@@ -25,7 +25,8 @@ A curated list of awesome high performance computing resources.
 ### A Few Upcoming Supercomputers 
  - [El Capitan](https://www.amd.com/en/products/exascale-era) - 2023, AMD-based, ~1.5 exaflops
  - [Tianhe-3](https://www.nextplatform.com/2019/05/02/china-fleshes-out-exascale-design-for-tianhe-3/) - 2022, ~700 Petaflop (Linpack500)
-
+ - [Venado](https://discover.lanl.gov/news/0530-venado/) - 2024, Grace-Hopper based ~10 exaflops
+   
 ### Most Recent List of the Top500 Supercomputers
  - [Top500 (Nov. 2023)](https://www.top500.org/lists/top500/2023/11/)
  - [Green500 (Nov. 2023)](https://www.top500.org/lists/green500/2023/11/)
