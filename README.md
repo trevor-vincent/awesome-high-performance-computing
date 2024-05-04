@@ -393,7 +393,8 @@ A curated list of awesome high performance computing resources.
 - [RAID](https://en.wikipedia.org/wiki/RAID)
 - [Cray](https://en.wikipedia.org/wiki/Cray)
 - [Digital Signal Processors](https://en.wikipedia.org/wiki/Digital_signal_processor)
-
+- [Vector Processor](https://en.wikipedia.org/wiki/Vector_processor)
+  
 ## People
 
  - [Jack Dongarra - 2021 Turing Award - LINPACK, BLAS, LAPACK, MPI](https://www.nature.com/articles/s43588-022-00245-w)
