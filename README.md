@@ -603,6 +603,7 @@ A curated list of awesome high performance computing resources.
 - [Bright Computing Cluster Management Technical Overview](https://www.youtube.com/watch?v=0AxzcZuviW0)
 - [What is HPC? An introduction by Canonical](https://www.youtube.com/watch?v=tGIobcyKViI)
 - [Slurm job schedular basics](https://www.youtube.com/watch?v=Juo_mb3otJ0)
+- [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://youtu.be/WpVbcYnFJmQ?feature=shared)
   
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
