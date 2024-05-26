@@ -164,6 +164,7 @@ A curated list of awesome high performance computing resources.
 - [xCat](https://xcat.org/) - A distributed computing management and provisioning tool.
 - [XDMoD](https://supremm.xdmod.org/10.0/supremm-overview.html) - An open-source tool for managing high-performance computing resources.
 - [Globus Connect](https://www.globus.org/globus-connect) - A fast data transfer tool between supercomputers.
+- [Slurm Web](https://slurm-web.com/) - Open source web dashboard for Slurm HPC clusters.
   
 #### HPC-specific Operating Systems
 - [Kitten](https://www.sandia.gov/app/uploads/sites/210/2022/11/pedretti_lanl11.pdf) - A lightweight kernel designed for high-performance computing. It focuses on providing low noise and predictable performance for HPC applications.
