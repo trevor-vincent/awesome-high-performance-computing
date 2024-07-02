@@ -486,7 +486,8 @@ A curated list of awesome high performance computing resources.
 - [Introduction to Parallel Computing (CMSC 498X/818X)](https://www.cs.umd.edu/class/fall2020/cmsc498x/lectures.shtml)
 - [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
 - [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja)
-  
+- [HPC Administration Virtual Residency 2024](https://www.youtube.com/@VirtualResidency2024/videos)
+    
 #### Tutorials/Guides/Articles
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
