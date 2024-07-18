@@ -575,7 +575,8 @@ A curated list of awesome high performance computing resources.
 - [Preparing Applications for Aurora in the Exascale Era](https://connectedsocialmedia.com/20114/preparing-applications-for-aurora-in-the-exascale-era/)
 - [Slurm podcast](https://www.rce-cast.com/index.php/Podcast/rce-10-slurm.html)
 - [HPCPodcast](https://insidehpc.com/category/resources/hpc-podcast/)
-- [Ice Cream and Community - The path to a career in high performance computing is not always equitable or clear.](https://rseng.github.io/devstories/2024/jay-lofstead/)
+- [Developer Stories - The path to a career in high performance computing is not always equitable or clear.](https://rseng.github.io/devstories/2024/jay-lofstead/)
+- [Developer Stories - HPCToolkit](https://rseng.github.io/devstories/2024/wileam-phan/)
   
 #### Video Presentations/Courses/Channels
 - [Argonne lectures on Extreme Scale Computing 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
