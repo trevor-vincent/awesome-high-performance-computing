@@ -113,11 +113,12 @@ A curated list of awesome high performance computing resources.
 - [Taskflow](https://github.com/taskflow/taskflow) - A Modern C++ Parallel Task Programming Library
 - [The Open Community Runtime](https://wiki.modelado.org/Open_Community_Runtime) - Specification for Asynchronous Many Task systems
 - [Transwarp](https://github.com/bloomen/transwarp) - A Header-only C++ Library for Task Concurrency
+- [Triton](https://triton-lang.org/main/index.html) - Triton is a language and compiler for parallel programming
 - [Tuplex](https://tuplex.cs.brown.edu/) - Blazing fast python data science
 - [UCX](https://github.com/openucx/ucx#using-ucx) - Optimized production proven-communication framework
 - [Zluda](https://github.com/vosen/ZLUDA) - Run unmodified CUDA applications with near-native performance on Intel AMD GPUs.
 - [HyperQueue](https://github.com/It4innovations/hyperqueue) - HyperQueue is a tool designed to simplify execution of large workflows (task graphs) on HPC clusters.
-
+  
 #### Cluster Hardware Discovery Tools
 - [cpuid](https://en.wikipedia.org/wiki/CPUID) - A software instruction available on Intel, AMD, and other processors that can be used to determine processor type and features.
 - [cpuid instruction note](https://www.scss.tcd.ie/~jones/CS4021/processor-identification-cpuid-instruction-note.pdf) - A detailed note on the CPUID instruction used for processor identification.
