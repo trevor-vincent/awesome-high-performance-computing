@@ -543,7 +543,8 @@ A curated list of awesome high performance computing resources.
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
-
+- [How to pick the right hardware for AI - Gigabyte - Part 1](https://www.gigabyte.com/Article/how-to-pick-the-right-server-for-ai-part-one-cpu-gpu)
+  
 #### Review Papers/Articles
 - [Interactive and Urgent HPC Challenges (2024)](https://arxiv.org/pdf/2401.14550.pdf)
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
