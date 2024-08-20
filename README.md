@@ -490,6 +490,7 @@ A curated list of awesome high performance computing resources.
 - [HPC Administration Virtual Residency 2024](https://www.youtube.com/@VirtualResidency2024/videos)
     
 #### Tutorials/Guides/Articles
+##### General
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
 - [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Rookie HPC Guide](https://rookiehpc.github.io/index.html)
@@ -536,7 +537,13 @@ A curated list of awesome high performance computing resources.
 - [CUDA best practices guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 - [Understanding CPU Architecture And Performance Using LIKWID](https://pramodkumbhar.com/2020/03/architectural-optimisations-using-likwid-profiler/)
 - [32 OpenMP Traps For C++ Developers](https://pvs-studio.com/en/blog/posts/cpp/a0054/#ID0EWEAC)
+- [Best practices for running jobs on a HPC cluster](https://hpc.dccn.nl/docs/cluster_howto/best_practices.html)
+- [Glossary of HPC related terms](https://www.gigabyte.com/Glossary?lan=en)
+- [Setting the record straight: What is HPC?](https://www.gigabyte.com/Article/setting-the-record-straight-what-is-hpc-a-tech-guide-by-gigabyte?lan=en)
   
+##### Machine Learning Related
+- [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
+
 #### Review Papers/Articles
 - [Interactive and Urgent HPC Challenges (2024)](https://arxiv.org/pdf/2401.14550.pdf)
 - [The Landscape of Exascale Research: A Data-Driven Literature Analysis (2020)](https://dl.acm.org/doi/pdf/10.1145/3372390)
