@@ -149,6 +149,7 @@ A curated list of awesome high performance computing resources.
 - [Lustre Parallel File System](https://www.lustre.org/) - A high-performance distributed filesystem for large-scale cluster computing.
 - [moosefs](https://moosefs.com/) - A fault-tolerant, highly available, distributed file system.
 - [NetApp](www.netapp.com) - Intelligent data infrastructure for various workloads.
+- [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler/) - A scalable HPC/AI workload manager based on SGE.
 - [OpenHPC](https://openhpc.community/) - A community-led set of HPC components.
 - [OpenOnDemand](https://openondemand.org/) - A web portal for accessing supercomputing resources.
 - [OpenPBS](https://www.openpbs.org/) - A software for workload management and job scheduling.
