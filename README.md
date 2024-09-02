@@ -363,6 +363,7 @@ A curated list of awesome high performance computing resources.
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
 - [AWS Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
+- [AWS HPC Workshop](https://www.hpcworkshops.com/)
 - [An Empirical Study of Containerized MPI and GUI Application on HPC in the Cloud](https://ieeexplore.ieee.org/abstract/document/10046607)
 
 ### Custom/FPGA/ASIC/APU
@@ -546,6 +547,8 @@ A curated list of awesome high performance computing resources.
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
 - [How to pick the right hardware for AI - Gigabyte - Part 1](https://www.gigabyte.com/Article/how-to-pick-the-right-server-for-ai-part-one-cpu-gpu)
+- [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
+- [AWS HPC Workshop](https://www.hpcworkshops.com/)
   
 #### Review Papers/Articles
 - [Interactive and Urgent HPC Challenges (2024)](https://arxiv.org/pdf/2401.14550.pdf)
