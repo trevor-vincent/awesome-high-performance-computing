@@ -549,6 +549,7 @@ A curated list of awesome high performance computing resources.
 - [How to pick the right hardware for AI - Gigabyte - Part 1](https://www.gigabyte.com/Article/how-to-pick-the-right-server-for-ai-part-one-cpu-gpu)
 - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 - [AWS HPC Workshop](https://www.hpcworkshops.com/)
+- [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://news.ycombinator.com/item?id=41470074)
   
 #### Review Papers/Articles
 - [Interactive and Urgent HPC Challenges (2024)](https://arxiv.org/pdf/2401.14550.pdf)
