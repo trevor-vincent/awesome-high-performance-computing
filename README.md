@@ -584,6 +584,7 @@ A curated list of awesome high performance computing resources.
 - [Toms hardware](https://www.tomshardware.com/)
 - [Tech Radar](https://www.techradar.com/)
 - [Phoronix](https://www.phoronix.com/)
+- [The Register](https://www.theregister.com/on_prem/hpc/)
 
 #### Podcasts
 - [This week in HPC](https://soundcloud.com/this-week-in-hpc)
