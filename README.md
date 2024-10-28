@@ -712,6 +712,7 @@ A curated list of awesome high performance computing resources.
   - [HPC Social slack group](https://hpcsocial.slack.com/)
   - [HPC Social](https://hpc.social/)
   - [Beowulf Mailing List](https://www.beowulf.org/)
+  - [Society of Research Software Engineering](https://society-rse.org/get-involved/)
 
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
