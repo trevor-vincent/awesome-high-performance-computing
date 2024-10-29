@@ -713,7 +713,11 @@ A curated list of awesome high performance computing resources.
   - [HPC Social](https://hpc.social/)
   - [Beowulf Mailing List](https://www.beowulf.org/)
   - [Society of Research Software Engineering](https://society-rse.org/get-involved/)
-
+  - [Women In HPC](https://womeninhpc.org/)
+  - [HPC Hallway](https://hpc-hallway.github.io/The-Hallway/)
+  - [The High Performance Computing Special Interest Group](https://hpc-sig.org.uk/)
+  - [SigHPC](https://www.sighpc.org/)
+    
 #### Twitters
  - [Top500](https://twitter.com/top500supercomp?s=20)
  - [HPE HPC](https://twitter.com/hpe_hpc)
