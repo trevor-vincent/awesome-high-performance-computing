@@ -255,7 +255,9 @@ A curated list of awesome high performance computing resources.
 - [Roofline Visualizer for ERT](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/research/roofline/software/roofline-visualizer/) - Visualizer for ERT
 - [Caliper](https://github.com/LLNL/Caliper) - A Performance Analysis Toolbox in a Library
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) - Benchmarking Tool For SSD/HDD Drives
-  
+- [OpenBenchmarking](https://openbenchmarking.org/) - Open benchmarks on a variety of algorithms and hardware
+- [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - Benchmarking suite for Linux
+
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
 - [Amira](https://www.thermofisher.com/ca/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html) - A powerful, multifaceted 3D software platform for visualizing, manipulating, and understanding Life Science and bio-medical data coming from all types of sources.
