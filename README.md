@@ -819,6 +819,7 @@ A curated list of awesome high performance computing resources.
   - [Technical Report on C++ performance](https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf)
   - [BOINC Compute for science](https://boinc.berkeley.edu/)
   - [Count prime numbers using MPI](https://people.sc.fsu.edu/~jburkardt/c_src/prime_mpi/prime_mpi.html)
+  - [How to build your LEGO Scafell Pike Supercomputer](https://www.youtube.com/watch?v=m499o5rLh38)
 
 #### Games/Challenges
   - [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io)
