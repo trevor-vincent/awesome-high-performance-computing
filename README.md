@@ -389,6 +389,7 @@ A curated list of awesome high performance computing resources.
 
 - [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 - [Supercomputer architecture](https://en.wikipedia.org/wiki/Supercomputer_architecture)
+- [Beowulf cluster](https://en.wikipedia.org/wiki/Beowulf_cluster)
 - [Computer cluster](https://en.wikipedia.org/wiki/Computer_cluster)
 - [Comparison of Intel processors](https://en.wikipedia.org/wiki/Comparison_of_Intel_processors)
 - [Comparison of Apple processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
