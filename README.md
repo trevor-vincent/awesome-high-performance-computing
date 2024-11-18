@@ -456,6 +456,7 @@ A curated list of awesome high performance computing resources.
 - [Gropp books on MPI](https://wgropp.cs.illinois.edu/usingmpiweb/)
 - [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
 - [High Performance Computing in Biomimetics Modeling, Architecture and Applications](https://link.springer.com/book/10.1007/978-981-97-1017-1)
+- [Systems Performance - Brendan Gregg](https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158)
   
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
@@ -547,6 +548,8 @@ A curated list of awesome high performance computing resources.
 - [Best practices for running jobs on a HPC cluster](https://hpc.dccn.nl/docs/cluster_howto/best_practices.html)
 - [Glossary of HPC related terms](https://www.gigabyte.com/Glossary?lan=en)
 - [Setting the record straight: What is HPC?](https://www.gigabyte.com/Article/setting-the-record-straight-what-is-hpc-a-tech-guide-by-gigabyte?lan=en)
+- [Atomic operations and contention](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
+- [A concurrency cost hiearchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
