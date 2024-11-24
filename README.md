@@ -28,9 +28,9 @@ A curated list of awesome high performance computing resources.
  - [Venado](https://discover.lanl.gov/news/0530-venado/) - 2024, Grace-Hopper based ~10 exaflops
    
 ### Most Recent List of the Top500 Supercomputers
- - [Top500 (June 2024)](https://www.top500.org/lists/top500/2024/06/)
- - [HPCG Top500 (June 2024)](https://www.top500.org/lists/hpcg/2024/06/)
- - [Green500 (June 2024)](https://www.top500.org/lists/green500/2024/06/)
+ - [Top500 (Nov. 2024)](https://www.top500.org/lists/top500/2024/11/)
+ - [HPCG Top500 (Nov. 2024)](https://www.top500.org/lists/hpcg/2024/11/)
+ - [Green500 (Nov. 2024)](https://www.top500.org/lists/green500/2024/11/)
  - [io500](https://io500.org/)
  
 ### History
