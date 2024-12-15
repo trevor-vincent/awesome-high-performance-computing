@@ -301,7 +301,8 @@ A curated list of awesome high performance computing resources.
 - [CXL - Compute Express Link](https://www.computeexpresslink.org/)
 - [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
 - [NVlink](https://en.wikipedia.org/wiki/NVLink)
-- [List of interconnect bit rates](https://en.wikipedia.org/wiki/List_of_interface_bit_rates)
+- [List of lan-based interconnect bit rates](https://en.wikipedia.org/wiki/List_of_interface_bit_rates)
+- [List of internet-based interconnect bit rates](https://en.wikipedia.org/wiki/Bandwidth_(computing)#Internet_connection_bandwidths)
   
 ### CPU
 - [Wikichip](https://en.wikichip.org/wiki/WikiChip)
