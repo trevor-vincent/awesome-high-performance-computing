@@ -499,7 +499,8 @@ A curated list of awesome high performance computing resources.
 - [Infiniband Essentials](https://academy.nvidia.com/en/course/infiniband-essentials/?cm=244)
 - [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja)
 - [HPC Administration Virtual Residency 2024](https://www.youtube.com/@VirtualResidency2024/videos)
-    
+- [Programming Parallel Computers](https://ppc-exercises.cs.aalto.fi/courses)
+      
 #### Tutorials/Guides/Articles
 ##### General
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
