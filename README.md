@@ -500,7 +500,8 @@ A curated list of awesome high performance computing resources.
 - [Performance Ninja Optimization Course](https://github.com/dendibakh/perf-ninja)
 - [HPC Administration Virtual Residency 2024](https://www.youtube.com/@VirtualResidency2024/videos)
 - [Programming Parallel Computers](https://ppc-exercises.cs.aalto.fi/courses)
-      
+- [High Performace Machine Learning - Columbia University](https://www.cs.columbia.edu/~aa4870/high-performance-machine-learning/)
+        
 #### Tutorials/Guides/Articles
 ##### General
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
