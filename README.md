@@ -460,7 +460,8 @@ A curated list of awesome high performance computing resources.
 - [High Performance Computing in Biomimetics Modeling, Architecture and Applications](https://link.springer.com/book/10.1007/978-981-97-1017-1)
 - [Systems Performance - Brendan Gregg](https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It? - Paul E. McKenney](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-  
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
+    
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
