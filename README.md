@@ -98,6 +98,7 @@ A curated list of awesome high performance computing resources.
 - [PMIX](https://pmix.github.io/standard) - Standard for process management
 - [Pollux](https://github.com/polluxio/pollux-payload) - Message Passing Cloud orchestrator
 - [Pyfi](https://github.com/radiantone/pyfi) - Distributed flow and computation system
+- [Pyper](https://github.com/pyper-dev/pyper) - concurrent python made simple
 - [RAJA](https://github.com/LLNL/RAJA) - Architecture and programming model portability for HPC applications
 - [RaftLib](https://github.com/RaftLib/RaftLib) - A C++ Library for Enabling Stream and Dataflow Parallel Computation
 - [ray](https://www.ray.io/) - Scale AI and Python workloads from reinforcement learning to deep learning
