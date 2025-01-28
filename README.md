@@ -812,7 +812,8 @@ A curated list of awesome high performance computing resources.
   - [Rust in HPC](https://github.com/westernmagic/rust-in-hpc)
   - [University of Buffalo - Center for Computational Research](https://github.com/ubccr)
   - [Center for High Performance Computing - University of Utah](https://github.com/CHPC-UofU)
-  
+  - [Top500 Supercomputer Data Analysis](https://github.com/glennklockwood/top500-data)
+    
 #### Misc. Theses
    - [Rust programming language in the high-performance computing environment](https://www.research-collection.ethz.ch/handle/20.500.11850/474922)
 
