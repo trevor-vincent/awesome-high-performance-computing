@@ -160,6 +160,7 @@ A curated list of awesome high performance computing resources.
 - [Ruse](https://github.com/JanneM/Ruse) - A tool for managing software environments in HPC clusters.
 - [SGE](http://star.mit.edu/cluster/docs/0.93.3/guides/sge.html) - A resource management software for large clusters of computers.
 - [Slurm](https://slurm.schedmd.com/overview.html) - A cluster management and job scheduling system for Linux clusters.
+- [Spectrum LSF](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for distributed high performance computing (HPC)
 - [Spack](https://spack.io/) - A package manager for HPC/supercomputers.
 - [sstack](https://gitlab.com/nmsu_hpc/sstack) - A tool to install multiple software stacks such as Spack, EasyBuild, and Conda.
 - [Starfish](https://starfishstorage.com/) - Unstructured data management and metadata solution for files and objects.
