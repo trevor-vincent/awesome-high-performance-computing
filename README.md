@@ -353,6 +353,7 @@ A curated list of awesome high performance computing resources.
 
 #### Vendors
 
+- [Official NVIDIA Vendors](https://marketplace.nvidia.com/en-us/enterprise/cloud-solutions/?limit=15)
 - [AWS HPC](https://aws.amazon.com/hpc/)
 - [Azure HPC](https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro)
 - [rescale](https://rescale.com/)
@@ -364,7 +365,7 @@ A curated list of awesome high performance computing resources.
 - [Chameleon Cloud](https://www.chameleoncloud.org/)
 - [Lambda Labs](https://lambdalabs.com/)
 - [Runpod](https://www.runpod.io/)
-  
+
 #### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
 - [AWS Cluster in the cloud](https://cluster-in-the-cloud.readthedocs.io/en/latest/aws-infrastructure.html)
