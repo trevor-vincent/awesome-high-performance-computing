@@ -132,9 +132,10 @@ A curated list of awesome high performance computing resources.
 - [PRK - Parallel Research Kernels](https://github.com/ParRes/Kernels) - A collection of kernels for parallel programming research.
 
 #### Cluster Management/Tools/Schedulers/Stacks
+- [ClusterVisor](https://www.advancedclustering.com/products/software/clustervisor-2/) - Cluster management tool by Advanced Clustering.
 - [BeeGFS](http://beegfs.io/docs/whitepapers/Introduction_to_BeeGFS_by_ThinkParQ.pdf) - A parallel file system designed for performance-critical environments.
 - [Bluebanquise](https://github.com/bluebanquise/bluebanquise) - An open-source cluster management tool.
-- [Bright Cluster Manager](https://www.brightcomputing.com/brightclustermanager) - Software for deploying and managing HPC and AI server clusters.
+- [NVIDIA Base Command Manager (formerly Bright Cluster Manager)](https://docs.nvidia.com/base-command-manager/index.html) - Software for deploying and managing HPC and AI server clusters.
 - [Ceph](https://ceph.io/en/) - An open-source distributed storage system.
 - [DeepOps](https://github.com/NVIDIA/deepops) - Nvidia's GPU infrastructure and automation tools for Kubernetes and Slurm clusters.
 - [E4S - The Extreme Scale HPC Scientific Stack](https://e4s-project.github.io/) - A collection of open-source software packages for HPC environments.
@@ -718,7 +719,6 @@ A curated list of awesome high performance computing resources.
  - [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
   
 #### Conferences
-
  - [ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP)](https://ppopp19.sigplan.org/home)
  - [ACM Symposium on Parallel Algorithms and Architectures (SPAA)](https://spaa.acm.org/)
  - [SC conference (SC)](https://supercomputing.org/)
@@ -747,9 +747,9 @@ A curated list of awesome high performance computing resources.
  - [Jeff Hammond](https://twitter.com/science_dot)
  
 #### Consulting
+- [Advanced Clustering](https://www.advancedclustering.com/)
 - [Redline Performance](https://redlineperf.com/)
 - [R systems](http://rsystemsinc.com/)
-- [Advanced Clustering](https://www.advancedclustering.com/)
 
 #### Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
