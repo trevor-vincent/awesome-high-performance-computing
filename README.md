@@ -506,6 +506,7 @@ A curated list of awesome high performance computing resources.
 - [HPC Administration Virtual Residency 2024](https://www.youtube.com/@VirtualResidency2024/videos)
 - [Programming Parallel Computers](https://ppc-exercises.cs.aalto.fi/courses)
 - [High Performace Machine Learning - Columbia University](https://www.cs.columbia.edu/~aa4870/high-performance-machine-learning/)
+- [HPC.NRW: Various tutorials about Linux, GPU programming, performance tools, and research data management](https://www.youtube.com/@HPCNRW/playlists)
         
 #### Tutorials/Guides/Articles
 ##### General
@@ -560,6 +561,7 @@ A curated list of awesome high performance computing resources.
 - [Setting the record straight: What is HPC?](https://www.gigabyte.com/Article/setting-the-record-straight-what-is-hpc-a-tech-guide-by-gigabyte?lan=en)
 - [Atomic operations and contention](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 - [A concurrency cost hiearchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
+- [hpc-wiki.info - Tutorials and articles for HPC users, developers, administrators and specific HPC systems](https://hpc-wiki.info)
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
@@ -762,6 +764,7 @@ A curated list of awesome high performance computing resources.
   - [Pawsey](https://pawsey.org.au/)
   - [International Data Corporation](https://www.idc.com/)
   - [List of Federally funded research and development centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers)
+  - [The HPC.NRW competence network of North-Rhine-Westphalia](https://hpc.dh.nrw/)
 
 #### Interesting r/HPC posts
   - [finding a supercomputer to use for research](https://www.reddit.com/r/HPC/comments/19e58z7/how_do_i_go_about_finding_a_supercomputer_to_use/)
