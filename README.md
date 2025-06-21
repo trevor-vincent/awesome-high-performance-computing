@@ -465,6 +465,7 @@ A curated list of awesome high performance computing resources.
 - [Systems Performance - Brendan Gregg](https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It? - Paul E. McKenney](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
+- [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
@@ -561,6 +562,7 @@ A curated list of awesome high performance computing resources.
 - [Atomic operations and contention](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 - [A concurrency cost hiearchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
 - [hpc-wiki.info - Tutorials and articles for HPC users, developers, administrators and specific HPC systems](https://hpc-wiki.info)
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
@@ -645,6 +647,7 @@ A curated list of awesome high performance computing resources.
 - [What is HPC? An introduction by Canonical](https://www.youtube.com/watch?v=tGIobcyKViI)
 - [Slurm job schedular basics](https://www.youtube.com/watch?v=Juo_mb3otJ0)
 - [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://youtu.be/WpVbcYnFJmQ?feature=shared)
+- [Warewulf HPC Youtube Channel](https://www.youtube.com/@WarewulfHPC)
   
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
@@ -677,7 +680,8 @@ A curated list of awesome high performance computing resources.
 - [Supermicro GPU racks](https://www.supermicro.com/en/products/gpu)
 - [VirtualOrfeo - Virtual HPC Cluster](https://gitlab.com/area7/datacenter/codes/virtualorfeo)
 - [Is there a reason to build a raspberry pi clluster](https://www.reddit.com/r/HPC/comments/1bfywk8/is_there_ever_a_reason_to_build_a_raspberry_pi/)
-    
+- [Building a NVIDIA Jetson Cluster](https://www.hackster.io/shahizat/how-to-build-nvidia-jetson-hpc-cluster-using-slurm-ed61a7)
+      
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
@@ -727,7 +731,8 @@ A curated list of awesome high performance computing resources.
  - [International Conference on Parallel Processing (ICPP)](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/)
  - [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/cfp.htm)
  - [FosDem](https://fosdem.org/)
-
+ - [Energy HPC Conference](https://www.energyhpc.rice.edu/)
+   
 #### Communities/Chat Groups
   - [HPC Social Discord server](https://hpc.social/projects/chat/)
   - [HPC Social slack group](https://hpcsocial.slack.com/)
@@ -847,6 +852,7 @@ A curated list of awesome high performance computing resources.
 #### Games/Challenges
   - [Deadlock empire - practice concurrency](https://github.com/deadlockempire/deadlockempire.github.io)
   - [Sad Server - practice linux server management](https://sadservers.com/scenarios)
+  - [Vim Adventures](https://vim-adventures.com/)
     
 ## Other Curated Lists 
    - [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
