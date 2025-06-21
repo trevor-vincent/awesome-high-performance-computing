@@ -539,7 +539,6 @@ A curated list of awesome high performance computing resources.
 - [Allocating large blocks of memory in bare-metal C programming](https://lemire.me/blog/2020/01/17/allocating-large-blocks-of-memory-bare-metal-c-speeds/)
 - [Hashmap benchmarks 2022](https://martin.ankerl.com/2022/08/27/hashmap-bench-01/)
 - [LLNL HPC Tutorials](https://hpc.llnl.gov/documentation/tutorials)
-- [High Performance Computing: A Bird's Eye View](https://umashankar.blog/high-performance-computing-a-birds-eye-view/)
 - [The dirty secret of high performance computing](https://www.techradar.com/news/the-dirty-secret-of-high-performance-computing)
 - [Multiple GPUs with pytorch](https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained)
 - [Brendan Gregg on Linux Performance](https://www.brendangregg.com/linuxperf.html)
