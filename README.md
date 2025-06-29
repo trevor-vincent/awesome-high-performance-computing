@@ -87,6 +87,7 @@ A curated list of awesome high performance computing resources.
 - [MPI Standardization Forum](https://www.mpi-forum.org/) - Forum for MPI standardization
 - [MPAVICH](https://mvapich.cse.ohio-state.edu/) - Implementation of MPI
 - [NCCL](https://developer.nvidia.com/nccl) - The NVIDIA Collective Communication Library for multi-GPU and multi-node communication
+- [NVSHMEM](https://developer.nvidia.com/nvshmem) - GPU-accelerated implementation of the OpenSHMEM programming model developed by NVIDIA
 - [cuNumeric](https://developer.nvidia.com/cunumeric) - GPU drop-in for numpy
 - [stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/) - GPU accelerated C++ from NVIDIA
 - [numba](https://numba.pydata.org/) - A JIT compiler that translates a subset of Python into fast machine code
@@ -94,6 +95,7 @@ A curated list of awesome high performance computing resources.
 - [OpenACC](https://www.openacc.org/) - "OpenMP for GPUs"
 - [OpenCilk](https://www.opencilk.org/) - MIT continuation of Cilk Plus
 - [OpenMP](https://www.openmp.org/) - Multi-platform Shared-memory Parallel Programming in C/C++ and Fortran
+- [OpenSHMEM](http://openshmem.org/site/About) - OpenSHMEM is a one-sided, PGAS-based parallel programming model enabling direct remote memory access for high-performance computing
 - [PVM](https://www.csm.ornl.gov/pvm/) - Parallel Virtual Machine: A predecessor to MPI for distributed computing
 - [PMIX](https://pmix.github.io/standard) - Standard for process management
 - [Pollux](https://github.com/polluxio/pollux-payload) - Message Passing Cloud orchestrator
