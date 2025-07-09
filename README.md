@@ -758,7 +758,8 @@ A curated list of awesome high performance computing resources.
 
 #### Interview Preparation
   - [Reddit Entry Level HPC interview help](https://www.reddit.com/r/HPC/comments/nhpdfb/entrylevel_hpc_job_interview/)
-
+  - [Reddit HPC Admin Interview help](https://www.reddit.com/r/HPC/comments/1lq3pjp/need_advice_upcoming_hpc_admin_interview/)
+    
 #### Organizations
   - [Prace](https://prace-ri.eu/)
   - [Xsede](https://www.xsede.org/)
