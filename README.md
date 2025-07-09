@@ -283,7 +283,8 @@ A curated list of awesome high performance computing resources.
  - [tcmalloc memory allocator](https://github.com/google/tcmalloc)
  - [Horde memory allocator](https://github.com/emeryberger/Hoard)
  - [Software utilization at UK National Supercomputing Service, ARCHER2](https://www.archer2.ac.uk/support-access/status.html#software-usage-data)
-  
+ - [SIMD Info](https://simd.info)
+   
 #### Wikis
 - [Comparison of cluster software](https://en.wikipedia.org/wiki/Comparison_of_cluster_software)
 - [List of cluster management software](https://en.wikipedia.org/wiki/List_of_cluster_management_software)
