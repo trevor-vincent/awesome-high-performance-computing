@@ -657,6 +657,8 @@ A curated list of awesome high performance computing resources.
 - [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean (Google)](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - [Practical Debugging and Performance Engineering](https://orbilu.uni.lu/bitstream/10993/55305/1/Practical_Debugging_and_Performance_Engineering_for_HPC.pdf)
 
+#### Optimization Case Studies
+- [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
   
 #### Building Clusters/Virtual Clusters
 - [Resources for learning about HPC networks and storage r/HPC](https://www.reddit.com/r/HPC/comments/17o0q5d/resources_for_learning_about_hpc_networks_and/)
