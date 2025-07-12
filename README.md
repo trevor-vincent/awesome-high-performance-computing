@@ -470,7 +470,7 @@ A curated list of awesome high performance computing resources.
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
-- [Udacity High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
+- [Udacity High Performance Computing](https://www..com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 - [Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 - [Vanderbilt - Intro to HPC](https://github.com/vanderbiltscl/SC3260_HPC)
 - [Illinois - Intro to HPC](https://andreask.cs.illinois.edu/Teaching/HPCFall2012/) - Creator of PyCuda
@@ -647,6 +647,7 @@ A curated list of awesome high performance computing resources.
 - [Slurm job schedular basics](https://www.youtube.com/watch?v=Juo_mb3otJ0)
 - [EasyBuild Tech Talk I - The ABCs of Open MPI, part 1 (by Jeff Squyres & Ralph Castain)](https://youtu.be/WpVbcYnFJmQ?feature=shared)
 - [Warewulf HPC Youtube Channel](https://www.youtube.com/@WarewulfHPC)
+- [Scott Meyers: Cpu Caches and Why You Car](https://www.youtube.com/watch?v=WDIkqP4JbkE&t=1s)
   
 #### Presentation Slides
 - [Task based Parallelism and why it's awesome](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Workshops/Conferences/CSAM-2015/Programme/lecture7a_gonnet-pdf.pdf?__blob=publicationFile) - Pedro Gonnet
