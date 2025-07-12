@@ -507,7 +507,8 @@ A curated list of awesome high performance computing resources.
 - [Programming Parallel Computers](https://ppc-exercises.cs.aalto.fi/courses)
 - [High Performace Machine Learning - Columbia University](https://www.cs.columbia.edu/~aa4870/high-performance-machine-learning/)
 - [HPC.NRW: Various tutorials about Linux, GPU programming, performance tools, and research data management](https://www.youtube.com/@HPCNRW/playlists)
-        
+- [Introduction to HPC - IIT Bombay](https://www.youtube.com/playlist?list=PLOzRYVm0a65fSrgx3kroerFJtFjGGIcXm)
+          
 #### Tutorials/Guides/Articles
 ##### General
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
