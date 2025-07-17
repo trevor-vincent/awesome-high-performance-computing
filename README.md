@@ -267,7 +267,8 @@ A curated list of awesome high performance computing resources.
 - [the yt project](https://yt-project.org/) - An open-source, Python-based package for analyzing and visualizing volumetric data.
 - [vedo](https://vedo.embl.es/) - A lightweight and powerful python module for scientific analysis and visualization of 3D objects and point clouds based on VTK.
 - [visit](https://wci.llnl.gov/simulation/computer-codes/visit) - An Open Source, interactive, scalable, visualization, animation and analysis tool.
-
+- [WebDataset](https://huggingface.co/docs/hub/datasets-webdataset) - library for writing I/O pipelines for large datasets. 
+  
 #### General Purpose Scientific Computing Libraries for HPC
  - [petsc](https://petsc.org/release/)
  - [ginkgo](https://ginkgo-project.github.io/)
