@@ -685,7 +685,8 @@ A curated list of awesome high performance computing resources.
 - [VirtualOrfeo - Virtual HPC Cluster](https://gitlab.com/area7/datacenter/codes/virtualorfeo)
 - [Is there a reason to build a raspberry pi clluster](https://www.reddit.com/r/HPC/comments/1bfywk8/is_there_ever_a_reason_to_build_a_raspberry_pi/)
 - [Building a NVIDIA Jetson Cluster](https://www.hackster.io/shahizat/how-to-build-nvidia-jetson-hpc-cluster-using-slurm-ed61a7)
-      
+- [Building your own HPC using ebay parts](https://www.reddit.com/r/HPC/comments/1m7la7z/building_my_own_hpc_using_ebay_parts_beginner_tips/)
+     
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
  - [r/homelab](https://www.reddit.com/r/homelab/)
