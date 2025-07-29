@@ -257,6 +257,7 @@ A curated list of awesome high performance computing resources.
 - [KDiskMark](https://github.com/JonMagon/KDiskMark) - Benchmarking Tool For SSD/HDD Drives
 - [OpenBenchmarking](https://openbenchmarking.org/) - Open benchmarks on a variety of algorithms and hardware
 - [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - Benchmarking suite for Linux
+- [Palanteer Python/C++ Profiler](https://github.com/dfeneyrou/palanteer) - Profiler for both Python and C++
 
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
