@@ -467,6 +467,7 @@ A curated list of awesome high performance computing resources.
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It? - Paul E. McKenney](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536)
+- [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
