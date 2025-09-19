@@ -181,6 +181,7 @@ A curated list of awesome high performance computing resources.
 - [arbiter2](https://github.com/CHPC-UofU/arbiter2) - Monitors and protects interactive nodes with cgroups.
 - [Charliecloud](https://hpc.github.io/charliecloud/) - Lightweight container solution for high-performance computing (HPC).
 - [Docker](https://www.docker.com/) - A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+- [executorlib](https://github.com/pyiron/executorlib) - Minimalistic workflow framework to up-scale python functions for high-performance computing (HPC).
 - [genv](https://github.com/run-ai/genv) - GPU Environment Management for managing and scheduling GPU resources.
 - [Grafana](https://github.com/grafana/grafana) - Open-source platform for monitoring and observability, visualizing metrics.
 - [grpc](https://grpc.io/) - A high-performance, open-source universal RPC framework.
