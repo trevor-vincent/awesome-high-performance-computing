@@ -164,6 +164,7 @@ A curated list of awesome high performance computing resources.
 - [sstack](https://gitlab.com/nmsu_hpc/sstack) - A tool to install multiple software stacks such as Spack, EasyBuild, and Conda.
 - [Starfish](https://starfishstorage.com/) - Unstructured data management and metadata solution for files and objects.
 - [Warewulf](https://warewulf.lbl.gov/) - An operating system provisioning system and cluster management tool.
+- [Velda](https://github.com/velda-io/velda) - A modern cluster management and job scheduler, with personalizable dev-containers and scale-to-cloud capabilities.
 - [xCat](https://xcat.org/) - A distributed computing management and provisioning tool.
 - [XDMoD](https://supremm.xdmod.org/10.0/supremm-overview.html) - An open-source tool for managing high-performance computing resources.
 - [Globus Connect](https://www.globus.org/globus-connect) - A fast data transfer tool between supercomputers.
