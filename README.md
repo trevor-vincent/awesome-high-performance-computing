@@ -44,6 +44,7 @@ A curated list of awesome high performance computing resources.
 #### Popular HPC Programming Libraries/APIs/Tools/Standards/Simulators
 - [alpaka](https://github.com/alpaka-group/alpaka) - The alpaka library is a header-only C++17 abstraction library for accelerator development
 - [async-rdma](https://github.com/datenlord/async-rdma) - A framework for writing RDMA applications with high-level abstraction and asynchronous APIs
+- [CANN](https://developer.huawei.com/consumer/en/doc/hiai-guides/introduction-0000001051486804) - Compute Architecture for Neural Networks for Huawei Ascend GPUs
 - [CAF](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
 - [Chapel](https://chapel-lang.org/) - A Programming Language for Productive Parallel Computing on Large-scale Systems
 - [Charm++](http://charm.cs.illinois.edu/research/charm) - Parallel Programming with Migratable Objects
@@ -326,6 +327,7 @@ A curated list of awesome high performance computing resources.
 
 ### GPU
 
+- [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 - [Gpu Architecture Analysis](https://graphicscodex.courses.nvidia.com/app.html?page=_rn_parallel)
 - [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [A100 Whitepaper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)
