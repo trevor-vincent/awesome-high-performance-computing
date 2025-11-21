@@ -471,6 +471,7 @@ A curated list of awesome high performance computing resources.
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536)
 - [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
+- [Supercomputers for Linux SysAdmins](https://link.springer.com/book/10.1007/979-8-8688-1600-0)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
