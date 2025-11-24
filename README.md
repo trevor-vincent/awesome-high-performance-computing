@@ -426,6 +426,8 @@ A curated list of awesome high performance computing resources.
  - [Seymour Cray - Inventor of the Cray Supercomputer](https://en.wikipedia.org/wiki/Seymour_Cray)
  - [Larry Smarr - HPC Application Pioneer](https://en.wikipedia.org/wiki/Larry_Smarr)
  - [Donald Becker - Beowulf cluster software, Gordon Bell Prize Winner](https://en.wikipedia.org/wiki/Donald_Becker)
+ - [HPCWire Class of 2025](https://www.hpcwire.com/35-hpc-legends/)
+ - [HPCWire Class of 2024](https://www.hpcwire.com/35-hpc-legends-class-of-2024/)
   
 ## Resources
 
