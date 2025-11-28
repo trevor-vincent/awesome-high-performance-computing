@@ -477,6 +477,8 @@ A curated list of awesome high performance computing resources.
 - [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536)
 - [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 - [Supercomputers for Linux SysAdmins](https://link.springer.com/book/10.1007/979-8-8688-1600-0)
+- [Raspberry Pi Supercomputing and Scientific Programming](https://link.springer.com/book/10.1007/978-1-4842-2878-4)
+- [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
@@ -576,6 +578,7 @@ A curated list of awesome high performance computing resources.
 - [A concurrency cost hiearchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
 - [hpc-wiki.info - Tutorials and articles for HPC users, developers, administrators and specific HPC systems](https://hpc-wiki.info)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
+- [An Introduction to Parallel Programming with MPI and Python](https://materials.jeremybejarano.com/MPIwithPython/)
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
