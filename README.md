@@ -278,7 +278,7 @@ A curated list of awesome high performance computing resources.
  - [ginkgo](https://ginkgo-project.github.io/)
  - [GSL](https://www.gnu.org/software/gsl/)
  - [Scalapack](https://netlib.org/scalapack/)
- - [rapids.ai - collection of libraries for executing end-to-end data science pipelines completely in the GPU](rapids.ai)
+ - [rapids.ai](rapids.ai) - collection of libraries for executing end-to-end data science pipelines completely in the GPU
  - [trilinos](https://trilinos.github.io/)
  - [tnl project](https://tnl-project.org/)
  - [RunMat](https://github.com/runmat-org/runmat) - MATLAB-syntax runtime with automatic CPU/GPU execution and fused array math kernels.
