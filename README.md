@@ -581,6 +581,7 @@ A curated list of awesome high performance computing resources.
 - [hpc-wiki.info - Tutorials and articles for HPC users, developers, administrators and specific HPC systems](https://hpc-wiki.info)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 - [An Introduction to Parallel Programming with MPI and Python](https://materials.jeremybejarano.com/MPIwithPython/)
+- [Performance Hints](https://abseil.io/fast/hints.html)
   
 ##### Machine Learning Related
 - [Best practices for machine learning with HPC](https://info.gwdg.de/news/en/best-practices-for-machine-learning-with-hpc/)
@@ -679,6 +680,7 @@ A curated list of awesome high performance computing resources.
 
 #### Optimization Case Studies
 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
+- [Performance Hints of the Week](https://abseil.io/fast/)
   
 #### Building Clusters/Virtual Clusters
 - [Resources for learning about HPC networks and storage r/HPC](https://www.reddit.com/r/HPC/comments/17o0q5d/resources_for_learning_about_hpc_networks_and/)
