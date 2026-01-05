@@ -150,6 +150,7 @@ A curated list of awesome high performance computing resources.
 - [Lmod](https://lmod.readthedocs.io/en/latest/) - A Lua-based module system for software environment management on HPC systems.
 - [Lustre Parallel File System](https://www.lustre.org/) - A high-performance distributed filesystem for large-scale cluster computing.
 - [moosefs](https://moosefs.com/) - A fault-tolerant, highly available, distributed file system.
+- [MrPackMod](https://github.com/VictorEijkhout/MrPackMod) - TACC Alternative to Easybuild/Spack 
 - [NetApp](www.netapp.com) - Intelligent data infrastructure for various workloads.
 - [OKA](https://oka.how) - Analytics and reporting tool for HPC schedulers: helps administrators and users to understand how compute resources are used, and optimize their usage.
 - [Open Cluster Scheduler](https://github.com/hpc-gridware/clusterscheduler/) - A scalable HPC/AI workload manager based on SGE.
@@ -707,6 +708,7 @@ A curated list of awesome high performance computing resources.
 - [Building a NVIDIA Jetson Cluster](https://www.hackster.io/shahizat/how-to-build-nvidia-jetson-hpc-cluster-using-slurm-ed61a7)
 - [Building your own HPC using ebay parts](https://www.reddit.com/r/HPC/comments/1m7la7z/building_my_own_hpc_using_ebay_parts_beginner_tips/)
 - [Magic Castle - Terraform modules to replicate HPC in cloud](https://github.com/ComputeCanada/magic_castle)
+- [FireHPC](https://github.com/rackslab/FireHPC)
   
 #### Forums
  - [r/hpc](https://www.reddit.com/r/HPC/)
