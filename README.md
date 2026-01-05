@@ -480,6 +480,7 @@ A curated list of awesome high performance computing resources.
 - [Supercomputers for Linux SysAdmins](https://link.springer.com/book/10.1007/979-8-8688-1600-0)
 - [Raspberry Pi Supercomputing and Scientific Programming](https://link.springer.com/book/10.1007/978-1-4842-2878-4)
 - [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf)
+- [The Engineers Guide to C++](https://c-for-scientists-and-engineers.readthedocs.io/en/latest/index.html)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
