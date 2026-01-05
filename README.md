@@ -299,6 +299,13 @@ A curated list of awesome high performance computing resources.
 
 ## Hardware
 
+### Vendors (Work in Progress)
+- [Dell](https://www.dell.com/en-us/shopping/high-performance-computing-solutions)
+- [Lenovo](https://www.lenovo.com/ca/en/servers-storage/solutions/hpc/index.html)
+- [PureStorage](https://www.purestorage.com/)
+- [Supermicro](https://www.supermicro.com/en/solutions/high-performance-computing)
+- [VDURA](https://www.vdura.com/)
+
 ### Interconnects/Topology
 
 - [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
