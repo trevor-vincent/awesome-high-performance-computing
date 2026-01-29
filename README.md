@@ -263,6 +263,8 @@ A curated list of awesome high performance computing resources.
 - [OpenBenchmarking](https://openbenchmarking.org/) - Open benchmarks on a variety of algorithms and hardware
 - [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - Benchmarking suite for Linux
 - [Palanteer Python/C++ Profiler](https://github.com/dfeneyrou/palanteer) - Profiler for both Python and C++
+- [HECBioSim Benchmarks](https://www.hecbiosim.ac.uk/access-hpc/hpc-benchmarking-suite) - The HECBioSim benchmark suite consists of a set of simple benchmarks for a number of popular Molecular Dynamics (MD) engines
+- [JUPITER Benchmark Suite](https://github.com/FZJ-JSC/jubench) - The UPITER Benchmark Suite incorporates 16 applications from various domains. It was designed for and used in the procurement of JUPITER, the first European exascale supercomputer. 
 
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
