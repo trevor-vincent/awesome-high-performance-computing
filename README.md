@@ -808,6 +808,11 @@ A curated list of awesome high performance computing resources.
   - [List of Federally funded research and development centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers)
   - [The HPC.NRW competence network of North-Rhine-Westphalia](https://hpc.dh.nrw/)
 
+#### Summer schools
+- [CINECA Summer HPC School for Heterogeneous Computing](https://eventi.cineca.it/en/hpc/cineca-summer-hpc-school-heterogeneous-computing-2025)
+- [CSC Summer School in High-Performance Computing](https://csc.fi/en/training-calendar/csc-summer-school-in-high-performance-computing-2026/)
+- [HPC Summer school](https://www.ihpcss.org/)
+
 #### Interesting r/HPC posts
   - [finding a supercomputer to use for research](https://www.reddit.com/r/HPC/comments/19e58z7/how_do_i_go_about_finding_a_supercomputer_to_use/)
 
@@ -870,7 +875,6 @@ A curated list of awesome high performance computing resources.
 #### Misc.
   - [Exascale Project](https://www.exascaleproject.org/)
   - [Pocket HPC Survival Guide](https://tin6150.github.io/psg/lsf.html)
-  - [HPC Summer school](https://www.ihpcss.org/)
   - [Overview of all linear algebra packages](http://www.netlib.org/utk/people/JackDongarra/la-sw.html)
   - [Latency numbers](http://norvig.com/21-days.html#answers)
   - [Nvidia HPC benchmarks](https://ngc.nvidia.com/catalog/containers/nvidia:hpc-benchmarks)
