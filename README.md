@@ -811,7 +811,7 @@ A curated list of awesome high performance computing resources.
 #### Summer schools
 - [CINECA Summer HPC School for Heterogeneous Computing](https://eventi.cineca.it/en/hpc/cineca-summer-hpc-school-heterogeneous-computing-2025)
 - [CSC Summer School in High-Performance Computing](https://csc.fi/en/training-calendar/csc-summer-school-in-high-performance-computing-2026/)
-- [HPC Summer school](https://www.ihpcss.org/)
+- [IHPCSS Summer school](https://www.ihpcss.org/)
 
 #### Interesting r/HPC posts
   - [finding a supercomputer to use for research](https://www.reddit.com/r/HPC/comments/19e58z7/how_do_i_go_about_finding_a_supercomputer_to_use/)
