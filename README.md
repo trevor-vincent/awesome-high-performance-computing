@@ -492,6 +492,7 @@ A curated list of awesome high performance computing resources.
 - [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf)
 - [The Engineers Guide to C++](https://c-for-scientists-and-engineers.readthedocs.io/en/latest/index.html)
 - [Programming with POSIX threads](https://www.amazon.ca/Programming-POSIX-Threads-David-Butenhof/dp/0201633922)
+- [Grokking concurrency](https://www.oreilly.com/videos/grokking-concurrency/9781633439771AU/)
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
