@@ -391,6 +391,7 @@ A curated list of awesome high performance computing resources.
 - [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/tutorials-running-your-first-job-on-version-3.html)
 - [AWS HPC Workshop](https://www.hpcworkshops.com/)
 - [An Empirical Study of Containerized MPI and GUI Application on HPC in the Cloud](https://ieeexplore.ieee.org/abstract/document/10046607)
+- [Unlocking Python’s Cores: Hardware Usage and Energy Implications of Removing the GIL](https://arxiv.org/pdf/2603.04782)
 
 ### Custom/FPGA/ASIC/APU
 
