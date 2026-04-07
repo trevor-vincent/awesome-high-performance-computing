@@ -38,6 +38,7 @@ A curated list of awesome high performance computing resources.
    
 ### Trends
  - [Trends in HPC for AI workloads](https://epochai.org/trends)
+ - [AI predictions up to 2027](https://ai-2027.com/)
  
 ## Software
 
