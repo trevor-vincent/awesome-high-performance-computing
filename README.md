@@ -598,6 +598,7 @@ A curated list of awesome high performance computing resources.
 - [Setting the record straight: What is HPC?](https://www.gigabyte.com/Article/setting-the-record-straight-what-is-hpc-a-tech-guide-by-gigabyte?lan=en)
 - [Atomic operations and contention](https://fgiesen.wordpress.com/2014/08/18/atomics-and-contention/)
 - [A concurrency cost hiearchy](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
+- [Energy vs. performance: Introducing the Z-plot](https://blogs.fau.de/hager/archives/7504) - Georg Hager on visualizing energy-to-solution vs. performance to analyze core count and clock speed tradeoffs.
 - [hpc-wiki.info - Tutorials and articles for HPC users, developers, administrators and specific HPC systems](https://hpc-wiki.info)
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 - [An Introduction to Parallel Programming with MPI and Python](https://materials.jeremybejarano.com/MPIwithPython/)
