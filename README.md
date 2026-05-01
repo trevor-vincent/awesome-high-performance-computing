@@ -780,6 +780,7 @@ A curated list of awesome high performance computing resources.
  - [IEEE High Performance Extreme Computing Conference (HPEC)](https://ieee-hpec.org/cfp.htm)
  - [FosDem](https://fosdem.org/)
  - [Energy HPC Conference](https://www.energyhpc.rice.edu/)
+ - [International Workshop on OpenMP](https://www.iwomp.org/)
    
 #### Communities/Chat Groups
   - [HPC Social Discord server](https://hpc.social/projects/chat/)
