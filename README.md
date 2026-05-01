@@ -435,6 +435,7 @@ A curated list of awesome high performance computing resources.
 - [Cray](https://en.wikipedia.org/wiki/Cray)
 - [Digital Signal Processors](https://en.wikipedia.org/wiki/Digital_signal_processor)
 - [Vector Processor](https://en.wikipedia.org/wiki/Vector_processor)
+- [Transputer](https://en.wikipedia.org/wiki/Transputer)
   
 ## People
 
