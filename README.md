@@ -389,6 +389,7 @@ A curated list of awesome high performance computing resources.
 - [Scaleway](https://www.scaleway.com/en/)
 - [Chameleon Cloud](https://www.chameleoncloud.org/)
 - [Lambda Labs](https://lambdalabs.com/)
+- [NVIDIA Brev](https://developer.nvidia.com/brev)
 - [Runpod](https://www.runpod.io/)
 
 #### Articles/Papers
