@@ -52,7 +52,7 @@ A curated list of awesome high performance computing resources.
 - [Cilk Plus](https://www.cilkplus.org/) - C/C++ Extension for Data and Task Parallelism
 - [Codon](https://github.com/exaloop/codon) - high-performance Python compiler that compiles Python code to native machine code without any runtime overhead
 - [CUDA](https://developer.nvidia.com/cuda-toolkit) - High performance NVIDIA GPU acceleration
-- [CUDA-oxide](https://github.com/NVlabs/cuda-oxide)
+- [CUDA-oxide](https://github.com/NVlabs/cuda-oxide) - custom rustc backend for compiling GPU kernels in pure Rust
 - [dask](https://dask.org) - Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - An easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference
 - [DeterminedAI](https://www.determined.ai/) - Distributed deep learning
