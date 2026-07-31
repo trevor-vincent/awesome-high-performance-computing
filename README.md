@@ -177,6 +177,7 @@ A curated list of awesome high performance computing resources.
 - [Slurm Web](https://slurm-web.com/) - Open source web dashboard for Slurm HPC clusters.
 - [s9s](https://s9s.dev/) - TUI for SLURM cluster management
 - [lazyslurm](https://github.com/hill/lazyslurm) - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
+- [slurm-why](https://github.com/ajinkyakadam/slurm-why) - Plain-English diagnoses for confusing Slurm job states (OOM kills, pending-reason codes, impossible requests) instead of decoding raw sacct/squeue/scontrol output by hand.
   
 #### HPC-specific Operating Systems
 - [Kitten](https://www.sandia.gov/app/uploads/sites/210/2022/11/pedretti_lanl11.pdf) - A lightweight kernel designed for high-performance computing. It focuses on providing low noise and predictable performance for HPC applications.
