@@ -555,7 +555,6 @@ A curated list of awesome high performance computing resources.
 #### Tutorials/Guides/Articles
 ##### General
 - [MpiTutorial](mpitutorial.com) - A fantastic mpi tutorial
-- [Beginners Guide to HPC](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
 - [Rookie HPC Guide](https://rookiehpc.github.io/index.html)
 - [RedHat High Performance Computing 101](https://www.redhat.com/en/blog/high-performance-computing-101)
 - [Parallel Computing Training Tutorials](https://hpc.llnl.gov/training/tutorials) - Lawrence Livermore National Laboratory
