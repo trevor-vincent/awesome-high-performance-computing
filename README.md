@@ -510,7 +510,7 @@ A curated list of awesome high performance computing resources.
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
 - [Berkeley: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/) - Detailed course on HPC
 - [CS6290 High-performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007) - Milos Prvulovic and Catherine Gamboa at George Tech
-- [Udacity High Performance Computing](https://www..com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
+- [Udacity High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
 - [Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 - [Vanderbilt - Intro to HPC](https://github.com/vanderbiltscl/SC3260_HPC)
 - [Illinois - Intro to HPC](https://andreask.cs.illinois.edu/Teaching/HPCFall2012/) - Creator of PyCuda
