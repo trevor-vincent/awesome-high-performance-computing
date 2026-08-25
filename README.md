@@ -205,6 +205,7 @@ A curated list of awesome high performance computing resources.
 - [redun](https://github.com/insitro/redun) - Workflow engine that emphasizes simplicity, reliability, and scalability.
 - [remora](https://github.com/TACC/remora) - Tool for monitoring and reporting the performance of batch jobs on HPC systems.
 - [ruptime](https://github.com/alexmyczko/ruptime) - A utility for monitoring the status of computational jobs and systems.
+- [server-spy](https://lennart-rth.github.io/server-spy/) - A monitoring tool for multi-run experiments on shared servers. It tracks congestion (PSI, scheduler wait) and shows how much specific runs got slowed down by other users' jobs, helping researchers identify skewed experiment comparisons.
 - [slop](https://github.com/buzh/slop) - "top"-like command for slurm clusters
 - [Slurmvision slurm dashboard](https://github.com/Ruunyox/slurmvision) - A dashboard for monitoring and managing Slurm jobs.
 - [slurm docker cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster implemented using Docker containers, for development and testing.
