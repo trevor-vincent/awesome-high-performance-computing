@@ -212,7 +212,7 @@ A curated list of awesome high performance computing resources.
 - [srunx](https://github.com/ksterx/srunx) - Python toolkit for managing SLURM jobs and workflows. Provides a CLI (sbatch / squeue / scancel parity), a FastAPI Web UI, an MCP server for natural-language control from Claude, YAML workflows with parameter sweeps and inter-job dependencies, GPU resource monitoring, SSH-based remote execution with rsync project sync, and Slack notifications.
 - [Stui slurm dashboard for the terminal](https://github.com/mil-ad/stui) - A terminal-based UI for managing and monitoring Slurm clusters.
 - [Vaex](https://github.com/vaexio/vaex) - A Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
-
+- [HPC Client GUI](https://github.com/mskomek/hpc-client-gui) - A cross-platform desktop client for SSH, SFTP, remote file management, Slurm job submission and monitoring, terminal workflows, and optional X11 forwarding. Runs locally and requires no server-side installation. Source-available for noncommercial use.
   
 #### Debugging Tools for HPC
 
