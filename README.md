@@ -242,6 +242,7 @@ A curated list of awesome high performance computing resources.
 - [vampir](https://vampir.eu/) - A tool for detailed analysis of MPI program executions by visualizing their event traces.
 - [bytehound memory profiler](https://github.com/koute/bytehound) - A detailed memory profiler for tracking down memory issues and leaks.
 - [Flamegraphs](https://www.brendangregg.com/flamegraphs.html) - Visualization tool for profiling software, allowing quick identification of performance bottlenecks.
+- [flameox](https://github.com/morluto/flameox) - Profiling and optimization toolkit for agents that captures and compares evidence from native services, PyTorch, GPU kernels, and inference workloads.
 - [fio](https://linux.die.net/man/1/fio) - Flexible I/O tester for benchmarking and stress/hardware verification.
 - [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS) - Provides key performance indicators for IBM Spectrum Scale, aiding in performance tuning and monitoring.
 - [Ior](https://github.com/hpc/ior) - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
