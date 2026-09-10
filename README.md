@@ -459,58 +459,60 @@ A curated list of awesome high performance computing resources.
 ## Resources
 
 #### Books/Manuals
-- [Free Modern HPC Books by Victor Eijkhout](https://theartofhpc.com/)
-- [High Performance Parallel Runtimes](https://www.amazon.com/High-Performance-Parallel-Runtimes-Implementation-ebook/dp/B08WH82KF9/ref=sr_1_1?keywords=High+Performance+Parallel+Runtimes&qid=1689287759&sr=8-1)
-- [The OpenMP Common Core: Making OpenMP Simple Again](https://www.amazon.com/OpenMP-Common-Core-Engineering-Computation/dp/0262538865/ref=d_pd_sbs_sccl_2_1/130-5660046-7109016?pd_rd_w=Cqnxw&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=HG04QQS87WDHAGV578EE&pd_rd_wg=u0csS&pd_rd_r=8a6a0024-5dec-4934-8fa5-99e24d9fc4bd&pd_rd_i=0262538865&psc=1)
-- [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
-- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-- [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
-- [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.ca/Introduction-Performance-Computing-Scientists-Engineers/dp/143981192X/ref=sr_1_1?crid=1L276HPEB8K7I&keywords=Introduction+to+High+Performance+Computing+for+Scientists+and+Engineers&qid=1645137608&s=books&sprefix=introduction+to+high+performance+computing+for+scientists+and+engineers%2Cstripbooks%2C46&sr=1-1) - Hager 2010
-- [Computer Organization and Design](https://www.amazon.ca/Computer-Organization-Design-RISC-V-Interface/dp/0128203315/ref=sr_1_1?crid=1XLX1HWLGRVO6&keywords=Computer+Organization+and+Design&qid=1645137443&s=books&sprefix=computer+organization+and+design%2Cstripbooks%2C48&sr=1-1)
-- [Optimizing HPC Applications with Intel Cluster Tools: Hunting Petaflops](C+Applications+with+Intel+Cluster+Tools&qid=1645137507&s=books&sprefix=optimizing+hpc+applications+with+intel+cluster+tools%2Cstripbooks%2C80&sr=1-1)
+- [Distributed AI Systems](https://www.oreilly.com/library/view/distributed-ai-systems/9781807301712/) - Fuheng Wu 2026
+- [Supercomputers for Linux SysAdmins](https://link.springer.com/book/10.1007/979-8-8688-1600-0) - Vladimir Zhumatiy 2025
+- [Grokking concurrency](https://www.oreilly.com/videos/grokking-concurrency/9781633439771AU/) - Kirill Bobrov 2024
+- [High Performance Computing in Biomimetics Modeling, Architecture and Applications](https://link.springer.com/book/10.1007/978-981-97-1017-1) - 2024
+- [Programming Massively Parallel Processors 4th Edition 2023](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=18EW0LVO2VFMC&keywords=Programming+Massively+Parallel+Processors+4th+Edition+2023&qid=1695110729&s=books&sprefix=programming+massively+parallel+processors+4th+edition+2023%2Cstripbooks%2C88&sr=1-1)
+- [Scaling Python with Dask](https://www.oreilly.com/library/view/scaling-python-with/9781098119867/) - Holden Karau, Mika Kimmins 2023
+- [HPC, Big Data, AI Convergence Towards Exascale: Challenge and Vision](https://www.taylorfrancis.com/books/edit/10.1201/9781003176664/hpc-big-data-ai-convergence-towards-exascale-olivier-terzo-jan-martinovi%C4%8D?refId=2cd8b0ad-d63d-42fa-9c3e-fe47fbbe0e29&context=ubx) - 2022
+- [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf) - Gregor von Laszewski, Fidel Leal 2022
+- [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing) - Robert Robey, Yuliana Zamora 2021
+- [High Performance Parallel Runtimes](https://www.amazon.com/High-Performance-Parallel-Runtimes-Implementation-ebook/dp/B08WH82KF9/ref=sr_1_1?keywords=High+Performance+Parallel+Runtimes&qid=1689287759&sr=8-1) - Michael Klemm, Jim Cownie 2021
 - [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) - Victor Eijkhout 2021
 - [Parallel Programming for Science and Engineering](https://web.corral.tacc.utexas.edu/CompEdu/pdf/pcse/EijkhoutParallelProgramming.pdf) - Victor EIjkhout 2021
-- [Parallel Programming for Science and Engineering - HTML Version](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
-- [C++ High Performance](https://www.amazon.ca/High-Performance-Master-optimizing-functioning/dp/1839216549/ref=sr_1_1?crid=31OVX4VQ6Z84X&keywords=C%2B%2B+high+performance&qid=1640671313&sprefix=c%2B%2B+high+performance%2Caps%2C99&sr=8-1)
-- [Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL](https://www.apress.com/gp/book/9781484255735)
-- [High Performance Python](https://www.amazon.ca/High-Performance-Python-Performant-Programming/dp/1449361595)
+- [Parallel Programming for Science and Engineering - HTML Version](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/) - Victor Eijkhout 2021
+- [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111) - Fedor Pikus 2021
+- [Computer Organization and Design](https://www.amazon.ca/Computer-Organization-Design-RISC-V-Interface/dp/0128203315/ref=sr_1_1?crid=1XLX1HWLGRVO6&keywords=Computer+Organization+and+Design&qid=1645137443&s=books&sprefix=computer+organization+and+design%2Cstripbooks%2C48&sr=1-1) - 2020
+- [C++ High Performance](https://www.amazon.ca/High-Performance-Master-optimizing-functioning/dp/1839216549/ref=sr_1_1?crid=31OVX4VQ6Z84X&keywords=C%2B%2B+high+performance&qid=1640671313&sprefix=c%2B%2B+high+performance%2Caps%2C99&sr=8-1) - Björn Andrist, Viktor Sehr 2020
+- [Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL](https://www.apress.com/gp/book/9781484255735) - 2020
+- [Systems Performance - Brendan Gregg](https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158) - 2020
+- [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book) - Denis Bakhvalov 2020
+- [The OpenMP Common Core: Making OpenMP Simple Again](https://www.amazon.com/OpenMP-Common-Core-Engineering-Computation/dp/0262538865/ref=d_pd_sbs_sccl_2_1/130-5660046-7109016?pd_rd_w=Cqnxw&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=HG04QQS87WDHAGV578EE&pd_rd_wg=u0csS&pd_rd_r=8a6a0024-5dec-4934-8fa5-99e24d9fc4bd&pd_rd_i=0262538865&psc=1) - 2019
+- [The Student Supercomputer Challenge Guide](https://www.amazon.ca/Student-Supercomputer-Challenge-Guide-Supercomputing/dp/9811338310/ref=sr_1_1?crid=2J5374I76RP2Y&keywords=The+student+supercomputer+challenge&qid=1657060946&sprefix=the+student+supercomputer+challenge%2Caps%2C53&sr=8-1) - 2018
+- [High Performance Computing: Modern Systems and Practices](https://www.amazon.ca/High-Performance-Computing-Systems-Practices/dp/012420158X) - Thomas Sterling, Maciej Brodowicz, Matthew Anderson 2017
+- [Introduction to Parallel Computing](https://www.amazon.ca/Introduction-Parallel-Computing-Zbigniew-Czech/dp/1107174392/ref=sr_1_7?dchild=1&keywords=parallel+computing&qid=1625711415&sr=8-7) - Zbigniew J. Czech 2017
+- [Practical guide to bare metal C++](https://arobenko.github.io/bare_metal_cpp/) - Alex Robenko 2017
+- [Raspberry Pi Supercomputing and Scientific Programming](https://link.springer.com/book/10.1007/978-1-4842-2878-4) - 2017
+- [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html#ch:work-stealing) - Umut A. Acar 2016
+- [OpenMP Examples - openmp.org](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf) - 2016
+- [Problem-solving in High Performance Computing: A Situational Awareness Approach with Linux](https://www.amazon.com/Problem-solving-High-Performance-Computing-Situational/dp/0128010193) - Igor Ljubuncic 2015
+- [Power and Performance_ Software Analysis and Optimization](https://www.amazon.ca/Power-Performance-Software-Analysis-Optimization-ebook/dp/B00WZ1AX6S/ref=sr_1_1?crid=22HMPRFCYAXC0&keywords=Power+and+Performance_+Software+Analysis+and+Optimization&qid=1695111518&s=books&sprefix=power+and+performance_+software+analysis+and+optimization%2Cstripbooks%2C85&sr=1-1) - Jim Kukunas 2015
+- [Optimizing HPC Applications with Intel Cluster Tools: Hunting Petaflops](C+Applications+with+Intel+Cluster+Tools&qid=1645137507&s=books&sprefix=optimizing+hpc+applications+with+intel+cluster+tools%2Cstripbooks%2C80&sr=1-1) - 2014
+- [High Performance Python](https://www.amazon.ca/High-Performance-Python-Performant-Programming/dp/1449361595) - Micha Gorelick, Ian Ozsvald 2014
+- [Gropp books on MPI](https://wgropp.cs.illinois.edu/usingmpiweb/) - 2014
 - [C++ Concurrency in Action: Practical Multithreading](https://www.manning.com/books/c-plus-plus-concurrency-in-action) - Anthony Williams 2012
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376/ref=sr_1_1?ie=UTF8&qid=1438003865&sr=8-1&keywords=maurice+herlihy) - Maurice Herlihy 2012
-- [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html#ch:work-stealing) - Umut A. Acar 2016
-- [Introduction to Parallel Computing](https://www.amazon.ca/Introduction-Parallel-Computing-Zbigniew-Czech/dp/1107174392/ref=sr_1_7?dchild=1&keywords=parallel+computing&qid=1625711415&sr=8-7) - Zbigniew J. Czech
-- [Practical guide to bare metal C++](https://arobenko.github.io/bare_metal_cpp/)
-- [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
-- [Optimizing subroutines in assembly code](https://www.agner.org/optimize/optimizing_assembly.pdf)
-- [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf)
-- [Parallel Programming with MPI](https://www.cs.usfca.edu/~peter/ppmpi/)
-- [HPC, Big Data, AI Convergence Towards Exascale: Challenge and Vision](https://www.taylorfrancis.com/books/edit/10.1201/9781003176664/hpc-big-data-ai-convergence-towards-exascale-olivier-terzo-jan-martinovi%C4%8D?refId=2cd8b0ad-d63d-42fa-9c3e-fe47fbbe0e29&context=ubx)
-- [Introduction to parallel computing](https://www.amazon.com/Introduction-Parallel-Computing-Ananth-Grama/dp/0201648652/ref=sr_1_1?crid=LE1VD245VDX5&keywords=Ananth+Grama+-+Introduction+to+parallel+computing&qid=1644907263&sprefix=ananth+grama+-+introduction+to+parallel+computing%2Caps%2C43&sr=8-1) - Ananth Grama
-- [The Student Supercomputer Challenge Guide](https://www.amazon.ca/Student-Supercomputer-Challenge-Guide-Supercomputing/dp/9811338310/ref=sr_1_1?crid=2J5374I76RP2Y&keywords=The+student+supercomputer+challenge&qid=1657060946&sprefix=the+student+supercomputer+challenge%2Caps%2C53&sr=8-1)
+- [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) - 2011
+- [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.ca/Introduction-Performance-Computing-Scientists-Engineers/dp/143981192X/ref=sr_1_1?crid=1L276HPEB8K7I&keywords=Introduction+to+High+Performance+Computing+for+Scientists+and+Engineers&qid=1645137608&s=books&sprefix=introduction+to+high+performance+computing+for+scientists+and+engineers%2Cstripbooks%2C46&sr=1-1) - Hager 2010
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) - Allen B. Downey 2008
+- [Software Optimization Cookbook](https://www.amazon.ca/Software-Optimization-Cookbook-Performance-Platforms/dp/0976483211) - 2005
+- [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536) - Robert W. Lucke 2004
+- [Introduction to parallel computing](https://www.amazon.com/Introduction-Parallel-Computing-Ananth-Grama/dp/0201648652/ref=sr_1_1?crid=LE1VD245VDX5&keywords=Ananth+Grama+-+Introduction+to+parallel+computing&qid=1644907263&sprefix=ananth+grama+-+introduction+to+parallel+computing%2Caps%2C43&sr=8-1) - Ananth Grama 2003
+- [Parallel Programming with MPI](https://www.cs.usfca.edu/~peter/ppmpi/) - Peter Pacheco 1997
+- [Programming with POSIX threads](https://www.amazon.ca/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) - David Butenhof 1997
+
+Continuously updated (no single publication year):
+- [Free Modern HPC Books by Victor Eijkhout](https://theartofhpc.com/)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Sergey Slotin
+- [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf) - Agner Fog
+- [Optimizing subroutines in assembly code](https://www.agner.org/optimize/optimizing_assembly.pdf) - Agner Fog
+- [Microarchitecture of Intel/AMD CPUs](https://www.agner.org/optimize/microarchitecture.pdf) - Agner Fog
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [E-Zines on Bash, Linux, Perf, etc - Julia Evans](https://wizardzines.com/)
-- [The Art of Writing Efficient Programs: An Advanced Programmer's Guide to Efficient Hardware Utilization and Compiler Optimizations Using C++ Examples](https://www.amazon.ca/Art-Writing-Efficient-Programs-optimizations/dp/1800208111)
-- [OpenMP Examples - openmp.org](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)
 - [Latest books on OpemMP - openmp.org](https://www.openmp.org/resources/openmp-books/)
-- [Programming Massively Parallel Processors 4th Edition 2023](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=18EW0LVO2VFMC&keywords=Programming+Massively+Parallel+Processors+4th+Edition+2023&qid=1695110729&s=books&sprefix=programming+massively+parallel+processors+4th+edition+2023%2Cstripbooks%2C88&sr=1-1)
-- [Software Optimization Cookbook](https://www.amazon.ca/Software-Optimization-Cookbook-Performance-Platforms/dp/0976483211)
-- [Power and Performance_ Software Analysis and Optimization](https://www.amazon.ca/Power-Performance-Software-Analysis-Optimization-ebook/dp/B00WZ1AX6S/ref=sr_1_1?crid=22HMPRFCYAXC0&keywords=Power+and+Performance_+Software+Analysis+and+Optimization&qid=1695111518&s=books&sprefix=power+and+performance_+software+analysis+and+optimization%2Cstripbooks%2C85&sr=1-1)
-- [Gropp books on MPI](https://wgropp.cs.illinois.edu/usingmpiweb/)
-- [Performance Analysis and Tuning on Modern CPUs](https://book.easyperf.net/perf_book)
-- [High Performance Computing in Biomimetics Modeling, Architecture and Applications](https://link.springer.com/book/10.1007/978-981-97-1017-1)
-- [Systems Performance - Brendan Gregg](https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It? - Paul E. McKenney](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
-- [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536)
-- [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
-- [Supercomputers for Linux SysAdmins](https://link.springer.com/book/10.1007/979-8-8688-1600-0)
-- [Raspberry Pi Supercomputing and Scientific Programming](https://link.springer.com/book/10.1007/978-1-4842-2878-4)
-- [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf)
 - [The Engineers Guide to C++](https://c-for-scientists-and-engineers.readthedocs.io/en/latest/index.html)
-- [Programming with POSIX threads](https://www.amazon.ca/Programming-POSIX-Threads-David-Butenhof/dp/0201633922)
-- [Grokking concurrency](https://www.oreilly.com/videos/grokking-concurrency/9781633439771AU/)
-- [Distributed AI Systems](https://www.oreilly.com/library/view/distributed-ai-systems/9781807301712/)
-- [Problem-solving in High Performance Computing: A Situational Awareness Approach with Linux](https://www.amazon.com/Problem-solving-High-Performance-Computing-Situational/dp/0128010193) - Igor Ljubuncic 2015
-- [Scaling Python with Dask](https://www.oreilly.com/library/view/scaling-python-with/9781098119867/) - Holden Karau, Mika Kimmins 2023
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
