@@ -465,6 +465,7 @@ A curated list of awesome high performance computing resources.
 - [High Performance Computing in Biomimetics Modeling, Architecture and Applications](https://link.springer.com/book/10.1007/978-981-97-1017-1) - 2024
 - [Programming Massively Parallel Processors 4th Edition 2023](https://www.amazon.ca/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_1?crid=18EW0LVO2VFMC&keywords=Programming+Massively+Parallel+Processors+4th+Edition+2023&qid=1695110729&s=books&sprefix=programming+massively+parallel+processors+4th+edition+2023%2Cstripbooks%2C88&sr=1-1)
 - [Scaling Python with Dask](https://www.oreilly.com/library/view/scaling-python-with/9781098119867/) - Holden Karau, Mika Kimmins 2023
+- [Unmatched - 50 Years of Supercomputing (2023)](https://www.routledge.com/Unmatched-50-Years-of-Supercomputing/Barkai/p/book/9780367479619) - David Barkai 2023
 - [HPC, Big Data, AI Convergence Towards Exascale: Challenge and Vision](https://www.taylorfrancis.com/books/edit/10.1201/9781003176664/hpc-big-data-ai-convergence-towards-exascale-olivier-terzo-jan-martinovi%C4%8D?refId=2cd8b0ad-d63d-42fa-9c3e-fe47fbbe0e29&context=ubx) - 2022
 - [MPI with Python (free)](https://cloudmesh.github.io/cloudmesh-mpi/report-mpi.pdf) - Gregor von Laszewski, Fidel Leal 2022
 - [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing) - Robert Robey, Yuliana Zamora 2021
@@ -500,6 +501,7 @@ A curated list of awesome high performance computing resources.
 - [Building Clustered Linux Systems](https://www.amazon.com/Building-Clustered-Linux-Systems-Robert/dp/0131448536) - Robert W. Lucke 2004
 - [Introduction to parallel computing](https://www.amazon.com/Introduction-Parallel-Computing-Ananth-Grama/dp/0201648652/ref=sr_1_1?crid=LE1VD245VDX5&keywords=Ananth+Grama+-+Introduction+to+parallel+computing&qid=1644907263&sprefix=ananth+grama+-+introduction+to+parallel+computing%2Caps%2C43&sr=8-1) - Ananth Grama 2003
 - [Parallel Programming with MPI](https://www.cs.usfca.edu/~peter/ppmpi/) - Peter Pacheco 1997
+- [The Supermen: The Story of Seymour Cray ... (1997)](https://www.amazon.ca/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852/ref=sr_1_1?crid=1IOWC3IOYWPOP&keywords=seymour+cray&qid=1690959561&sprefix=seymour+cray%2Caps%2C88&sr=8-1) - Charles J. Murray 1997
 - [Programming with POSIX threads](https://www.amazon.ca/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) - David Butenhof 1997
 
 Continuously updated (no single publication year):
