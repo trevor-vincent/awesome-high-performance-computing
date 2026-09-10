@@ -508,6 +508,9 @@ A curated list of awesome high performance computing resources.
 - [The Engineers Guide to C++](https://c-for-scientists-and-engineers.readthedocs.io/en/latest/index.html)
 - [Programming with POSIX threads](https://www.amazon.ca/Programming-POSIX-Threads-David-Butenhof/dp/0201633922)
 - [Grokking concurrency](https://www.oreilly.com/videos/grokking-concurrency/9781633439771AU/)
+- [Distributed AI Systems](https://www.oreilly.com/library/view/distributed-ai-systems/9781807301712/)
+- [Problem-solving in High Performance Computing: A Situational Awareness Approach with Linux](https://www.amazon.com/Problem-solving-High-Performance-Computing-Situational/dp/0128010193) - Igor Ljubuncic 2015
+- [Scaling Python with Dask](https://www.oreilly.com/library/view/scaling-python-with/9781098119867/) - Holden Karau, Mika Kimmins 2023
     
 #### Courses
 - [HPC Carpentry](https://www.hpc-carpentry.org/)
