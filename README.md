@@ -248,6 +248,7 @@ A curated list of awesome high performance computing resources.
 - [Ior](https://github.com/hpc/ior) - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
 - [ngstress](https://github.com/ColinIanKing/stress-ng) - A versatile tool for stressing various subsystems of a computer to find hardware faults or to benchmark performance.
 - [Hotspot](https://github.com/KDAB/hotspot/) - The Linux perf GUI for in-depth performance analysis and visualization of software behavior.
+- [HPC Challenge Benchmark Suite](https://hpcchallenge.org/hpcc/) - benchmark suite that measures a range memory access patterns across CPU/GPU nodes.
 - [mixbench](https://github.com/ekondis/mixbench) - A benchmark suite designed to evaluate CPUs and GPUs across different compute and memory operations.
 - [pmu-tools (toplev)](https://github.com/andikleen/pmu-tools) - Performance monitoring tools for modern Intel CPUs, offering detailed insights into hardware and application performance.
 - [SPEC CPU Benchmark](https://www.spec.org/benchmarks.html) - A benchmark suite designed to provide a comparative measure of compute-intensive performance across the widest practical range of hardware.
