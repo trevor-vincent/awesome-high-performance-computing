@@ -670,6 +670,8 @@ Continuously updated (no single publication year):
 - [Developer Stories - The path to a career in high performance computing is not always equitable or clear.](https://rseng.github.io/devstories/2024/jay-lofstead/)
 - [Developer Stories - HPCToolkit](https://rseng.github.io/devstories/2024/wileam-phan/)
 - [Chain of Thought - Tuning GPU Performance with AI Agents (AMD ROCm 10)](https://chainofthought.show/podcast/72-tuning-gpu-performance-with-ai-agents-amds-anush-elangovan-on-rocm-10/)
+- [DEEP Podcast - GPU & FPGA in Radio Astronomy](https://deep-projects.eu/podcast/) - Dr. John W. Romein on using accelerators for radio astronomy workloads.
+- [Let's Talk Exascale - ECP Leadership on Exascale Computing](https://www.exascaleproject.org/special-podcast-episode-ecp-leadership-discusses-project-highlights-challenges-and-the-expected-impact-of-exascale-computing/) - Exascale Computing Project leaders discuss porting scientific applications to GPU systems.
   
 #### Video Presentations/Courses/Channels
 - [Argonne lectures on Extreme Scale Computing 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
