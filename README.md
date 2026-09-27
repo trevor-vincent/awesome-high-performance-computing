@@ -669,6 +669,7 @@ Continuously updated (no single publication year):
 - [HPCPodcast](https://insidehpc.com/category/resources/hpc-podcast/)
 - [Developer Stories - The path to a career in high performance computing is not always equitable or clear.](https://rseng.github.io/devstories/2024/jay-lofstead/)
 - [Developer Stories - HPCToolkit](https://rseng.github.io/devstories/2024/wileam-phan/)
+- [Chain of Thought - Tuning GPU Performance with AI Agents (AMD ROCm 10)](https://chainofthought.show/podcast/72-tuning-gpu-performance-with-ai-agents-amds-anush-elangovan-on-rocm-10/)
   
 #### Video Presentations/Courses/Channels
 - [Argonne lectures on Extreme Scale Computing 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
