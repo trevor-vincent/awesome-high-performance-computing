@@ -247,6 +247,7 @@ A curated list of awesome high performance computing resources.
 - [IBM Spectrum Scale Key Performance Indicators (KPI)](https://github.com/IBM/SpectrumScale_NETWORK_READINESS) - Provides key performance indicators for IBM Spectrum Scale, aiding in performance tuning and monitoring.
 - [Ior](https://github.com/hpc/ior) - A parallel file system I/O benchmarking tool used widely in HPC for testing storage systems.
 - [ngstress](https://github.com/ColinIanKing/stress-ng) - A versatile tool for stressing various subsystems of a computer to find hardware faults or to benchmark performance.
+- [Pantheon](https://github.com/pantheongpu/pantheon) - A diagnostics and stress-testing suite for NVIDIA and AMD GPUs that verifies its results to detect silent data corruption and reads the error counters of each card before and after a run.
 - [Hotspot](https://github.com/KDAB/hotspot/) - The Linux perf GUI for in-depth performance analysis and visualization of software behavior.
 - [HPC Challenge Benchmark Suite](https://hpcchallenge.org/hpcc/) - benchmark suite that measures a range memory access patterns across CPU/GPU nodes.
 - [mixbench](https://github.com/ekondis/mixbench) - A benchmark suite designed to evaluate CPUs and GPUs across different compute and memory operations.
