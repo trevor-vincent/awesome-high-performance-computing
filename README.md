@@ -167,6 +167,7 @@ A curated list of awesome high performance computing resources.
 - [Slurm](https://slurm.schedmd.com/overview.html) - A cluster management and job scheduling system for Linux clusters.
 - [Spectrum LSF](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for distributed high performance computing (HPC)
 - [Spack](https://spack.io/) - A package manager for HPC/supercomputers.
+- [Spinifex](https://github.com/mulgadc/spinifex) - Open-source, AWS-compatible private cloud for CPU and GPU clusters, with KVM instances, GPU passthrough, EBS, S3 and VPC on your own hardware.
 - [sstack](https://gitlab.com/nmsu_hpc/sstack) - A tool to install multiple software stacks such as Spack, EasyBuild, and Conda.
 - [Starfish](https://starfishstorage.com/) - Unstructured data management and metadata solution for files and objects.
 - [Warewulf](https://warewulf.lbl.gov/) - An operating system provisioning system and cluster management tool.
