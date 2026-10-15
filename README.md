@@ -786,6 +786,9 @@ Continuously updated (no single publication year):
  - [Johnny's Software Lab](https://johnnysswlab.com/)
  - [Daniel Lemire Blog](https://lemire.me/blog/)
  - [Gigabyte HPC Blog](https://www.gigabyte.com/)
+
+#### Comics 
+  - [The Parallel Minds](https://theparallelminds.substack.com/)
    
 #### Journals
  - [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td) 
