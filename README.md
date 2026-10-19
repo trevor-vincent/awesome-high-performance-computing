@@ -280,6 +280,7 @@ A curated list of awesome high performance computing resources.
 - [OpenCL Cross-Hardware PhysX Benchmarks](https://github.com/ProjectPhysX/OpenCL-Benchmark) - Benchmark across all types of GPU, CPU
 - [MLPerf benchmarks](https://mlcommons.org/benchmarks/)
 - [Flopper.io](https://flopper.io/gpus) - Comparison of GPUs
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - A Bash script that benchmarks a Linux VPS or cloud node (sysbench CPU and memory, fio 4k random IOPS) in about a minute.
 
 #### IO/Visualization Tools for HPC
 - [ADIOS2](https://github.com/ornladios/ADIOS2) - The Adaptable IO System version 2, designed for flexible and efficient I/O for scientific data, supporting a wide range of HPC simulations.
