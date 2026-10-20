@@ -401,6 +401,7 @@ A curated list of awesome high performance computing resources.
 - [NVIDIA Brev](https://developer.nvidia.com/brev)
 - [Runpod](https://www.runpod.io/)
 - [Lium - GPU marketplace, RTX 3090 to 8x B300 hosts, billed per second](https://lium.io/?utm_source=awesome-hpc&utm_medium=listing)
+- [gpu.nz - GPU cloud, RTX 3060 to H200/B200, billed per minute](https://gpu.nz/en)
 
 #### Articles/Papers
 - [The use of Microsoft Azure for high performance cloud computing – A case study](https://www.diva-portal.org/smash/get/diva2:1704798/FULLTEXT01.pdf)
