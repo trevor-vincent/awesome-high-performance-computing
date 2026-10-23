@@ -932,6 +932,7 @@ Continuously updated (no single publication year):
   - [Vim Adventures](https://vim-adventures.com/)
     
 ## Other Curated Lists 
+   - [Unawesome AI Fabric Engineering Resource List](https://github.com/Rewsr/unawesome-ai-fabric-engineering)
    - [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
    - [Parallel Computing Guide](https://github.com/mikeroyal/Parallel-Computing-Guide)
    - [Awesome Parallel Computing](https://github.com/taskflow/awesome-parallel-computing)
