@@ -57,6 +57,7 @@ A curated list of awesome high performance computing resources.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - An easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for Deep Learning Training and Inference
 - [DeterminedAI](https://www.determined.ai/) - Distributed deep learning
 - [Dispenso](https://github.com/facebookincubator/dispenso) - Meta/facebook C++ Task Library 
+- [Faber](https://faberlang.dev) - Experimental statically typed compute language for coding agents and human readers; tensor shapes live in the type, kernels run on CPU, CUDA and Metal device routes, and programs compile to Rust, C, Go, Swift and more
 - [FastFlow](https://github.com/fastflow/fastflow) - High-performance Parallel Patterns in C++
 - [Galois](https://github.com/IntelligentSoftwareSystems/Galois) - A C++ Library to Ease Parallel Programming with Irregular Parallelism
 - [Halide](https://halide-lang.org/index.html#gettingstarted) - A language for fast, portable computation on images and tensors
