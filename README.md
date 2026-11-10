@@ -219,6 +219,7 @@ A curated list of awesome high performance computing resources.
   
 #### Debugging Tools for HPC
 
+- [cuda4cpu](https://github.com/javier-cabezas/cuda4cpu) - Run CUDA and HIP programs on the CPU, unmodified, to debug kernels with gdb, AddressSanitizer and Valgrind, and find missing barriers and thread-order bugs without a GPU.
 - [ddt](https://www.arm.com/products/development-tools/server-and-hpc/forge/ddt) - A powerful debugger designed for developers to solve complex problems on multi-threaded and multi-process environments in HPC.
 - [marmot MPI checker](https://www.lrz.de/services/software/parallel/marmot/) - A tool for detecting and reporting issues in MPI (Message Passing Interface) applications.
 - [python debugging tools](https://wiki.python.org/moin/PythonDebuggingTools) - A collection of tools for debugging Python applications, including pdb and other utilities.
