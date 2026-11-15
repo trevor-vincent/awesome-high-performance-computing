@@ -386,6 +386,7 @@ A curated list of awesome high performance computing resources.
 ### Cloud
 
 - [Awesome Cloud HPC](https://github.com/kjrstory/awesome-cloud-hpc)
+- [ComputeFinder free compute directory](https://computefinder.net/free-compute) - Dated, source linked guide to more than 50 free and funded compute programmes (national HPC allocations, EuroHPC AI Factories, research cloud credits), with eligibility and official next steps.
 
 #### Vendors
 
