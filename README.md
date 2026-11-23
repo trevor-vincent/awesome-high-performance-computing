@@ -196,6 +196,7 @@ A curated list of awesome high performance computing resources.
 - [genv](https://github.com/run-ai/genv) - GPU Environment Management for managing and scheduling GPU resources.
 - [Grafana](https://github.com/grafana/grafana) - Open-source platform for monitoring and observability, visualizing metrics.
 - [grpc](https://grpc.io/) - A high-performance, open-source universal RPC framework.
+- [Horus Runtime](https://github.com/temple-compute/horus-runtime) - Reproducible scientific workflows in YAML or Python that run unchanged on a laptop, a remote machine or a Slurm cluster, with artifact tracking and incremental re-runs.
 - [HPC Rocket](https://github.com/SvenMarcus/hpc-rocket) - Allows submitting Slurm jobs in Continuous Integration (CI) pipelines.
 - [HTCondor](https://research.cs.wisc.edu/htcondor/) - An open-source high-throughput computing software framework.
 - [Jacamar-ci](https://gitlab.com/ecp-ci/jacamar-ci/-/blob/develop/README.md) - CI/CD tool designed for HPC and scientific computing workflows.
