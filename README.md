@@ -204,6 +204,7 @@ A curated list of awesome high performance computing resources.
 - [perun](https://github.com/Helmholtz-AI-Energy/perun) - Energy monitor for HPC systems, focusing on performance and energy efficiency.
 - [Prefect](https://www.prefect.io/) - A workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
 - [Prometheus](https://prometheus.io/) - An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+- [Quachem Workbench](https://github.com/quachem/quachem-workbench) - Quantum chemistry workbench that writes and submits Slurm batch scripts for PySCF and GPU4PySCF jobs and copies the results back.
 - [redun](https://github.com/insitro/redun) - Workflow engine that emphasizes simplicity, reliability, and scalability.
 - [remora](https://github.com/TACC/remora) - Tool for monitoring and reporting the performance of batch jobs on HPC systems.
 - [ruptime](https://github.com/alexmyczko/ruptime) - A utility for monitoring the status of computational jobs and systems.
